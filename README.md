@@ -104,22 +104,6 @@
 
 ---
 
-## 🏆 **Featured Projects**
-
-<div align="center">
-
-| 🎯 **Project** | 🛠️ **Tech Stack** | 📊 **Performance** | 🔗 **Links** |
-|---|---|---|---|
-| **SalesForecaster Pro** | XGBoost, Python, Streamlit | 92% Accuracy | [🔗 Demo](link) |
-| **Traffic Sign Recognition** | CNN, TensorFlow, OpenCV | 99.57% Accuracy | [🔗 Demo](link) |
-| **EduConnect Pakistan** | MERN Stack, MongoDB | Full-featured | [🔗 Live](link) |
-| **Resume Tailor AI** | Next.js, Gemini 2.0, n8n | AI-powered | [🔗 Live](link) |
-| **Flix-AI Recommender** | SVD, Collaborative Filtering | Hybrid System | [🔗 Demo](link) |
-
-</div>
-
----
-
 ## 💪 **Skills Mastery**
 
 <div align="center">
