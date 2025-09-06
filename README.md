@@ -18,18 +18,17 @@
 
 ## 🚀 **About Me**
 
-<div align="center">
-
-### 🎯 **Machine Learning Engineer & Full Stack Developer**
-
-🔬 **Current Focus:** Next.js 14 • AI Integration • MERN Stack • Deep Learning  
-🚧 **Working On:** AI-powered web applications with intelligent automation  
-📚 **Learning:** Advanced MLOps • LangChain • AI Agent Development  
-💬 **Ask Me About:** React • Next.js • Python ML • AI Integration • System Architecture  
-⚡ **Fun Fact:** I achieve 99.57% accuracy in computer vision models! 🎯  
-🎨 **Motto:** *"Code with purpose, build with intelligence!"*
-
-</div>
+```javascript
+const nadeem = {
+    role: "Machine Learning Engineer & Full Stack Developer",
+    currentFocus: ["Next.js 14", "AI Integration", "MERN Stack", "Deep Learning"],
+    workingOn: "AI-powered web applications with intelligent automation",
+    learning: ["Advanced MLOps", "LangChain", "AI Agent Development"],
+    askMeAbout: ["React", "Next.js", "Python ML", "AI Integration", "System Architecture"],
+    funFact: "I achieve 99.57% accuracy in computer vision models! 🎯",
+    motto: "Code with purpose, build with intelligence!"
+};
+```
 
 ---
 
@@ -86,35 +85,29 @@
 <td width="50%">
 
 ### 🌐 **MERN Stack Development**
-<div align="center">
-
-🎯 **Focus:** Full-stack web applications  
-🛠️ **Core Skills:**
-- ⚡ Next.js 14 (App Router, Server Components)
-- ⚛️ React.js with TypeScript
-- 🟢 Node.js + Express.js APIs
-- 🍃 MongoDB + PostgreSQL
-
-🚀 **Recent:** EduConnect Pakistan Platform
-
-</div>
+```yaml
+Focus: Full-stack web applications
+Skills: 
+  - Next.js 14 (App Router, Server Components)
+  - React.js with TypeScript
+  - Node.js + Express.js APIs
+  - MongoDB + PostgreSQL
+Recent: EduConnect Pakistan Platform
+```
 
 </td>
 <td width="50%">
 
 ### 🤖 **AI/ML Engineering**
-<div align="center">
-
-🎯 **Focus:** Intelligent systems & automation  
-🧠 **Core Skills:**
-- 🔬 Deep Learning (CNNs, RNNs, Transformers)
-- 👁️ Computer Vision (99.57% accuracy achieved)
-- 💬 NLP & LLM Integration
-- 🤖 AI Agent Development
-
-🚀 **Recent:** Traffic Sign Recognition System
-
-</div>
+```yaml
+Focus: Intelligent systems & automation
+Skills:
+  - Deep Learning (CNNs, RNNs, Transformers)
+  - Computer Vision (99.57% accuracy achieved)
+  - NLP & LLM Integration
+  - AI Agent Development
+Recent: Traffic Sign Recognition System
+```
 
 </td>
 </tr>
@@ -122,35 +115,29 @@
 <td width="50%">
 
 ### 🚀 **AI-Powered Web Apps**
-<div align="center">
-
-🎯 **Focus:** Intelligent web solutions  
-⚡ **Core Skills:**
-- 🤖 LLM Integration (Gemini 2.0)
-- 🔄 AI-powered workflows (n8n)
-- ⏱️ Real-time AI features
-- 🎯 Automated decision making
-
-🚀 **Recent:** Resume Tailor with AI Analysis
-
-</div>
+```yaml
+Focus: Intelligent web solutions
+Skills:
+  - LLM Integration (Gemini 2.0)
+  - AI-powered workflows (n8n)
+  - Real-time AI features
+  - Automated decision making
+Recent: Resume Tailor with AI Analysis
+```
 
 </td>
 <td width="50%">
 
 ### 📊 **Data Science & Analytics**
-<div align="center">
-
-🎯 **Focus:** Data-driven insights  
-📈 **Core Skills:**
-- 🔮 Predictive Modeling (92% accuracy)
-- 🔧 Feature Engineering & EDA
-- 📈 Time Series Forecasting
-- 💡 Recommendation Systems
-
-🚀 **Recent:** SalesForecaster Pro (XGBoost)
-
-</div>
+```yaml
+Focus: Data-driven insights
+Skills:
+  - Predictive Modeling (92% accuracy)
+  - Feature Engineering & EDA
+  - Time Series Forecasting
+  - Recommendation Systems
+Recent: SalesForecaster Pro (XGBoost)
+```
 
 </td>
 </tr>
