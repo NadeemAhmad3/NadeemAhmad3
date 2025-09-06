@@ -103,30 +103,13 @@
 </div>
 
 ---
-
 ## 💪 **Skills Mastery**
 
 <div align="center">
 
-### **🎨 Frontend Development**
-![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=flat&logo=next.js&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat&logo=react&logoColor=white&labelColor=20232A)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
-
-### **⚙️ Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933)
-![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)
-![Express](https://img.shields.io/badge/Express-85%25-000000?style=flat&logo=express&logoColor=white&labelColor=000000)
-
-### **🤖 AI/ML Engineering**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-92%25-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-88%25-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-90%25-5C3EE8?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
-
-### **🗄️ Database & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791)
-![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED)
+| 🎨 **Frontend** | ⚙️ **Backend** | 🤖 **AI / ML** | 🗄️ **DB & Cloud** |
+|-----------------|----------------|----------------|------------------|
+| ![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=for-the-badge&logo=next.js&logoColor=white) <br> ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Express](https://img.shields.io/badge/Express-85%25-000000?style=for-the-badge&logo=express&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/ML-92%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Deep Learning](https://img.shields.io/badge/DL-88%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![Computer Vision](https://img.shields.io/badge/CV-90%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
