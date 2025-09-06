@@ -1,16 +1,22 @@
-# <div align="center">👋 Hi there! I'm **Nadeem Ahmad**</div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Solutions+Architect+%F0%9F%92%A1;MERN+Stack+Specialist+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions!)](https://git.io/typing-svg)
+
+# 👋 Hi, I’m **Nadeem Ahmad**
+
+---
+
+### 🧑‍💻 Machine Learning Engineer | 🚀 Full-Stack Developer | 💡 AI & Web Solutions Architect  
+
+🌟 *Transforming complex data into intelligent, user-friendly solutions*  
+📍 **Faisalabad, Pakistan** | 🎓 **FAST NUCES** | 💼 *Open for opportunities*
 
 </div>
 
-<div align="center">
-  
-🎯 **Building the future with AI-powered web applications** | 🌟 **Transforming complex data into intelligent solutions**
+---
 
-📍 **Faisalabad, Pakistan** | 🎓 **Software Engineering @ FAST NUCES** | 💼 **Open for opportunities**
+<div align="center">
+
+<!-- Animated headline but more subtle + neutral colors -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+Web+Applications;Turning+Ideas+into+Intelligent+Solutions;MERN+Stack+%26+AI+Integration;Creating+Systems+that+Scale+and+Adapt" alt="Typing SVG" />
 
 </div>
 
