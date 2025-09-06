@@ -15,43 +15,18 @@
 </div>
 
 ---
-## 🚀 About Me  
 
 <div align="center">
+## 🚀 About Me  
 
-### 👨‍💻 Machine Learning Engineer & Full Stack Developer  
-
-🌐 Passionate about blending **AI with web development** to craft intelligent, scalable solutions.  
-📊 Experienced in building from **MERN apps** to **deep learning models** with real-world impact.  
-
----
-
-### 🔥 Current Focus  
-- ⚡ **Next.js 14 & MERN Stack**  
-- 🧠 **AI Integration & GenAI**  
-- 🤖 **Deep Learning & AI Agents**  
-
----
-
-### 📚 Currently Exploring  
-- ⚙️ Advanced **MLOps** practices  
-- 🔗 **LangChain** for LLM workflows  
-- 🤝 **AI-powered automation**  
-
----
-
-### 💡 Ask Me About  
-💻 React • Next.js • Python ML • AI Integration • System Architecture  
-
----
-
-### 🎲 Fun Fact  
-🏆 Reached **99.57% accuracy** in a **custom Computer Vision model**  
-
----
-
-### 🏹 Motto  
-*"Code with purpose, build with intelligence!"*  
+| 💼 **Role** | 🧑‍💻 Machine Learning Engineer & Full Stack Developer |
+|-------------|-------------------------------------------------------|
+| 🎯 **Current Focus** | Next.js 14 • AI Integration • MERN Stack • Deep Learning |
+| ⚡ **Working On** | AI-powered web apps with intelligent automation |
+| 📚 **Learning** | Advanced MLOps • LangChain • AI Agent Development |
+| 💡 **Ask Me About** | React • Next.js • Python ML • AI Integration • System Architecture |
+| 🎲 **Fun Fact** | Achieved **99.57% accuracy** in a custom Computer Vision model |
+| 🏹 **Motto** | *“Code with purpose, build with intelligence!”* |
 
 </div>
 
