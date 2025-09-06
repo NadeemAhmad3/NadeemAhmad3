@@ -19,16 +19,49 @@
 
 <div align="center">
 
-| 💼 **Role** | 🧑‍💻 Machine Learning Engineer & Full Stack Developer |
-|-------------|-------------------------------------------------------|
-| 🎯 **Current Focus** | Next.js 14 • AI Integration • MERN Stack • Deep Learning |
-| ⚡ **Working On** | AI-powered web apps with intelligent automation |
-| 📚 **Learning** | Advanced MLOps • LangChain • AI Agent Development |
-| 💡 **Ask Me About** | React • Next.js • Python ML • AI Integration • System Architecture |
-| 🎲 **Fun Fact** | Achieved **99.57% accuracy** in a custom Computer Vision model |
-| 🏹 **Motto** | *“Code with purpose, build with intelligence!”* |
+### 💼 Role  
+**Machine Learning Engineer & Full Stack Developer**  
+
+---
+
+### 🎯 Current Focus  
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integration-8B5CF6?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-FF1493?style=for-the-badge&logo=spark&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Working On  
+AI-powered **web applications** with **intelligent automation**  
+
+---
+
+### 📚 Learning  
+- Advanced **MLOps**  
+- **LangChain**  
+- **AI Agent Development**  
+
+---
+
+### 💡 Ask Me About  
+React • Next.js • Python ML • AI Integration • System Architecture  
+
+---
+
+### 🎲 Fun Fact  
+Achieved **99.57% accuracy** in a custom **Computer Vision model** 🎯  
+
+---
+
+### 🏹 Motto  
+*“Code with purpose, build with intelligence!”*  
 
 </div>
+
 
 ---
 
