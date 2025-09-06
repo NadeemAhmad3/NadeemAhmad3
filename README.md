@@ -201,23 +201,19 @@
 </div>
 
 ---
----
 
 <div align="center">
 
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/2999/2999900.png" width="70" alt="AI Brain Icon" />
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/566/566985.png" width="70" alt="AI Icon"/>
 </p>
 
-## *"Where AI meets Web Development — Creating intelligent solutions that matter."*
+### 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*  
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeemahmad3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p>
-  ⭐ If this resonated, hit that **Star**—keeps the AI + code loop going.  
-  🤝 Always eager for new projects around **AI, Web Dev, and smart automation**.
-</p>
+
+### 🚀 Always Open to Collaborations  
+⭐ **Star my repositories** if you find them useful  
+🤝 Let’s connect on **AI, Web Development & Intelligent Systems**
 
 </div>
