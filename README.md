@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
 
 # 👋 Hello World! I'm Nadeem Ahmad
@@ -156,4 +154,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ![Snake animation](https://github.com/nadeemahmad3/nadeemahmad3/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-```
