@@ -132,20 +132,6 @@
 
 ---
 
-## 🎓 **Notable Achievements**
-
-<div align="center">
-
-🏆 **99.57% Accuracy** in Traffic Sign Recognition (Custom CNN)  
-🚀 **92% Accuracy** in Sales Forecasting (XGBoost)  
-🤖 **92% Accuracy** in Deepfake Audio Detection  
-💡 **AI-Powered Resume Analysis** with Gemini 2.0 Integration  
-⚡ **Production-Ready** deployments on Vercel with CI/CD  
-
-</div>
-
----
-
 ## 🌟 **Let's Connect & Collaborate!**
 
 <div align="center">
