@@ -1,196 +1,257 @@
-# Hi 👋, I'm [Your Name]
+# <div align="center">👋 Hi there! I'm **Nadeem Ahmad**</div>
 
-### Full-Stack Developer | Data Scientist | Machine Learning Engineer
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Solutions+Architect+%F0%9F%92%A1;MERN+Stack+Specialist+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions!)](https://git.io/typing-svg)
 
-🚀 Passionate about building scalable web applications and extracting insights from data to drive business decisions.
+</div>
 
----
+<div align="center">
+  
+🎯 **Building the future with AI-powered web applications** | 🌟 **Transforming complex data into intelligent solutions**
 
-## 🧑‍💻 About Me
+📍 **Faisalabad, Pakistan** | 🎓 **Software Engineering @ FAST NUCES** | 💼 **Open for opportunities**
 
-- 🔭 I'm currently working on **MERN Stack Applications** and **ML-powered Web Solutions**
-- 🌱 I'm currently learning **Advanced Next.js 14**, **TensorFlow.js**, and **MLOps**
-- 👯 I'm looking to collaborate on **Open Source Projects** and **Data-Driven Applications**
-- 💬 Ask me about **React, Node.js, MongoDB, Python, Machine Learning**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **I love turning complex data into beautiful visualizations!**
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### **Data Science & Machine Learning**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### **Data Visualization**
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 🎯 Current Focus Areas
+## 🚀 **About Me**
+
+```javascript
+const nadeem = {
+    role: "Machine Learning Engineer & Full Stack Developer",
+    currentFocus: ["Next.js 14", "AI Integration", "MERN Stack", "Deep Learning"],
+    workingOn: "AI-powered web applications with intelligent automation",
+    learning: ["Advanced MLOps", "LangChain", "AI Agent Development"],
+    askMeAbout: ["React", "Next.js", "Python ML", "AI Integration", "System Architecture"],
+    funFact: "I achieve 99.57% accuracy in computer vision models! 🎯",
+    motto: "Code with purpose, build with intelligence!"
+};
+```
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **🎨 Frontend Magic**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
+</p>
+
+### **⚙️ Backend Power**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" />
+</p>
+
+### **🗄️ Database Masters**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,prisma" />
+</p>
+
+### **🤖 AI & ML Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### **☁️ Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,gcp" />
+</p>
+
+### **🔧 Tools & More**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 🎯 **Current Focus Areas**
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🌐 **MERN Stack Development**
-- Building responsive, scalable web applications
-- Implementing modern React patterns and hooks
-- Creating RESTful APIs with Node.js and Express
-- Database design and optimization with MongoDB
+```yaml
+Focus: Full-stack web applications
+Skills: 
+  - Next.js 14 (App Router, Server Components)
+  - React.js with TypeScript
+  - Node.js + Express.js APIs
+  - MongoDB + PostgreSQL
+Recent: EduConnect Pakistan Platform
+```
 
-### 🚀 **Next.js Ecosystem**
-- Server-side rendering and static generation
-- API routes and middleware implementation
-- Performance optimization and SEO best practices
-- Integration with headless CMS solutions
+</td>
+<td width="50%">
+
+### 🤖 **AI/ML Engineering**
+```yaml
+Focus: Intelligent systems & automation
+Skills:
+  - Deep Learning (CNNs, RNNs, Transformers)
+  - Computer Vision (99.57% accuracy achieved)
+  - NLP & LLM Integration
+  - AI Agent Development
+Recent: Traffic Sign Recognition System
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 **AI-Powered Web Apps**
+```yaml
+Focus: Intelligent web solutions
+Skills:
+  - LLM Integration (Gemini 2.0)
+  - AI-powered workflows (n8n)
+  - Real-time AI features
+  - Automated decision making
+Recent: Resume Tailor with AI Analysis
+```
+
+</td>
+<td width="50%">
 
 ### 📊 **Data Science & Analytics**
-- Exploratory data analysis and statistical modeling
-- Feature engineering and data preprocessing
-- Building predictive models and recommendation systems
-- Creating interactive dashboards and visualizations
+```yaml
+Focus: Data-driven insights
+Skills:
+  - Predictive Modeling (92% accuracy)
+  - Feature Engineering & EDA
+  - Time Series Forecasting
+  - Recommendation Systems
+Recent: SalesForecaster Pro (XGBoost)
+```
 
-### 🤖 **Machine Learning Engineering**
-- Model development, training, and deployment
-- MLOps pipelines and model monitoring
-- Computer vision and natural language processing
-- Integration of ML models into web applications
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nadeemahmad3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemahmad3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nadeemahmad3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
-
-### 🛒 **E-Commerce MERN Application**
-- **Tech Stack**: React, Node.js, Express, MongoDB, Stripe API
-- **Features**: User authentication, payment integration, admin dashboard
-- **Highlights**: Scalable architecture, responsive design, real-time notifications
-
-### 📱 **Next.js SaaS Platform**
-- **Tech Stack**: Next.js 14, TypeScript, Prisma, PostgreSQL, Tailwind CSS
-- **Features**: Subscription management, dynamic routing, API integration
-- **Highlights**: Server-side rendering, optimized performance, modern UI/UX
-
-### 🔍 **ML-Powered Recommendation System**
-- **Tech Stack**: Python, Pandas, Scikit-learn, Flask, MongoDB
-- **Features**: Collaborative filtering, content-based recommendations
-- **Highlights**: 95% accuracy, real-time predictions, scalable deployment
-
-### 📊 **Data Visualization Dashboard**
-- **Tech Stack**: React, D3.js, Python, FastAPI, PostgreSQL
-- **Features**: Interactive charts, real-time data updates, export functionality
-- **Highlights**: Responsive design, multiple chart types, data filtering
-
----
-
-## 🎓 Jupyter Notebook Projects
-
-### 📋 **Data Analysis Notebooks**
-- **Customer Segmentation Analysis**: K-means clustering and RFM analysis
-- **Sales Forecasting**: Time series analysis with ARIMA models
-- **Market Basket Analysis**: Association rules and pattern mining
-- **A/B Testing Framework**: Statistical hypothesis testing
-
-### 🤖 **Machine Learning Notebooks**
-- **Image Classification**: CNN models with TensorFlow/Keras
-- **Natural Language Processing**: Sentiment analysis and text classification
-- **Predictive Modeling**: Regression and classification algorithms
-- **Deep Learning Projects**: Neural networks for various use cases
-
----
-
-## 🌟 Skills Breakdown
-
-### **Frontend Development (90%)**
-```
-React.js/Next.js     ████████████████████ 95%
-TypeScript/JavaScript████████████████████ 90%
-HTML/CSS/SCSS        █████████████████    85%
-UI/UX Design         ███████████████      75%
-```
-
-### **Backend Development (85%)**
-```
-Node.js/Express      ████████████████████ 90%
-Python/Flask/FastAPI █████████████████    85%
-Database Design      ████████████████     80%
-API Development      ████████████████████ 95%
-```
-
-### **Data Science & ML (80%)**
-```
-Python Data Stack    █████████████████    85%
-Machine Learning     ███████████████      75%
-Data Visualization   ████████████████████ 90%
-Statistical Analysis ████████████████     80%
-```
-
----
-
-## 📫 Let's Connect!
+## 🏆 **Featured Projects**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+| 🎯 **Project** | 🛠️ **Tech Stack** | 📊 **Performance** | 🔗 **Links** |
+|---|---|---|---|
+| **SalesForecaster Pro** | XGBoost, Python, Streamlit | 92% Accuracy | [🔗 Demo](link) |
+| **Traffic Sign Recognition** | CNN, TensorFlow, OpenCV | 99.57% Accuracy | [🔗 Demo](link) |
+| **EduConnect Pakistan** | MERN Stack, MongoDB | Full-featured | [🔗 Live](link) |
+| **Resume Tailor AI** | Next.js, Gemini 2.0, n8n | AI-powered | [🔗 Live](link) |
+| **Flix-AI Recommender** | SVD, Collaborative Filtering | Hybrid System | [🔗 Demo](link) |
+
+</div>
+
+---
+
+## 💪 **Skills Mastery**
+
+<div align="center">
+
+### **🎨 Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=flat&logo=next.js&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat&logo=react&logoColor=white&labelColor=20232A)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
+
+### **⚙️ Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933)
+![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)
+![Express](https://img.shields.io/badge/Express-85%25-000000?style=flat&logo=express&logoColor=white&labelColor=000000)
+
+### **🤖 AI/ML Engineering**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-92%25-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-88%25-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-90%25-5C3EE8?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
+
+### **🗄️ Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791)
+![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED)
+
+</div>
+
+---
+
+## 🎓 **Notable Achievements**
+
+<div align="center">
+
+🏆 **99.57% Accuracy** in Traffic Sign Recognition (Custom CNN)  
+🚀 **92% Accuracy** in Sales Forecasting (XGBoost)  
+🤖 **92% Accuracy** in Deepfake Audio Detection  
+💡 **AI-Powered Resume Analysis** with Gemini 2.0 Integration  
+⚡ **Production-Ready** deployments on Vercel with CI/CD  
+
+</div>
+
+---
+
+## 🌟 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
+[![Email](https://img.shields.io/badge/📧_Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeemahmad2703@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923117133585)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 "Turning data into insights, code into solutions, and ideas into reality."
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+### 💫 **"Where AI meets Web Development - Creating intelligent solutions that matter!"**
+
+<img src="https://komarev.com/ghpvc/?username=nadeemahmad3&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+![Snake animation](https://github.com/nadeemahmad3/nadeemahmad3/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+
+**⭐ Star my repositories if you find them useful! | 🤝 Always open to interesting collaborations**
 
 </div>
