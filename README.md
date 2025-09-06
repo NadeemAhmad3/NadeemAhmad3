@@ -1,144 +1,240 @@
+# <div align="center">👋 Hi there! I'm **Nadeem Ahmad**</div>
+
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Solutions+Architect+%F0%9F%92%A1;MERN+Stack+Specialist+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions!)](https://git.io/typing-svg)
 
-# 👋 Hello World! I'm Nadeem Ahmad
+</div>
 
-### **Machine Learning Engineer | Full Stack Developer | AI Solutions Architect**
+<div align="center">
+  
+🎯 **Building the future with AI-powered web applications** | 🌟 **Transforming complex data into intelligent solutions**
 
-🎯 **Building intelligent web experiences with AI-powered functionality**  
-🌟 **Transforming complex problems into elegant solutions**  
-📍 **Based in Faisalabad, Pakistan** | 🎓 **Software Engineering @ FAST NUCES**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeemahmad2703@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923117133585)
+📍 **Faisalabad, Pakistan** | 🎓 **Software Engineering @ FAST NUCES** | 💼 **Open for opportunities**
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-<div align="center">
+## 🚀 **About Me**
 
 ```javascript
 const nadeem = {
-    pronouns: "he/him",
-    code: ["Python", "JavaScript", "TypeScript", "Java"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Angular"],
-            css: ["Tailwind", "Material UI", "Bootstrap", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot"]
-        },
-        devOps: ["Docker", "AWS", "Google Cloud", "Kubernetes", "Nginx"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Elasticsearch"],
-        mlStack: ["TensorFlow", "PyTorch", "Keras", "Scikit-learn", "OpenCV"]
-    },
-    architecture: ["Microservices", "Serverless Architectures", "Progressive Web Apps", "Single Page Applications"],
-    currentFocus: "Building AI-powered web applications with intelligent automation",
-    funFact: "Achieved 99.57% accuracy in computer vision models! 🎯"
+    role: "Machine Learning Engineer & Full Stack Developer",
+    currentFocus: ["Next.js 14", "AI Integration", "MERN Stack", "Deep Learning"],
+    workingOn: "AI-powered web applications with intelligent automation",
+    learning: ["Advanced MLOps", "LangChain", "AI Agent Development"],
+    askMeAbout: ["React", "Next.js", "Python ML", "AI Integration", "System Architecture"],
+    funFact: "I achieve 99.57% accuracy in computer vision models! 🎯",
+    motto: "Code with purpose, build with intelligence!"
 };
 ```
 
-</div>
-
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+### **🎨 Frontend Magic**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
+</p>
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+### **⚙️ Backend Power**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" />
+</p>
 
-### **AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+### **🗄️ Database Masters**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,prisma" />
+</p>
 
-### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### **🤖 AI & ML Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-</div>
+### **☁️ Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,gcp" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nadeemahmad3&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Nadeem's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemahmad3&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&theme=redical&hide_border=true&area=true" alt="Activity Graph" height="165"/>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=nadeemahmad3&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=6)
+### **🔧 Tools & More**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🎯 **Current Focus Areas**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 **MERN Stack Development**
+```yaml
+Focus: Full-stack web applications
+Skills: 
+  - Next.js 14 (App Router, Server Components)
+  - React.js with TypeScript
+  - Node.js + Express.js APIs
+  - MongoDB + PostgreSQL
+Recent: EduConnect Pakistan Platform
+```
+
+</td>
+<td width="50%">
+
+### 🤖 **AI/ML Engineering**
+```yaml
+Focus: Intelligent systems & automation
+Skills:
+  - Deep Learning (CNNs, RNNs, Transformers)
+  - Computer Vision (99.57% accuracy achieved)
+  - NLP & LLM Integration
+  - AI Agent Development
+Recent: Traffic Sign Recognition System
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 **AI-Powered Web Apps**
+```yaml
+Focus: Intelligent web solutions
+Skills:
+  - LLM Integration (Gemini 2.0)
+  - AI-powered workflows (n8n)
+  - Real-time AI features
+  - Automated decision making
+Recent: Resume Tailor with AI Analysis
+```
+
+</td>
+<td width="50%">
+
+### 📊 **Data Science & Analytics**
+```yaml
+Focus: Data-driven insights
+Skills:
+  - Predictive Modeling (92% accuracy)
+  - Feature Engineering & EDA
+  - Time Series Forecasting
+  - Recommendation Systems
+Recent: SalesForecaster Pro (XGBoost)
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
 
-| Project | Description | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **SalesForecaster Pro** | Predictive sales analytics platform with 92% accuracy | XGBoost, Python, Streamlit | [🔗 Demo](link) |
-| **Traffic Sign Recognition** | AI-powered recognition system with 99.57% accuracy | CNN, TensorFlow, OpenCV | [🔗 Demo](link) |
-| **EduConnect Pakistan** | Educational platform connecting students and institutions | MERN Stack, MongoDB | [🔗 Live](link) |
-| **Resume Tailor AI** | Intelligent resume analysis and optimization tool | Next.js, Gemini 2.0, n8n | [🔗 Live](link) |
-| **Flix-AI Recommender** | Hybrid movie recommendation system | SVD, Collaborative Filtering | [🔗 Demo](link) |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nadeemahmad3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemahmad3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=nadeemahmad3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6)
 
 </div>
 
 ---
 
-## 🌟 Notable Achievements
-
-- 🏆 **99.57% Accuracy** in Traffic Sign Recognition using Custom CNN Architecture
-- 🚀 **92% Accuracy** in Sales Forecasting with XGBoost Optimization
-- 🤖 **92% Accuracy** in Deepfake Audio Detection System
-- 💡 **AI-Powered Resume Analysis** with Gemini 2.0 Integration
-- ⚡ **Production-Ready Deployments** on Vercel with CI/CD Pipelines
-- 🏅 **Hackathon Winner** in National AI Competition 2024
-
----
-
-## 📫 Let's Connect!
+## 🏆 **Featured Projects**
 
 <div align="center">
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+| 🎯 **Project** | 🛠️ **Tech Stack** | 📊 **Performance** | 🔗 **Links** |
+|---|---|---|---|
+| **SalesForecaster Pro** | XGBoost, Python, Streamlit | 92% Accuracy | [🔗 Demo](link) |
+| **Traffic Sign Recognition** | CNN, TensorFlow, OpenCV | 99.57% Accuracy | [🔗 Demo](link) |
+| **EduConnect Pakistan** | MERN Stack, MongoDB | Full-featured | [🔗 Live](link) |
+| **Resume Tailor AI** | Next.js, Gemini 2.0, n8n | AI-powered | [🔗 Live](link) |
+| **Flix-AI Recommender** | SVD, Collaborative Filtering | Hybrid System | [🔗 Demo](link) |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeemahmad2703@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923117133585)
+</div>
+
+---
+
+## 💪 **Skills Mastery**
+
+<div align="center">
+
+### **🎨 Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=flat&logo=next.js&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat&logo=react&logoColor=white&labelColor=20232A)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
+
+### **⚙️ Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933)
+![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)
+![Express](https://img.shields.io/badge/Express-85%25-000000?style=flat&logo=express&logoColor=white&labelColor=000000)
+
+### **🤖 AI/ML Engineering**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-92%25-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-88%25-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-90%25-5C3EE8?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
+
+### **🗄️ Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791)
+![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED)
+
+</div>
+
+---
+
+## 🎓 **Notable Achievements**
+
+<div align="center">
+
+🏆 **99.57% Accuracy** in Traffic Sign Recognition (Custom CNN)  
+🚀 **92% Accuracy** in Sales Forecasting (XGBoost)  
+🤖 **92% Accuracy** in Deepfake Audio Detection  
+💡 **AI-Powered Resume Analysis** with Gemini 2.0 Integration  
+⚡ **Production-Ready** deployments on Vercel with CI/CD  
+
+</div>
+
+---
+
+## 🌟 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
+[![Email](https://img.shields.io/badge/📧_Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeemahmad2703@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923117133585)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -146,11 +242,16 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nadeemahmad3&color=blueviolet&style=for-the-badge&label=Profile+Views)
+### 💫 **"Where AI meets Web Development - Creating intelligent solutions that matter!"**
 
-**⭐ Star my repositories if you find them useful!**  
-**🤝 Open to collaborations and interesting projects**
+<img src="https://komarev.com/ghpvc/?username=nadeemahmad3&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 
 ![Snake animation](https://github.com/nadeemahmad3/nadeemahmad3/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+
+**⭐ Star my repositories if you find them useful! | 🤝 Always open to interesting collaborations**
 
 </div>
