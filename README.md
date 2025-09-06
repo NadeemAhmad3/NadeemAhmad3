@@ -201,27 +201,23 @@
 </div>
 
 ---
+---
 
 <div align="center">
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/566/566985.png" width="70" alt="AI Icon"/>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/2999/2999900.png" width="70" alt="AI Brain Icon" />
 </p>
 
-### 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*  
+## *"Where AI meets Web Development — Creating intelligent solutions that matter."*
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadeemahmad3&style=flat-square&color=blueviolet&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/nadeemahmad3?style=flat-square&color=0A66C2&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/nadeemahmad3?style=flat-square&color=FFD700&logo=github&label=Stars" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nadeemahmad3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
----
-
-### 🚀 Always Open to Collaborations  
-⭐ **Star my repositories** if you find them useful  
-🤝 Let’s connect on **AI, Web Development & Intelligent Systems**
+<p>
+  ⭐ If this resonated, hit that **Star**—keeps the AI + code loop going.  
+  🤝 Always eager for new projects around **AI, Web Dev, and smart automation**.
+</p>
 
 </div>
