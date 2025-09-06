@@ -55,11 +55,10 @@
 ### **🤖 AI & ML Stack**
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://path_to_icon/scikitlearn.svg" alt="scikit-learn" width="30" height="30" />  
+  <img src="https://path_to_icon/xgboost.svg" alt="XGBoost" width="30" height="30" />  
+  <img src="https://path_to_icon/opencv.svg" alt="OpenCV" width="30" height="30" />  
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ### **☁️ Cloud & DevOps**
