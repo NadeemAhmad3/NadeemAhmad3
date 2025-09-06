@@ -107,53 +107,72 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 ### 🎨 Frontend Development
 | Skill | Proficiency |
 |-------|-------------|
-| ⚛️ **React** | ![React](https://img.shields.io/badge/90%25-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A) |
-| ▲ **Next.js** | ![Next.js](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000) |
-| 🌐 **TypeScript** | ![TS](https://img.shields.io/badge/85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6) |
-| 🎨 **TailwindCSS** | ![Tailwind](https://img.shields.io/badge/90%25-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38B2AC) |
+| ⚛️ React | ![React](https://img.shields.io/badge/90%25-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A) |
+| ▲ Next.js | ![Next.js](https://img.shields.io/badge/95%25-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000) |
+| 🌐 TypeScript | ![TS](https://img.shields.io/badge/85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6) |
+| 🎨 TailwindCSS | ![Tailwind](https://img.shields.io/badge/90%25-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38B2AC) |
 
----
+</td>
+<td>
 
 ### ⚙️ Backend Development
 | Skill | Proficiency |
 |-------|-------------|
-| 🟢 **Node.js** | ![Node](https://img.shields.io/badge/90%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933) |
-| 🐍 **Python** | ![Python](https://img.shields.io/badge/95%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB) |
-| 🚀 **Express.js** | ![Express](https://img.shields.io/badge/85%25-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000) |
-| ⚡ **FastAPI** | ![FastAPI](https://img.shields.io/badge/75%25-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688) |
+| 🟢 Node.js | ![Node](https://img.shields.io/badge/90%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933) |
+| 🐍 Python | ![Python](https://img.shields.io/badge/95%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB) |
+| 🚀 Express.js | ![Express](https://img.shields.io/badge/85%25-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000) |
+| ⚡ FastAPI | ![FastAPI](https://img.shields.io/badge/75%25-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688) |
 
----
+</td>
+<td>
 
-### 🤖 AI & ML Engineering
+### 🤖 AI & ML
 | Skill | Proficiency |
 |-------|-------------|
-| 🧠 **Machine Learning** | ![ML](https://img.shields.io/badge/92%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00) |
-| 🔥 **Deep Learning** | ![DL](https://img.shields.io/badge/88%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C) |
-| 👁️ **Computer Vision** | ![CV](https://img.shields.io/badge/90%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=5C3EE8) |
-| 🔗 **LangChain** | ![LangChain](https://img.shields.io/badge/80%25-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00E0A1&labelColor=1C3C3C) |
+| 🧠 ML | ![ML](https://img.shields.io/badge/92%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00) |
+| 🔥 Deep Learning | ![DL](https://img.shields.io/badge/88%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C) |
+| 👁️ Computer Vision | ![CV](https://img.shields.io/badge/90%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=5C3EE8) |
+| 🔗 LangChain | ![LangChain](https://img.shields.io/badge/80%25-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00E0A1&labelColor=1C3C3C) |
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td>
 
 ### ☁️ Database & Cloud
 | Skill | Proficiency |
 |-------|-------------|
-| 🍃 **MongoDB** | ![Mongo](https://img.shields.io/badge/85%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248) |
-| 🐘 **PostgreSQL** | ![Postgres](https://img.shields.io/badge/80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791) |
-| 🐳 **Docker** | ![Docker](https://img.shields.io/badge/75%25-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED) |
-| ☁️ **AWS** | ![AWS](https://img.shields.io/badge/70%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900) |
+| 🍃 MongoDB | ![Mongo](https://img.shields.io/badge/85%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248) |
+| 🐘 PostgreSQL | ![Postgres](https://img.shields.io/badge/80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791) |
+| 🐳 Docker | ![Docker](https://img.shields.io/badge/75%25-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED) |
+| ☁️ AWS | ![AWS](https://img.shields.io/badge/70%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900) |
 
----
+</td>
+<td>
 
-### 🔧 Tools & Collaboration
+### 🔧 Tools & More
 | Tool | Proficiency |
 |------|-------------|
-| 🔧 **Git** | ![Git](https://img.shields.io/badge/90%25-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032) |
-| 💻 **VS Code** | ![VS Code](https://img.shields.io/badge/95%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC) |
-| 📒 **Jupyter** | ![Jupyter](https://img.shields.io/badge/90%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626) |
-| 📊 **Streamlit** | ![Streamlit](https://img.shields.io/badge/85%25-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B) |
+| 🔧 Git | ![Git](https://img.shields.io/badge/90%25-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032) |
+| 💻 VS Code | ![VS Code](https://img.shields.io/badge/95%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC) |
+| 📒 Jupyter | ![Jupyter](https://img.shields.io/badge/90%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626) |
+| 📊 Streamlit | ![Streamlit](https://img.shields.io/badge/85%25-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B) |
+
+</td>
+</tr>
+</table>
 
 </div>
 
