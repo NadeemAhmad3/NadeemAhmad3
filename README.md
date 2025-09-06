@@ -201,35 +201,27 @@
 </div>
 
 ---
----
 
 <div align="center">
 
-## 💫 Crafting the Future  
-
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="60" />
+  <img src="https://cdn-icons-png.flaticon.com/512/566/566985.png" width="70" alt="AI Icon"/>
 </p>
 
-### *"Where AI meets Web Development — Creating intelligent solutions that matter!"*
+### 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*  
 
 ---
 
-### 📈 Profile Insights  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadeemahmad3&style=for-the-badge&color=0e75b6&label=Profile+Visitors" />
-  <img src="https://img.shields.io/github/followers/nadeemahmad3?label=Followers&style=for-the-badge&color=green" />
-  <img src="https://img.shields.io/github/stars/nadeemahmad3?affiliations=OWNER&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=nadeemahmad3&style=flat-square&color=blueviolet&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/nadeemahmad3?style=flat-square&color=0A66C2&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/nadeemahmad3?style=flat-square&color=FFD700&logo=github&label=Stars" />
 </p>
 
 ---
 
-### 🤝 Let’s Build Something Amazing Together  
-
-<p align="center">
-  ⭐ If you like my work, give it a star — it keeps me motivated!  
-  <br/>
-  🚀 Always open to **collaborations, AI-driven projects, and innovative ideas**.  
-</p>
+### 🚀 Always Open to Collaborations  
+⭐ **Star my repositories** if you find them useful  
+🤝 Let’s connect on **AI, Web Development & Intelligent Systems**
 
 </div>
