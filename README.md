@@ -54,12 +54,12 @@
 
 ### **🤖 AI & ML Stack**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="./assets/icons/scikit-learn.svg" width="40" />
-  <img src="./assets/icons/xgboost.svg" width="40" />
-  <img src="./assets/icons/opencv.svg" width="40" />
-  <img src="./assets/icons/pandas.svg" width="40" />
-  <img src="./assets/icons/numpy.svg" width="40" />
+   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 
 </p>
 
