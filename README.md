@@ -19,48 +19,42 @@
 
 <div align="center">
 
-### 💼 Role  
-**Machine Learning Engineer & Full Stack Developer**  
+### 👨‍💻 Machine Learning Engineer & Full Stack Developer  
+
+🌐 Passionate about blending **AI with web development** to craft intelligent, scalable solutions.  
+📊 Experienced in building from **MERN apps** to **deep learning models** with real-world impact.  
 
 ---
 
-### 🎯 Current Focus  
-<p>
-  <img src="https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Integration-8B5CF6?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-FF1493?style=for-the-badge&logo=spark&logoColor=white" />
-</p>
+### 🔥 Current Focus  
+- ⚡ **Next.js 14 & MERN Stack**  
+- 🧠 **AI Integration & GenAI**  
+- 🤖 **Deep Learning & AI Agents**  
 
 ---
 
-### ⚡ Working On  
-AI-powered **web applications** with **intelligent automation**  
-
----
-
-### 📚 Learning  
-- Advanced **MLOps**  
-- **LangChain**  
-- **AI Agent Development**  
+### 📚 Currently Exploring  
+- ⚙️ Advanced **MLOps** practices  
+- 🔗 **LangChain** for LLM workflows  
+- 🤝 **AI-powered automation**  
 
 ---
 
 ### 💡 Ask Me About  
-React • Next.js • Python ML • AI Integration • System Architecture  
+💻 React • Next.js • Python ML • AI Integration • System Architecture  
 
 ---
 
 ### 🎲 Fun Fact  
-Achieved **99.57% accuracy** in a custom **Computer Vision model** 🎯  
+🏆 Reached **99.57% accuracy** in a **custom Computer Vision model**  
 
 ---
 
 ### 🏹 Motto  
-*“Code with purpose, build with intelligence!”*  
+*"Code with purpose, build with intelligence!"*  
 
 </div>
+
 
 
 ---
