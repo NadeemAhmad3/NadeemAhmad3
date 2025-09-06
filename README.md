@@ -210,7 +210,6 @@
 
 ## 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*
 
----
 
 
 <table>
@@ -239,7 +238,6 @@
 </tr>
 </table>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer"/>
