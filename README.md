@@ -15,22 +15,20 @@
 </div>
 
 ---
+## 🚀 About Me  
 
+<div align="center">
 
+| 💼 **Role** | 🧑‍💻 Machine Learning Engineer & Full Stack Developer |
+|-------------|-------------------------------------------------------|
+| 🎯 **Current Focus** | Next.js 14 • AI Integration • MERN Stack • Deep Learning |
+| ⚡ **Working On** | AI-powered web apps with intelligent automation |
+| 📚 **Learning** | Advanced MLOps • LangChain • AI Agent Development |
+| 💡 **Ask Me About** | React • Next.js • Python ML • AI Integration • System Architecture |
+| 🎲 **Fun Fact** | Achieved **99.57% accuracy** in a custom Computer Vision model |
+| 🏹 **Motto** | *“Code with purpose, build with intelligence!”* |
 
-## 🚀 **About Me**
-
-```javascript
-const nadeem = {
-    role: "Machine Learning Engineer & Full Stack Developer",
-    currentFocus: ["Next.js 14", "AI Integration", "MERN Stack", "Deep Learning"],
-    workingOn: "AI-powered web applications with intelligent automation",
-    learning: ["Advanced MLOps", "LangChain", "AI Agent Development"],
-    askMeAbout: ["React", "Next.js", "Python ML", "AI Integration", "System Architecture"],
-    funFact: "I achieve 99.57% accuracy in computer vision models! 🎯",
-    motto: "Code with purpose, build with intelligence!"
-};
-```
+</div>
 
 ---
 
