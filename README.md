@@ -211,16 +211,7 @@
 ## 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*
 
 ---
----
 
-<div align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/566/566985.png" width="70" alt="AI Icon"/>
-
-<h2>💡 Where AI meets Web Development</h2>
-<p><em>Creating intelligent solutions that matter!</em></p>
-
----
 
 <table>
 <tr>
