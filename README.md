@@ -201,19 +201,35 @@
 </div>
 
 ---
+---
 
 <div align="center">
 
-### 💫 **"Where AI meets Web Development - Creating intelligent solutions that matter!"**
+## 💫 Crafting the Future  
 
-<img src="https://komarev.com/ghpvc/?username=nadeemahmad3&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="60" />
+</p>
 
-![Snake animation](https://github.com/nadeemahmad3/nadeemahmad3/blob/output/github-contribution-grid-snake.svg)
+### *"Where AI meets Web Development — Creating intelligent solutions that matter!"*
 
-</div>
+---
 
-<div align="center">
+### 📈 Profile Insights  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadeemahmad3&style=for-the-badge&color=0e75b6&label=Profile+Visitors" />
+  <img src="https://img.shields.io/github/followers/nadeemahmad3?label=Followers&style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/stars/nadeemahmad3?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</p>
 
-**⭐ Star my repositories if you find them useful! | 🤝 Always open to interesting collaborations**
+---
+
+### 🤝 Let’s Build Something Amazing Together  
+
+<p align="center">
+  ⭐ If you like my work, give it a star — it keeps me motivated!  
+  <br/>
+  🚀 Always open to **collaborations, AI-driven projects, and innovative ideas**.  
+</p>
 
 </div>
