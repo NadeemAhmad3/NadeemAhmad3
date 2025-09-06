@@ -109,173 +109,107 @@
 
 ### 🔥 **Expertise Levels**
 
-<table>
+<div align="center">
+
+<table width="100%" cellpadding="10">
 <tr>
-<td width="50%">
+<td width="48%" valign="top">
 
 #### **🎨 Frontend Wizardry**
-```text
-Next.js           ████████████████████░   95%
-React.js          ████████████████████░   90%
-TypeScript        ███████████████████░░   85%
-JavaScript        ████████████████████░   92%
-HTML5/CSS3        ████████████████████░   88%
-Tailwind CSS      ███████████████████░░   87%
-```
+
+<div align="left">
+
+**Next.js** `⚡ Expert`
+<img src="https://progress-bar.dev/95/?scale=100&title=Done&width=300&color=000000&suffix=%20(95%25)" />
+
+**React.js** `🚀 Expert`
+<img src="https://progress-bar.dev/90/?scale=100&title=Done&width=300&color=61DAFB&suffix=%20(90%25)" />
+
+**TypeScript** `🎯 Advanced`
+<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=3178C6&suffix=%20(85%25)" />
+
+**JavaScript** `⭐ Expert`
+<img src="https://progress-bar.dev/92/?scale=100&title=Done&width=300&color=F7DF1E&suffix=%20(92%25)" />
+
+**Tailwind CSS** `🎨 Advanced`
+<img src="https://progress-bar.dev/87/?scale=100&title=Done&width=300&color=06B6D4&suffix=%20(87%25)" />
+
+</div>
 
 #### **🤖 AI/ML Engineering**
-```text
-Machine Learning  ████████████████████░   92%
-Deep Learning     ███████████████████░░   88%
-Computer Vision   ████████████████████░   90%
-NLP Processing    ███████████████████░░   85%
-Data Science      ████████████████████░   89%
-MLOps            ██████████████████░░░   82%
-```
+
+<div align="left">
+
+**Machine Learning** `🧠 Expert`
+<img src="https://progress-bar.dev/92/?scale=100&title=Done&width=300&color=FF6B35&suffix=%20(92%25)" />
+
+**Deep Learning** `🔥 Advanced`
+<img src="https://progress-bar.dev/88/?scale=100&title=Done&width=300&color=EE4C2C&suffix=%20(88%25)" />
+
+**Computer Vision** `👁️ Expert`
+<img src="https://progress-bar.dev/90/?scale=100&title=Done&width=300&color=5C3EE8&suffix=%20(90%25)" />
+
+**NLP Processing** `💬 Advanced`
+<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=00C851&suffix=%20(85%25)" />
+
+**Data Science** `📊 Expert`
+<img src="https://progress-bar.dev/89/?scale=100&title=Done&width=300&color=FF8A65&suffix=%20(89%25)" />
+
+</div>
 
 </td>
-<td width="50%">
+<td width="4%"></td>
+<td width="48%" valign="top">
 
 #### **⚙️ Backend Mastery**
-```text
-Node.js           ████████████████████░   90%
-Python            ████████████████████░   95%
-Express.js        ███████████████████░░   85%
-FastAPI           ██████████████████░░░   80%
-REST APIs         ████████████████████░   93%
-GraphQL           ██████████████████░░░   78%
-```
 
-#### **🗄️ Database & Cloud**
-```text
-MongoDB           ███████████████████░░   85%
-PostgreSQL        ██████████████████░░░   80%
-Prisma ORM        ███████████████████░░   83%
-Docker            ██████████████████░░░   75%
-AWS Services      █████████████████░░░░   72%
-Git/GitHub        ████████████████████░   95%
-```
+<div align="left">
+
+**Python** `🐍 Expert`
+<img src="https://progress-bar.dev/95/?scale=100&title=Done&width=300&color=3776AB&suffix=%20(95%25)" />
+
+**Node.js** `🟢 Expert`
+<img src="https://progress-bar.dev/90/?scale=100&title=Done&width=300&color=339933&suffix=%20(90%25)" />
+
+**Express.js** `🚄 Advanced`
+<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=000000&suffix=%20(85%25)" />
+
+**FastAPI** `⚡ Advanced`
+<img src="https://progress-bar.dev/80/?scale=100&title=Done&width=300&color=009688&suffix=%20(80%25)" />
+
+**REST APIs** `🌐 Expert`
+<img src="https://progress-bar.dev/93/?scale=100&title=Done&width=300&color=FF5722&suffix=%20(93%25)" />
+
+</div>
+
+#### **🗄️ Database & DevOps**
+
+<div align="left">
+
+**MongoDB** `🍃 Advanced`
+<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=47A248&suffix=%20(85%25)" />
+
+**PostgreSQL** `🐘 Advanced`
+<img src="https://progress-bar.dev/80/?scale=100&title=Done&width=300&color=336791&suffix=%20(80%25)" />
+
+**Docker** `🐳 Intermediate`
+<img src="https://progress-bar.dev/75/?scale=100&title=Done&width=300&color=2496ED&suffix=%20(75%25)" />
+
+**Git/GitHub** `🔧 Expert`
+<img src="https://progress-bar.dev/95/?scale=100&title=Done&width=300&color=181717&suffix=%20(95%25)" />
+
+**AWS Services** `☁️ Intermediate`
+<img src="https://progress-bar.dev/72/?scale=100&title=Done&width=300&color=FF9900&suffix=%20(72%25)" />
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
-
-### 🏆 **Skill Categories**
-
-<div align="center">
-
-| **🚀 Core Competencies** | **🎯 Specializations** | **🌱 Learning Path** |
-|:------------------------:|:----------------------:|:--------------------:|
-| **Full Stack Development** | **AI Integration** | **Advanced MLOps** |
-| `⭐⭐⭐⭐⭐` | `⭐⭐⭐⭐⭐` | `⭐⭐⭐⭐☆` |
-| **MERN Stack** | **Computer Vision** | **LangChain** |
-| `⭐⭐⭐⭐⭐` | `⭐⭐⭐⭐⭐` | `⭐⭐⭐⭐☆` |
-| **Python ML/AI** | **Web Automation** | **AI Agents** |
-| `⭐⭐⭐⭐⭐` | `⭐⭐⭐⭐☆` | `⭐⭐⭐☆☆` |
-
-</div>
-
----
-
-### 🎯 **Technology Proficiency Matrix**
-
-<div align="center">
-
-<details>
-<summary><b>🎨 Frontend Technologies</b></summary>
-<br>
-
-| Technology | Experience | Projects | Proficiency |
-|:---------:|:----------:|:--------:|:-----------:|
-| **Next.js 14** | 2+ years | 15+ | ![95%](https://progress-bar.dev/95?color=000000&width=200) |
-| **React.js** | 2+ years | 20+ | ![90%](https://progress-bar.dev/90?color=61DAFB&width=200) |
-| **TypeScript** | 1.5+ years | 12+ | ![85%](https://progress-bar.dev/85?color=3178C6&width=200) |
-| **Tailwind CSS** | 2+ years | 18+ | ![87%](https://progress-bar.dev/87?color=06B6D4&width=200) |
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend Technologies</b></summary>
-<br>
-
-| Technology | Experience | Projects | Proficiency |
-|:---------:|:----------:|:--------:|:-----------:|
-| **Node.js** | 2+ years | 15+ | ![90%](https://progress-bar.dev/90?color=339933&width=200) |
-| **Python** | 3+ years | 25+ | ![95%](https://progress-bar.dev/95?color=3776AB&width=200) |
-| **Express.js** | 2+ years | 12+ | ![85%](https://progress-bar.dev/85?color=000000&width=200) |
-| **FastAPI** | 1+ years | 8+ | ![80%](https://progress-bar.dev/80?color=009688&width=200) |
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML Technologies</b></summary>
-<br>
-
-| Technology | Experience | Projects | Proficiency |
-|:---------:|:----------:|:--------:|:-----------:|
-| **TensorFlow** | 2+ years | 10+ | ![88%](https://progress-bar.dev/88?color=FF6F00&width=200) |
-| **PyTorch** | 1.5+ years | 8+ | ![85%](https://progress-bar.dev/85?color=EE4C2C&width=200) |
-| **Scikit-learn** | 2.5+ years | 15+ | ![92%](https://progress-bar.dev/92?color=F7931E&width=200) |
-| **OpenCV** | 2+ years | 12+ | ![90%](https://progress-bar.dev/90?color=5C3EE8&width=200) |
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Tools</b></summary>
-<br>
-
-| Technology | Experience | Projects | Proficiency |
-|:---------:|:----------:|:--------:|:-----------:|
-| **MongoDB** | 2+ years | 18+ | ![85%](https://progress-bar.dev/85?color=47A248&width=200) |
-| **PostgreSQL** | 1.5+ years | 10+ | ![80%](https://progress-bar.dev/80?color=336791&width=200) |
-| **Docker** | 1+ years | 8+ | ![75%](https://progress-bar.dev/75?color=2496ED&width=200) |
-| **Git/GitHub** | 3+ years | 50+ | ![95%](https://progress-bar.dev/95?color=181717&width=200) |
-
-</details>
-
-</div>
-
----
-
-### 🎖️ **Achievement Badges**
-
-<div align="center">
-
-![Full Stack Developer](https://img.shields.io/badge/🏆_Full_Stack-Developer-FF6B6B?style=for-the-badge&labelColor=4ECDC4)
-![AI Engineer](https://img.shields.io/badge/🤖_AI-Engineer-45B7D1?style=for-the-badge&labelColor=96CEB4)
-![ML Specialist](https://img.shields.io/badge/📊_ML-Specialist-FFEAA7?style=for-the-badge&labelColor=DDA0DD)
-![Problem Solver](https://img.shields.io/badge/🧩_Problem-Solver-A29BFE?style=for-the-badge&labelColor=FD79A8)
-
-</div>
-
----
-
-### 📈 **Learning Journey**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Computer Science] --> B[💻 Web Development]
-    B --> C[🐍 Python & ML]
-    C --> D[🤖 AI Integration]
-    D --> E[🚀 Full Stack + AI]
-    E --> F[🔮 Future: MLOps & AI Agents]
-    
-    style A fill:#ff9999
-    style B fill:#66b3ff
-    style C fill:#99ff99
-    style D fill:#ffcc99
-    style E fill:#ff99cc
-    style F fill:#c2c2f0
-```
-
 </div>
 
 </div>
-
 ---
 
 ## 🌟 **Let's Connect & Collaborate!**
