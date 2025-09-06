@@ -204,16 +204,20 @@
 
 <div align="center">
 
-<p align="center">
+<p>
   <img src="https://cdn-icons-png.flaticon.com/512/566/566985.png" width="70" alt="AI Icon"/>
 </p>
 
-### 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*  
+## 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*
 
+---
 
+### 🌟 Stay Connected & Collaborate
 
-### 🚀 Always Open to Collaborations  
-⭐ **Star my repositories** if you find them useful  
-🤝 Let’s connect on **AI, Web Development & Intelligent Systems**
+[![Collaboration Badge](https://img.shields.io/badge/🤝-Open%20to%20Collaborations-0A66C2?style=for-the-badge&logo=handshake&logoColor=white)](mailto:nadeemahmad2703@gmail.com)  
+[![Star Badge](https://img.shields.io/badge/⭐-Star%20my%20Repositories-F7DF1E?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/nadeemahmad3?tab=repositories)  
+[![Connect Badge](https://img.shields.io/badge/🚀-AI%20%26%20Web%20Development%20Discussions-10B981?style=for-the-badge&logo=wechat&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
+
+---
 
 </div>
