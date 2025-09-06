@@ -178,16 +178,32 @@
 
 ---
 
-## 🌟 **Let's Connect & Collaborate!**
+---
+
+## 🌟 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
-[![Email](https://img.shields.io/badge/📧_Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeemahmad2703@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923117133585)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:nadeemahmad2703@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/923117133585" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" />
+</a>
 
 </div>
+
+---
+
 
 ---
 
