@@ -103,113 +103,33 @@
 </div>
 
 ---
+
 ## 💪 **Skills Mastery**
 
 <div align="center">
 
-### 🔥 **Expertise Levels**
+### **🎨 Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-95%25-black?style=flat&logo=next.js&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat&logo=react&logoColor=white&labelColor=20232A)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
 
-<div align="center">
+### **⚙️ Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-90%25-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933)
+![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)
+![Express](https://img.shields.io/badge/Express-85%25-000000?style=flat&logo=express&logoColor=white&labelColor=000000)
 
-<table width="100%" cellpadding="10">
-<tr>
-<td width="48%" valign="top">
+### **🤖 AI/ML Engineering**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-92%25-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-88%25-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-90%25-5C3EE8?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
 
-#### **🎨 Frontend Wizardry**
-
-<div align="left">
-
-**Next.js** `⚡ Expert`
-<img src="https://progress-bar.dev/95/?scale=100&title=Done&width=300&color=000000&suffix=%20(95%25)" />
-
-**React.js** `🚀 Expert`
-<img src="https://progress-bar.dev/90/?scale=100&title=Done&width=300&color=61DAFB&suffix=%20(90%25)" />
-
-**TypeScript** `🎯 Advanced`
-<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=3178C6&suffix=%20(85%25)" />
-
-**JavaScript** `⭐ Expert`
-<img src="https://progress-bar.dev/92/?scale=100&title=Done&width=300&color=F7DF1E&suffix=%20(92%25)" />
-
-**Tailwind CSS** `🎨 Advanced`
-<img src="https://progress-bar.dev/87/?scale=100&title=Done&width=300&color=06B6D4&suffix=%20(87%25)" />
+### **🗄️ Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791)
+![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED)
 
 </div>
 
-#### **🤖 AI/ML Engineering**
-
-<div align="left">
-
-**Machine Learning** `🧠 Expert`
-<img src="https://progress-bar.dev/92/?scale=100&title=Done&width=300&color=FF6B35&suffix=%20(92%25)" />
-
-**Deep Learning** `🔥 Advanced`
-<img src="https://progress-bar.dev/88/?scale=100&title=Done&width=300&color=EE4C2C&suffix=%20(88%25)" />
-
-**Computer Vision** `👁️ Expert`
-<img src="https://progress-bar.dev/90/?scale=100&title=Done&width=300&color=5C3EE8&suffix=%20(90%25)" />
-
-**NLP Processing** `💬 Advanced`
-<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=00C851&suffix=%20(85%25)" />
-
-**Data Science** `📊 Expert`
-<img src="https://progress-bar.dev/89/?scale=100&title=Done&width=300&color=FF8A65&suffix=%20(89%25)" />
-
-</div>
-
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-#### **⚙️ Backend Mastery**
-
-<div align="left">
-
-**Python** `🐍 Expert`
-<img src="https://progress-bar.dev/95/?scale=100&title=Done&width=300&color=3776AB&suffix=%20(95%25)" />
-
-**Node.js** `🟢 Expert`
-<img src="https://progress-bar.dev/90/?scale=100&title=Done&width=300&color=339933&suffix=%20(90%25)" />
-
-**Express.js** `🚄 Advanced`
-<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=000000&suffix=%20(85%25)" />
-
-**FastAPI** `⚡ Advanced`
-<img src="https://progress-bar.dev/80/?scale=100&title=Done&width=300&color=009688&suffix=%20(80%25)" />
-
-**REST APIs** `🌐 Expert`
-<img src="https://progress-bar.dev/93/?scale=100&title=Done&width=300&color=FF5722&suffix=%20(93%25)" />
-
-</div>
-
-#### **🗄️ Database & DevOps**
-
-<div align="left">
-
-**MongoDB** `🍃 Advanced`
-<img src="https://progress-bar.dev/85/?scale=100&title=Done&width=300&color=47A248&suffix=%20(85%25)" />
-
-**PostgreSQL** `🐘 Advanced`
-<img src="https://progress-bar.dev/80/?scale=100&title=Done&width=300&color=336791&suffix=%20(80%25)" />
-
-**Docker** `🐳 Intermediate`
-<img src="https://progress-bar.dev/75/?scale=100&title=Done&width=300&color=2496ED&suffix=%20(75%25)" />
-
-**Git/GitHub** `🔧 Expert`
-<img src="https://progress-bar.dev/95/?scale=100&title=Done&width=300&color=181717&suffix=%20(95%25)" />
-
-**AWS Services** `☁️ Intermediate`
-<img src="https://progress-bar.dev/72/?scale=100&title=Done&width=300&color=FF9900&suffix=%20(72%25)" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</div>
 ---
 
 ## 🌟 **Let's Connect & Collaborate!**
