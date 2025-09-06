@@ -211,13 +211,47 @@
 ## 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*
 
 ---
+---
 
-### 🌟 Stay Connected & Collaborate
+<div align="center">
 
-[![Collaboration Badge](https://img.shields.io/badge/🤝-Open%20to%20Collaborations-0A66C2?style=for-the-badge&logo=handshake&logoColor=white)](mailto:nadeemahmad2703@gmail.com)  
-[![Star Badge](https://img.shields.io/badge/⭐-Star%20my%20Repositories-F7DF1E?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/nadeemahmad3?tab=repositories)  
-[![Connect Badge](https://img.shields.io/badge/🚀-AI%20%26%20Web%20Development%20Discussions-10B981?style=for-the-badge&logo=wechat&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
+<img src="https://cdn-icons-png.flaticon.com/512/566/566985.png" width="70" alt="AI Icon"/>
+
+<h2>💡 Where AI meets Web Development</h2>
+<p><em>Creating intelligent solutions that matter!</em></p>
 
 ---
+
+<table>
+<tr>
+<td align="center">
+  
+<img src="https://cdn-icons-png.flaticon.com/512/1483/1483336.png" width="50" /><br/>
+<h3>🚀 Collaborations</h3>
+<p>Always open to building cool things together</p>
+
+</td>
+<td align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="50" /><br/>
+<h3>⭐ Support</h3>
+<p>Star my repositories if you find them useful</p>
+
+</td>
+<td align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="50" /><br/>
+<h3>🤝 Connect</h3>
+<p>AI • Web Dev • Intelligent Systems</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer"/>
+</p>
 
 </div>
