@@ -1,26 +1,20 @@
+# <div align="center">👋 Hi there! I'm **Nadeem Ahmad**</div>
+
 <div align="center">
-
-# 👋 Hi there! I'm **Nadeem Ahmad**
-
----
-
-### 🧑‍💻 Machine Learning Engineer & Full Stack Developer  
-🚀 AI & Web Solutions Architect | ⚡ MERN Stack Specialist  
-🎯 Turning ideas into **intelligent, scalable solutions**
-
----
-
-<!-- Subtle badge row for quick scan -->
-<p>
-  <img src="https://img.shields.io/badge/🌍%20Building-AI%20Powered%20Web%20Apps-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📊%20Data-Driven%20AI%20Solutions-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀%20Open-For%20Opportunities-FF5722?style=for-the-badge" />
-</p>
-
-📍 **Faisalabad, Pakistan** | 🎓 **FAST NUCES** | 💼 *Always open to collaborations*
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Solutions+Architect+%F0%9F%92%A1;MERN+Stack+Specialist+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions!)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
+  
+🎯 **Building the future with AI-powered web applications** | 🌟 **Transforming complex data into intelligent solutions**
+
+📍 **Faisalabad, Pakistan** | 🎓 **Software Engineering @ FAST NUCES** | 💼 **Open for opportunities**
+
+</div>
+
+---
 
 ## 🚀 **About Me**
 
