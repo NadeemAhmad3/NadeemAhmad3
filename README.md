@@ -15,9 +15,8 @@
 </div>
 
 ---
-
-<div align="center">
 ## 🚀 About Me  
+<div align="center">
 
 | 💼 **Role** | 🧑‍💻 Machine Learning Engineer & Full Stack Developer |
 |-------------|-------------------------------------------------------|
