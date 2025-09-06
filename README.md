@@ -177,7 +177,6 @@
 </div>
 
 ---
-
 ---
 
 ## 🌟 Let's Connect
@@ -196,14 +195,13 @@
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" />
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" title="Portfolio" />
 </a>
 
 </div>
 
 ---
-
 
 ---
 
