@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4B5563&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Solutions+Architect+%F0%9F%92%A1;MERN+Stack+Specialist+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Solutions+Architect+%F0%9F%92%A1;MERN+Stack+Specialist+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions!)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,6 +15,7 @@
 </div>
 
 ---
+
 
 
 ## 🚀 **About Me**
