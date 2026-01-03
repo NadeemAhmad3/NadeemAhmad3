@@ -15,9 +15,9 @@
 </div>
 
 ---
-
-<div align="center">
 ##  About Me  
+<div align="center">
+
 
 |  **Role** | GenAI Engineer & Full Stack Developer |
 |-------------|-------------------------------------------------------|
