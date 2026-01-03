@@ -72,9 +72,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemAhmad3&theme=radical&hide_border=true" width="48%" />
     <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&hide_border=true&area=true" />
 </div>
-<div align="center">
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&hide_border=true&area=true" />
-</div>
+
 
 <div align="center">
 
