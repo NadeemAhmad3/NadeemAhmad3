@@ -69,7 +69,7 @@
 ##  **GitHub Analytics Dashboard**
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=dracula&hide_border=true&ring=FFD700&fire=FF4500" />
 </div>
 
 <div align="center">
