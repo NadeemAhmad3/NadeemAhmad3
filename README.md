@@ -18,14 +18,14 @@
 ## 🚀 About Me  
 <div align="center">
 
-| 💼 **Role** | 🧑‍💻 Machine Learning Engineer & Full Stack Developer |
+| 💼 **Role** | GenAI Engineer & Full Stack Developer |
 |-------------|-------------------------------------------------------|
-| 🎯 **Current Focus** | Next.js 14 • AI Integration • MERN Stack • Deep Learning |
-| ⚡ **Working On** | AI-powered web apps with intelligent automation |
-| 📚 **Learning** | Advanced MLOps • LangChain • AI Agent Development |
-| 💡 **Ask Me About** | React • Next.js • Python ML • AI Integration • System Architecture |
-| 🎲 **Fun Fact** | Achieved **99.57% accuracy** in a custom Computer Vision model |
-| 🏹 **Motto** | *“Code with purpose, build with intelligence!”* |
+| 🎯 **Current Focus** | Next.js 14 • Custom LLMs • MERN Stack • RAG Architectures |
+| ⚡ **Working On** | Fine-tuning Transformers (GPT/T5) & Building AI Agents from scratch |
+| 📚 **Learning** | Multi-Modal AI • Advanced MLOps • Efficient Model Scaling (PEFT/LoRA) |
+| 💡 **Ask Me About** | React • Next.js • Transformers Architecture • LangChain • NLP |
+| 🎲 **Fun Fact** | Engineered a Transformer from scratch (no pre-trained weights) |
+| 🏹 **Motto** | “Building intelligence from first principles, deploying it at scale.” |
 
 </div>
 
