@@ -56,16 +56,11 @@
    <p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
-### **☁️ Cloud & DevOps**
+### **Cloud & DevOps**
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,gcp,linux" />
 
-### **🔧 Tools & More**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
+### **Tools & More**
+<p> <img src="https://skillicons.dev/icons?i=vscode,jupyter,postman,figma" /> <img
 
 </div>
 
