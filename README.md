@@ -54,14 +54,10 @@
 ### **AI, NLP & Computer Vision**
 <p>
    <p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
- <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" /> <img src="https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=openai&logoColor=white" />
-
 </p>
 
 ### **☁️ Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,gcp" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,gcp,linux" />
 
 ### **🔧 Tools & More**
 <p>
