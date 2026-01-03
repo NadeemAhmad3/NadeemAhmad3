@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## **Tech Arsenal**
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,gcp,linux" />
 
 ### **Tools & More**
-<p> <img src="https://skillicons.dev/icons?i=vscode,jupyter,postman,figma" /> <img
+<p> <img src="https://skillicons.dev/icons?i=vscode,postman,figma" /> <img
 
 </div>
 
