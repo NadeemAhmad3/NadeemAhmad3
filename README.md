@@ -40,7 +40,7 @@
 
 ### **Frontend Magic**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,php,cs,bootstrap,sass,redux,materialui,jquery"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,php,cs,bootstrap,sass,redux,vue,angular,svelte"/>
 </p>
 
 ### **⚙️ Backend Power**
