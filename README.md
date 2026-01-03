@@ -44,14 +44,12 @@
 </p>
 
 ### **⚙️ Backend Power**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" />
+<p> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,cs,dotnet" /> 
 </p>
 
 ### **🗄️ Database Masters**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,prisma" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite" /> <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FA551E?style=for-the-badge&logo=database&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-20232A?style=for-the-badge&logo=opentelemetry&logoColor=white" /> </p>
 
 ### **🤖 AI & ML Stack**
 <p>
