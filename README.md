@@ -66,10 +66,10 @@
 
 ---
 
-## 📊 **GitHub Analytics Dashboard**
+##  **GitHub Analytics Dashboard**
 
 <div align="center">
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=tokyonight&hide_border=true" />
 
