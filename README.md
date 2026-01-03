@@ -43,22 +43,18 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,php,cs,bootstrap,sass,redux,vue,angular,svelte"/>
 </p>
 
-### **⚙️ Backend Power**
+### **Backend Power**
 <p> 
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django,cs,dotnet" /> 
 </p>
 
-### **🗄️ Database Masters**
-<p> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite" /> <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FA551E?style=for-the-badge&logo=database&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-20232A?style=for-the-badge&logo=opentelemetry&logoColor=white" /> </p>
+### **Database Masters**
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite" />
 
-### **🤖 AI & ML Stack**
+### **AI, NLP & Computer Vision**
 <p>
-   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+   <p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+ <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" /> <img src="https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=openai&logoColor=white" />
 
 </p>
 
