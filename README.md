@@ -75,13 +75,6 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=radical" />
 </div>
 
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=nadeemahmad3&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6)
-
-</div>
-
 ---
 ## 💪 **Skills Mastery**
 
