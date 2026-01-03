@@ -68,10 +68,7 @@
 
 ##  **GitHub Analytics Dashboard**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeemahmad3&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=radical&hide_border=true" width="48%" />
-</div>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemahmad3&theme=tokyonight&hide_border=true" />
 <div align="center">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemahmad3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
