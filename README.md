@@ -72,9 +72,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemAhmad3&theme=radical&hide_border=true" width="48%" />
 </div>
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemahmad3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&theme=tokyo-night&hide_border=true&area=true" />
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&theme=radical&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&bg_color=141321&color=fe428e&line=fe428e&point=ffffff&hide_border=true&area=true" />
 </div>
 
 <div align="center">
