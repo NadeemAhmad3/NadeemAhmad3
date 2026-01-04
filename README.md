@@ -75,8 +75,6 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=radical" />
 </div>
 
----
-
 ## 🌟 Let's Connect
 
 <div align="center">
@@ -99,6 +97,25 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+
+<a href="mailto:nadeemahmad2703@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+</a>
+
+<a href="https://wa.me/923117133585" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+</a>
+
+<a href="https://professional-portfolio-livid-nine.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
+
+</div>
 ---
 
 <div align="center">
