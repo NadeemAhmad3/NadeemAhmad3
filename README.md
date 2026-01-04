@@ -76,15 +76,6 @@
 </div>
 
 ---
-## 📂 Featured Projects
-
-| 🏆 **Project** | 📝 **Description** | 🛠 **Stack** |
-|:---|:---|:---|
-| **Empathetic Chatbot** | Built a **Transformer Encoder-Decoder** from scratch (no pre-trained weights) achieving emotional dialogue generation. | `PyTorch` `Attention Mechanisms` `Streamlit` |
-| **Medical RAG Agent** | Engineered a compliance & QA bot using **LangChain & Gemini**, grounding answers in medical transcriptions. | `LangChain` `Gemini API` `FAISS` `RAG` |
-| **DocuGen AI** | Automated Python docstring generation using **Custom BPE Tokenization** and **Bi-LSTM** networks. | `LSTM/GRU` `Word2Vec` `Custom Tokenizer` |
-| **Multi-Modal Fine-Tuning** | Fine-tuned **GPT-2** (Recipes), **T5** (Summarization), and **ViT** (Food Vision) for specialized tasks. | `Hugging Face` `Transformers` `ViT` |
----
 
 ## 🌟 Let's Connect
 
