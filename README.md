@@ -75,7 +75,7 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=radical" />
 </div>
 
-## 🌟 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -96,65 +96,30 @@
 </a>
 
 </div>
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/nadeem-ahmad3/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
-
-<a href="mailto:nadeemahmad2703@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-</a>
-
-<a href="https://wa.me/923117133585" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-</a>
-
-<a href="https://professional-portfolio-livid-nine.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-</a>
-
-</div>
----
-
-<div align="center">
-
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/566/566985.png" width="70" alt="AI Icon"/>
-</p>
-
-## 💡 *"Where AI meets Web Development — Creating intelligent solutions that matter!"*
-
-
-
 <table>
-<tr>
-<td align="center">
-  
-<img src="https://cdn-icons-png.flaticon.com/512/1483/1483336.png" width="50" /><br/>
-<h3>🚀 Collaborations</h3>
-<p>Always open to building cool things together</p>
-
-</td>
-<td align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="50" /><br/>
-<h3>⭐ Support</h3>
-<p>Star my repositories if you find them useful</p>
-
-</td>
-<td align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="50" /><br/>
-<h3>🤝 Connect</h3>
-<p>AI • Web Dev • Intelligent Systems</p>
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="60" />
+      <br>
+      <h3> Collaborations</h3>
+      <p>Open to Open Source & <br> GenAI Research</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="60" />
+      <br>
+      <h3> Support</h3>
+      <p>Star my repositories if <br> you find them useful</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" />
+      <br>
+      <h3> Services</h3>
+      <p>Freelance AI Agents & <br> Web Architecture</p>
+    </td>
+  </tr>
 </table>
-
-
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer"/>
 </p>
