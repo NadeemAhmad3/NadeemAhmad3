@@ -100,7 +100,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="60" />
+     <img src="https://cdn-icons-png.flaticon.com/512/1483/1483336.png" width="50" />
       <br>
       <h3> Collaborations</h3>
       <p>Open to Open Source & <br> GenAI Research</p>
@@ -112,7 +112,7 @@
       <p>Star my repositories if <br> you find them useful</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" />
+     <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="50" />
       <br>
       <h3> Services</h3>
       <p>Freelance AI Agents & <br> Web Architecture</p>
