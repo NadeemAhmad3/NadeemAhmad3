@@ -36,8 +36,16 @@ I exist at the **intersection of two worlds** that most people keep separate: th
 
 When you work with me, you get end-to-end ownership:
 <div align="center"> 
+  
   > *"concept → architecture → model → product → deployment."*
+  
  </div>
+
+ <div align="center">
+
+> *"Most developers build applications. I build intelligent systems — where software is the vehicle and AI is the engine."*
+
+</div>
 
 ---
 
