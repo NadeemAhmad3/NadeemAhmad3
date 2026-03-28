@@ -230,6 +230,16 @@ This is proof of **mathematical ownership** — I understand what's happening in
 ![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square)
 ![ControlNet](https://img.shields.io/badge/ControlNet-EC4899?style=flat-square)
+</br>
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-090909?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFFFFF?style=flat-square&logo=langchain&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=flat-square&logo=weaviate&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Frontend
 <p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux,vue,svelte,sass,bootstrap"/></p>
