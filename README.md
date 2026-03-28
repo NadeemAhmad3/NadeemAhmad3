@@ -23,6 +23,21 @@
 
 ---
 
+
+## 🧬 The Architecture of Intelligence
+
+<div align="center">
+
+> *"Most developers build applications. I build intelligent systems — where software is the vehicle and AI is the engine."*
+
+</div>
+
+I exist at the **intersection of two worlds** that most people keep separate: the disciplined architecture of software engineering and the mathematical depth of Generative AI. Based in **Faisalabad, Pakistan**, shaped by **FAST NUCES Software Engineering**, and driven by one mission — to architect the next generation of intelligent, autonomous systems.
+
+I don't just consume AI via high-level APIs. I go **all the way down** — from designing Transformer architectures from pure code to deploying full-stack AI-integrated web platforms. When you work with me, you get **end-to-end ownership**: concept → architecture → model → product → deployment.
+
+---
+
 ##  About Me  
 <div align="center">
 
