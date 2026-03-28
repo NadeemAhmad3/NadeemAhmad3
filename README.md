@@ -37,6 +37,61 @@ I exist at the **intersection of two worlds** that most people keep separate: th
  <h2>concept → architecture → model → product → deployment.</h2>
  </div>
 
+## ◈ What I Actually Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Text-Based AI (LLMs)
+**Models I work with deeply:**
+> `BERT` · `BART` · `T5` · `GPT` · `LLaMA` · `DeepSeek`
+
+- **Fine-Tuning** — LoRA, QLoRA, PEFT on HuggingFace models for domain-specific accuracy
+- **RAG Systems** — Hybrid search, re-ranking, multi-query, agentic retrieval — full pipeline
+- **Chatbots & Copilots** — Context-aware, memory-enabled, tool-using conversational AI
+- **Built Transformer from Scratch** — Self-attention, positional encoding, encoder-decoder — zero pre-trained weights, pure PyTorch math
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ Image-Based AI (Vision Models)
+**Models I work with deeply:**
+> `GAN` · `cGAN` · `ESRGAN` · `Pix2Pix` · `Stable Diffusion`
+
+- **GANs & Conditional GANs** — Image synthesis, style control, conditional generation
+- **ESRGAN** — Super-resolution, restoring low-quality images to high fidelity
+- **Pix2Pix** — Image-to-image translation, domain transformation
+- **Diffusion Models** — Stable Diffusion pipelines, ControlNet, custom LoRA training for image generation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents & Automation
+**What I build beyond chatbots:**
+- **ReAct Agents** — Autonomous reasoning + action loops
+- **Multi-Agent Pipelines** — Specialized agents collaborating via LangGraph
+- **Tool-Using Systems** — APIs, databases, web search, code execution
+- **Memory Architectures** — Short-term, long-term, vectorstore-backed memory
+- **Business Automation** — Customer service, reporting, content generation — hands-free
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Web (AI-Native)
+**How I ship it to the world:**
+- **Next.js 14 + MERN** — Modern, scalable, production-ready web apps
+- **AI-Integrated Platforms** — Real-time streaming AI responses in web UIs
+- **Unique Frontend Design** — No templates. Custom visual identity every time
+- **API Architecture** — Clean REST/GraphQL backends purpose-built for AI workflows
+- **Cloud Deployment** — Vercel, AWS, GCP — optimized for AI workloads
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧠 Who I Am at a Glance
