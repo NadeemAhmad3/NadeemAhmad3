@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nadeemahmad2703@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://professional-portfolio-livid-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
@@ -273,15 +273,6 @@ This is proof of **mathematical ownership** — I understand what's happening in
 | Multi-agent autonomous systems | Cloud-deployed, scalable architecture | Intelligent content generation pipelines |
 
 </div>
----
-
-## 🌱 Currently Exploring
-
-- 🖼️ **Multi-Modal AI** — Vision-language models (LLaVA, CLIP, Stable Diffusion) and their integration into production systems
-- 🕸️ **Graph RAG** — Knowledge graphs for superior reasoning and retrieval over complex relational data
-- ⚡ **Efficient Inference** — vLLM, TensorRT-LLM, and speculative decoding for deploying LLMs at scale
-- 🌐 **AI-Native Web Apps** — Next.js + Vercel AI SDK for streaming AI applications
-- 🔗 **MCP (Model Context Protocol)** — Tool-use standardization for production AI agents
 
 ---
 
@@ -299,10 +290,10 @@ This is proof of **mathematical ownership** — I understand what's happening in
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="mailto:nadeemahmad2703@gmail.com">
+      <a href="mailto:engrnadeem26@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55"/><br/>
         <b>Email</b><br/>
-        <sub>nadeemahmad2703@gmail.com</sub>
+        <sub>engrnadeem26@gmail.com</sub>
       </a>
     </td>
     <td align="center" width="25%">
