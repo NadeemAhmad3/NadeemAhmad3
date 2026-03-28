@@ -260,42 +260,19 @@ This is proof of **mathematical ownership** — I understand what's happening in
 
 ---
 
-## 🏆 Achievements & Highlights
+## ◈ What I Can Build For You
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NadeemAhmad3&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/NadeemAhmad3/github-profile-trophy)
+| 🧠 AI Systems | 🌐 Web Platforms | ⚙️ Business Automation |
+|:---|:---|:---|
+| Custom LLM fine-tuned for your domain | Next.js 14 + MERN full-stack apps | AI agents running 24/7 without humans |
+| RAG over your internal knowledge base | AI-integrated, real-time web platforms | Auto customer service & support bots |
+| Conversational AI copilots & chatbots | Unique, creative UI — never templated | Automated reporting from live data |
+| Image generation & vision pipelines | REST/GraphQL APIs for AI workflows | End-to-end workflow orchestration |
+| Multi-agent autonomous systems | Cloud-deployed, scalable architecture | Intelligent content generation pipelines |
 
 </div>
-
----
-
-## 💼 What I Can Do For You
-
-<div align="center">
-
-```
-┌──────────────────────┬──────────────────────┬──────────────────────┐
-│   🤖 AI SOLUTIONS    │  🌐 WEB DEVELOPMENT  │  ⚙️ AUTOMATION       │
-├──────────────────────┼──────────────────────┼──────────────────────┤
-│ Custom LLM fine-     │ Full-stack apps with │ Business process     │
-│ tuning for your      │ Next.js 14 & MERN    │ automation with AI   │
-│ business domain      │ stack — unique,      │ agents that work     │
-│                      │ creative, fast       │ 24/7 without humans  │
-│ RAG systems for      │                      │                      │
-│ your internal docs   │ AI-integrated web    │ Autonomous workflows │
-│ & knowledge bases    │ platforms with       │ that chain APIs,     │
-│                      │ real-time AI         │ DBs, and decisions   │
-│ Multi-agent systems  │ capabilities         │                      │
-│ for complex tasks    │                      │ Customer service,    │
-│                      │ Dynamic dashboards   │ data pipelines,      │
-│ Multi-modal apps     │ & admin panels       │ content generation   │
-│ (text + vision)      │                      │ — fully automated    │
-└──────────────────────┴──────────────────────┴──────────────────────┘
-```
-
-</div>
-
 ---
 
 ## 🌱 Currently Exploring
