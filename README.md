@@ -258,12 +258,13 @@ This is proof of **mathematical ownership** — I understand what's happening in
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=tokyonight" />
 </div>
 
+---
 
 ## 🏆 Achievements & Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NadeemAhmad3&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NadeemAhmad3&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/NadeemAhmad3/github-profile-trophy)
 
 </div>
 
