@@ -254,6 +254,11 @@ This is proof of **mathematical ownership** — I understand what's happening in
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
 </div>
 
+<div align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=tokyonight" />
+</div>
+
+
 ## 🏆 Achievements & Highlights
 
 <div align="center">
