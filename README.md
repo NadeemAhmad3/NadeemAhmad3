@@ -37,9 +37,10 @@ I exist at the **intersection of two worlds** that most people keep separate: th
 When you work with me, you get end-to-end ownership:
 <div align="center"> 
   
-  > #"concept → architecture → model → product → deployment."#
+  > *"concept → architecture → model → product → deployment."*
   
  </div>
+ >
 ---
 
 ##  About Me  
