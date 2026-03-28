@@ -214,6 +214,35 @@ This is proof of **mathematical ownership** — I understand what's happening in
 
 ---
 
+## ◈ Tech Arsenal
+
+<div align="center">
+
+### AI & Machine Learning
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python"/></p>
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square)
+![ControlNet](https://img.shields.io/badge/ControlNet-EC4899?style=flat-square)
+
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux,vue,svelte,sass,bootstrap"/></p>
+
+### Backend & Databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,mongodb,postgresql,mysql,redis,sqlite"/></p>
+
+### Cloud & DevOps
+<p><img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,linux,postman,figma,vscode"/></p>
+
+</div>
+
+---
 
 
 ## 📊 GitHub Command Center
