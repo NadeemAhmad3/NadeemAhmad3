@@ -20,7 +20,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=flat-square&color=10B981&label=Profile+Views)
 
 </div>
+
 ---
+
 ##  About Me  
 <div align="center">
 
