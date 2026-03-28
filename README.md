@@ -31,9 +31,12 @@
 
 </div>
 
-I exist at the **intersection of two worlds** that most people keep separate: the disciplined architecture of software engineering and the mathematical depth of Generative AI. Based in **Faisalabad, Pakistan**, shaped by **FAST NUCES Software Engineering**, and driven by one mission — to architect the next generation of intelligent, autonomous systems.
+I exist at the **intersection of two worlds** that most people keep separate: the disciplined architecture of **software engineering** and the mathematical depth of **Generative AI**. Based in **Faisalabad, Pakistan**, shaped by **FAST NUCES Software Engineering**, and driven by one mission — to architect the next generation of intelligent, autonomous systems.
 
-I don't just consume AI via high-level APIs. I go **all the way down** — from designing Transformer architectures from pure code to deploying full-stack AI-integrated web platforms. When you work with me, you get **end-to-end ownership**: concept → architecture → model → product → deployment.
+ When you work with me, you get **end-to-end ownership**: 
+ <div align="center">
+ <h2>concept → architecture → model → product → deployment.</h2>
+ </div>
 
 ---
 
