@@ -33,7 +33,7 @@
 
 I exist at the **intersection of two worlds** that most people keep separate: the disciplined architecture of **software engineering** and the mathematical depth of **Generative AI**. Based in **Faisalabad, Pakistan**, shaped by **FAST NUCES Software Engineering**, and driven by one mission — to architect the next generation of intelligent, autonomous systems.
  <div align="center">
-  > *"When you work with me, you get **end-to-end ownership**:"* 
+  > *"When you work with me, you get **end-to-end ownership:"* 
  <h2>concept → architecture → model → product → deployment.</h2>
  </div>
 
