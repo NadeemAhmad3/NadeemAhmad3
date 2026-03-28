@@ -1,32 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Nadeem%20Ahmad&fontSize=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=10B981&animation=twinkling&fontAlignY=40&desc=Generative%20AI%20Engineer%20%7C%20Full%20Stack%20Architect&descSize=18&descAlignY=62&descFontColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Nadeem%20Ahmad&fontSize=65&color=0:0d1117,50:161b27,100:0d1117&fontColor=10B981&stroke=10B981&strokeWidth=2&fontAlignY=55&desc=Generative%20AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descSize=16&descAlignY=78&descFontColor=6e7681"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=🧠+Architecting+Intelligent+Systems;🔬+Building+Transformers+from+Scratch;⚡+RAG+%7C+LangChain+%7C+AI+Agents;🌐+Full+Stack+%2B+GenAI+Engineer;🚀+Turning+Ideas+into+Autonomous+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Text+LLMs+%7C+Image+Models+%7C+AI+Agents;Fine-Tuning+%7C+RAG+Pipelines+%7C+Transformers;MERN+%7C+Next.js+14+%7C+AI-Integrated+Web+Apps;End-to-End%3A+Idea+%E2%86%92+Model+%E2%86%92+Product)](https://git.io/typing-svg)
 
-<br/>
+</div>
 
-<a href="https://www.linkedin.com/in/nadeem-ahmad3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nadeemahmad2703@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/923117133585">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://professional-portfolio-livid-nine.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<div align="center">
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nadeemahmad2703@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://professional-portfolio-livid-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=10B981)
-![GitHub followers](https://img.shields.io/github/followers/NadeemAhmad3?style=for-the-badge&color=a78bfa)
+![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=flat-square&color=10B981&label=Profile+Views)
 
 </div>
 
