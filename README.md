@@ -243,25 +243,20 @@ This is proof of **mathematical ownership** — I understand what's happening in
 </div>
 
 ---
-
-
-## 📊 GitHub Command Center
+## ◈ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemAhmad3&theme=tokyonight&hide_border=true&stroke=10B981&ring=a78bfa&fire=10B981&currStreakLabel=10B981" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=tokyonight&hide_border=true&icon_color=10B981&title_color=a78bfa&text_color=ffffff" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=github_dark&hide_border=true&icon_color=10B981&title_color=10B981&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeemAhmad3&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&bg_color=1a1b27&color=a78bfa&line=10B981&point=ffffff&hide_border=true&area=true&area_color=10B981" width="49%"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeemAhmad3&layout=compact&theme=github_dark&hide_border=true&title_color=10B981&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadeemahmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="49%"/>
 </div>
 
 ---
+
 
 ## 🏆 Achievements & Highlights
 
