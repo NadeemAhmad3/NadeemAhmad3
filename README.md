@@ -344,7 +344,7 @@ This is proof of **mathematical ownership** — I understand what's happening in
 
 <div align="center">
 
-br/><br/>
+
 
 *The gap between an AI researcher and a software engineer is where most projects stall.*
 *I close that gap — and ship.*
