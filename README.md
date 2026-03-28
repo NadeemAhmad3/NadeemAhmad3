@@ -93,6 +93,127 @@ I exist at the **intersection of two worlds** that most people keep separate: th
 </table>
 
 ---
+## ◈ Deep Expertise — Expanded
+
+<details>
+<summary><b>🔬 LLM Fine-Tuning — What I actually do under the hood</b></summary>
+<br/>
+
+| Technique | Where I Apply It |
+|---|---|
+| **LoRA** | Parameter-efficient adapter training on BERT, GPT, LLaMA |
+| **QLoRA** | 4-bit quantized fine-tuning for consumer hardware constraints |
+| **PEFT** | Full HuggingFace PEFT library integration across model families |
+| **Instruction Tuning** | Alpaca-style datasets, custom chat templates |
+| **Custom Training Loops** | PyTorch-native loops with warmup schedulers, label smoothing |
+
+**Models fine-tuned for real tasks:**
+- `BERT` → Text classification, NER, semantic similarity
+- `T5` → Multi-task text-to-text, summarization, Q&A
+- `BART` → Abstractive summarization, seq2seq generation
+- `LLaMA 2/3` → Local deployment with GGUF, LoRA adaptation
+- `GPT` → Instruction following, domain Q&A
+- `DeepSeek` → Code generation, reasoning-heavy tasks
+
+</details>
+
+<details>
+<summary><b>🔬 RAG Pipelines — Advanced, not basic</b></summary>
+<br/>
+
+```
+Raw Documents
+     │
+     ▼
+Intelligent Chunking  ──── semantic / recursive / hierarchical
+     │
+     ▼
+Embedding Generation  ──── OpenAI · HuggingFace · Cohere
+     │
+     ▼
+Vector Store          ──── Pinecone · ChromaDB · FAISS · Weaviate
+     │
+     ▼
+Hybrid Search         ──── Dense (embeddings) + Sparse (BM25)
+     │
+     ▼
+Re-Ranking            ──── Cohere Rerank · Cross-Encoder
+     │
+     ▼
+LLM Response          ──── Grounded · Cited · Hallucination-Free
+```
+
+**Advanced RAG patterns I implement:**
+- **Multi-Query RAG** — Multiple query variants for broader recall
+- **Self-RAG** — Model decides when retrieval is needed
+- **Parent-Child Chunking** — Precise retrieval with full context return
+- **Agentic RAG** — Agents that query, update, and reason over knowledge bases
+- **Graph RAG** — Knowledge graphs for complex relational reasoning
+
+</details>
+
+<details>
+<summary><b>🔬 Image Generation Models — GAN to Diffusion</b></summary>
+<br/>
+
+| Model | What I build with it |
+|---|---|
+| **GAN** | Adversarial image synthesis from scratch, latent space manipulation |
+| **cGAN** | Conditional generation — control what the model outputs |
+| **ESRGAN** | 4x/8x super-resolution, restoring degraded images |
+| **Pix2Pix** | Paired image translation — sketches to photos, maps to satellite |
+| **Stable Diffusion** | Custom pipelines, txt2img, img2img, inpainting |
+| **ControlNet** | Pose/edge/depth-guided generation for precise visual outputs |
+| **Diffusion LoRA** | Fine-tuning diffusion models on custom image datasets |
+
+</details>
+
+<details>
+<summary><b>🔬 Transformer Architecture — Built from scratch in PyTorch</b></summary>
+<br/>
+
+Every component implemented from first principles. No copy-paste. No shortcuts.
+
+```python
+class TransformerFromScratch:
+    ✅ Multi-Head Self-Attention      # Q, K, V projections, scaled dot-product
+    ✅ Positional Encoding            # Sinusoidal frequencies, learnable variants
+    ✅ Feed-Forward Network           # Two-layer MLP with GELU activation
+    ✅ Layer Normalization            # Pre-LN architecture for training stability
+    ✅ Encoder Stack                  # N-layer stacked with residual connections
+    ✅ Decoder Stack                  # Masked self-attention + cross-attention
+    ✅ Causal Masking                 # Autoregressive generation support
+    ✅ Training Loop                  # Warmup scheduler, label smoothing, gradient clipping
+```
+
+This is proof of **mathematical ownership** — I understand what's happening inside the model, not just how to call it.
+
+</details>
+
+<details>
+<summary><b>🔬 AI Agents & Autonomous Workflows</b></summary>
+<br/>
+
+**Agent architectures I design:**
+
+| Pattern | Description |
+|---|---|
+| **ReAct** | Reason-then-Act loop until goal completion |
+| **Tool-Use** | Web search, code execution, DB queries, API calls |
+| **Multi-Agent** | Planner + Executor + Critic agents via LangGraph |
+| **Memory** | Buffer memory, entity memory, vectorstore long-term recall |
+| **Streaming** | Token-by-token reasoning streamed to frontend in real-time |
+
+**Real automation pipelines:**
+- 🗂️ Classify and auto-respond to customer support tickets
+- 📊 Pull live DB data → generate formatted business reports
+- 📧 Research → draft → send personalized outreach autonomously
+- 🔍 Multi-step research agents with web browsing and synthesis
+
+</details>
+
+---
+
 
 ## 🧠 Who I Am at a Glance
 
