@@ -1,19 +1,25 @@
-# <div align="center">👋 Hi there! I'm **Nadeem Ahmad**</div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Web+Solutions+Architect+%F0%9F%92%A1;MERN+Stack+Specialist+%E2%9A%A1;Turning+Ideas+into+Intelligent+Solutions!)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Nadeem%20Ahmad&fontSize=65&color=0:0d1117,50:161b27,100:0d1117&fontColor=10B981&stroke=10B981&strokeWidth=2&fontAlignY=55&desc=Generative%20AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descSize=16&descAlignY=78&descFontColor=6e7681"/>
 
 </div>
 
 <div align="center">
-  
-🎯 **Building the future with AI-powered web applications** | 🌟 **Transforming complex data into intelligent solutions**
 
-📍 **Faisalabad, Pakistan** | 🎓 **Software Engineering @ FAST NUCES** | 💼 **Open for opportunities**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Text+LLMs+%7C+Image+Models+%7C+AI+Agents;Fine-Tuning+%7C+RAG+Pipelines+%7C+Transformers;MERN+%7C+Next.js+14+%7C+AI-Integrated+Web+Apps;End-to-End%3A+Idea+%E2%86%92+Model+%E2%86%92+Product)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nadeemahmad2703@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://professional-portfolio-livid-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=flat-square&color=10B981&label=Profile+Views)
+
+</div>
 ---
 ##  About Me  
 <div align="center">
