@@ -344,16 +344,13 @@ This is proof of **mathematical ownership** — I understand what's happening in
 
 <div align="center">
 
-### 💬 A Word Before You Go
+br/><br/>
 
-*The divide between software engineers and AI engineers is artificial. The future belongs to those who master both — who can take a research paper on Monday and ship a production system by Friday. That's the standard I hold myself to.*
+*The gap between an AI researcher and a software engineer is where most projects stall.*
+*I close that gap — and ship.*
 
-*If you're building something that matters — something that actually needs intelligence, not just automation — let's talk.*
-
-**⭐ Star my repos if they help you. Fork them if they inspire you. Reach out if you want to build something great.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:a78bfa&height=120&section=footer&animation=twinkling"/>
+**⭐ Star what helps you. Fork what inspires you.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10B98133,100:0d1117&height=100&section=footer"/>
