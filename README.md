@@ -247,18 +247,11 @@ This is proof of **mathematical ownership** — I understand what's happening in
 
 <div align="center">
   <!-- STREAK STATS - Alternative working domain -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="49%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
   
-  <!-- GITHUB STATS - Original (may still work intermittently) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=github_dark&hide_border=true&icon_color=10B981&title_color=10B981&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-</div>
-
-<div align="center">
-  <!-- TOP LANGS -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeemAhmad3&layout=compact&theme=github_dark&hide_border=true&title_color=10B981&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="49%"/>
   
   <!-- ACTIVITY GRAPH - Alternative: Use Metrics or remove -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
 </div>
 
 ## 🏆 Achievements & Highlights
