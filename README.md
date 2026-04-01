@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://professional-portfolio-livid-nine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://engrnadeem-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=flat-square&color=10B981&label=Profile+Views)
 
@@ -314,7 +314,7 @@ This is proof of **mathematical ownership** — I understand what's happening in
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://professional-portfolio-livid-nine.vercel.app">
+      <a href="https://engrnadeem-portfolio.vercel.app/">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
         <b>Portfolio</b><br/>
         <sub>See My Work</sub>
