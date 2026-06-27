@@ -141,7 +141,7 @@ My expertise spans the complete engineering lifecycle—from **system architectu
       <a href="https://engrnadeem-portfolio.vercel.app/">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
         <b>Portfolio</b><br/>
-        <sub>See My Work</sub>
+        <sub>Work</sub>
       </a>
     </td>
   </tr>
