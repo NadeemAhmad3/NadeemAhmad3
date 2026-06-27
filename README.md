@@ -36,20 +36,23 @@ Building High-Performance, Scalable AI Systems for Real Business Impact
 
 
 ---
+## About
 
-## 🧬 The Architecture of Intelligence
+I am a **Machine Learning Engineer** and **Full-Stack AI Developer** specializing in the design and development of **production-grade AI systems** that solve complex business problems through scalable software architecture and intelligent automation.
 
-<div align="center">
+My expertise spans the complete engineering lifecycle—from **system architecture** and **AI model integration** to **production deployment**—building solutions that are reliable, maintainable, and engineered for long-term scale rather than short-term prototypes.
 
-> *"Most developers build applications. I build intelligent systems — where software is the vehicle and AI is the engine."*
+**Core Focus**
 
-</div>
+```text
+• Multi-Agent Systems
+• Large Language Model (LLM) Applications
+• Production RAG Pipelines
+• AI Automation & Intelligent Workflows
+• High-Performance SaaS Architecture
+• Local AI Infrastructure & On-Premise Deployment
+```
 
-I exist at the **intersection of two worlds** that most people keep separate: the disciplined architecture of **software engineering** and the mathematical depth of **Generative AI**. Based in **Faisalabad, Pakistan**, shaped by **FAST NUCES Software Engineering**, and driven by one mission — to architect the next generation of intelligent, autonomous systems.
- <div align="center">
-   When you work with me, you get end-to-end ownership
- <h2>concept → architecture → model → product → deployment.</h2>
- </div>
 
 ## ◈ What I Actually Do
 
