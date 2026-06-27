@@ -120,7 +120,7 @@ My expertise spans the complete engineering lifecycle—from **system architectu
       <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
         <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br/>
         <b>LinkedIn</b><br/>
-        <sub>Professional Network</sub>
+        <sub>Connect</sub>
       </a>
     </td>
     <td align="center" width="25%">
