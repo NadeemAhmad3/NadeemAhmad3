@@ -131,7 +131,7 @@ My expertise spans the complete engineering lifecycle—from **system architectu
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://wa.me/923117133585">
+      <a href="https://wa.me/923174388725">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55"/><br/>
         <b>WhatsApp</b><br/>
         <sub>Quick Chat</sub>
@@ -149,39 +149,12 @@ My expertise spans the complete engineering lifecycle—from **system architectu
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1483/1483336.png" width="55"/>
-      <br/>
-      <h3>🤝 Collaborations</h3>
-      <p>Open for Open Source contributions,<br/>GenAI research, and joint projects</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="55"/>
-      <br/>
-      <h3>💼 Freelance</h3>
-      <p>AI Agents, RAG Systems,<br/>Full Stack AI Web Apps</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2933/2933116.png" width="55"/>
-      <br/>
-      <h3>🎯 Opportunities</h3>
-      <p>Open to roles in GenAI Engineering,<br/>ML Engineering & AI Architecture</p>
-    </td>
-  </tr>
-</table>
 
 </div>
 
 ---
 
 <div align="center">
-
-
-
-*The gap between an AI researcher and a software engineer is where most projects stall.*
-*I close that gap — and ship.*
 
 **⭐ Star what helps you. Fork what inspires you.**
 
