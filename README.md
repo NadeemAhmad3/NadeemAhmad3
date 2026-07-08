@@ -12,7 +12,7 @@ Building High-Performance, Scalable AI Systems for Real Business Impact
 
 <br>
 
-<a href="https://engrnadeem-portfolio.vercel.app">
+<a href="https://nadeem-ahmad3.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -138,7 +138,7 @@ My expertise spans the complete engineering lifecycle—from **system architectu
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://engrnadeem-portfolio.vercel.app/">
+      <a href="https://nadeem-ahmad3.vercel.app/">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
         <b>Portfolio</b><br/>
         <sub>Work</sub>
