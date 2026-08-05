@@ -30,41 +30,36 @@
 
 ---
 
-## ⚡ About Me & Engineering Persona
+## ⚡ About Me & Persona Architecture
 
-<table>
-  <tr>
-    <td width="36%" align="center" valign="top" bgcolor="#030a08">
-      <br>
-      <!-- EMBEDDED CROPPED PROFILE PHOTO WITH NEON BORDER -->
-      <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_photo.png" width="220" style="border-radius: 12px; border: 2px solid #10B981; box-shadow: 0 0 25px rgba(16, 185, 129, 0.45);"/>
-      <br><br>
-      <b><font size="4" color="#00FF9D">Nadeem Ahmad</font></b><br>
-      <font color="#80cbc4"><sub>Machine Learning Engineer &amp;<br>Full-Stack AI Developer</sub></font>
-      <br><br>
-      <img src="https://img.shields.io/badge/Role-ML_Engineer_@_NeuroWebLabs-004D40?style=flat-square&logo=brain&logoColor=00FF9D"/><br>
-      <img src="https://img.shields.io/badge/Education-FAST_NUCES_(BS_SE)-00897b?style=flat-square&logo=graduation-cap&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Location-Punjab,_Pakistan-10B981?style=flat-square&logo=googlemaps&logoColor=white"/>
-    </td>
-    <td width="64%" valign="top" bgcolor="#030a08">
-      <br>
-      <h3><font color="#00FF9D">🚀 Who I Am &amp; How I Build</font></h3>
-      <p>
-        I am a <b>Machine Learning Engineer</b> at <b>NeuroWebLabs</b> and a Software Engineering student at <b>FAST NUCES</b>. I specialize in designing and engineering production-ready AI software systems that deliver tangible business value.
-      </p>
-      <p>
-        With <b>3+ years of experience in Full-Stack AI Development</b> and <b>~2 years in Machine Learning</b>, I bridge the gap between complex research algorithms and high-scale web products.
-      </p>
-      
-      <h4><font color="#80cbc4">💡 Engineering Philosophy &amp; Core Values</font></h4>
-      <ul>
-        <li><b>Full Ownership &amp; Accountability:</b> When I make architectural decisions, I take 100% full responsibility for execution and results.</li>
-        <li><b>Cost-Efficient Hybrid Approaches:</b> I engineer hybrid AI pipelines (combining local models, vector search, &amp; smart caching) that drastically cut compute &amp; API costs.</li>
-        <li><b>Captivating User Interfaces:</b> I love mastering the latest AI tech and building cool, eye-catching UIs that leave a lasting impression.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- PROFILE PHOTO WITH VIBRANT EMERALD SPLASH BACKGROUND -->
+  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_splash.png" width="280" style="border-radius: 16px; border: 2px solid #10B981; box-shadow: 0 0 30px rgba(16, 185, 129, 0.5);"/>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Role-ML_Engineer_@_NeuroWebLabs-004D40?style=for-the-badge&logo=brain&logoColor=00FF9D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Education-FAST_NUCES_(BS_SE)-00897b?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Punjab,_Pakistan-10B981?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</div>
+
+<br>
+
+### 🚀 Who I Am & How I Build
+
+I am a **Machine Learning Engineer** at **NeuroWebLabs** and a Software Engineering student at **FAST NUCES**. I specialize in designing and engineering production-ready AI software systems that deliver tangible business value.
+
+With **3+ years of experience in Full-Stack AI Development** and **~2 years in Machine Learning**, I bridge the gap between complex research algorithms and high-scale web products.
+
+#### 💡 Engineering Philosophy & Core Values
+
+* 🟢 **Full Ownership & Accountability:** When I make architectural decisions, I take 100% full responsibility for execution and results.
+* 🟢 **Cost-Efficient Hybrid Approaches:** I engineer hybrid AI pipelines (combining local models, vector search, & smart caching) that drastically cut compute & API costs.
+* 🟢 **Captivating User Interfaces:** I love mastering the latest AI innovations and building cool, eye-catching UIs that leave a lasting impression.
 
 ---
 
