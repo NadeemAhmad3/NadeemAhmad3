@@ -224,42 +224,13 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
         <li>Integrated local open-weight LLMs serving 100+ concurrent requests efficiently.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/NadeemAhmad3"><b><font color="#00FF9D">[ Explore Repositories → ]</font></b></a>
+        <a href="https://github.com/NadeemAhmad3"><b>[ Explore Repositories → ]</b></a>
       </p>
     </td>
   </tr>
 </table>
 
 </div>
-
----
-
-## 🔍 Interactive Architecture & System Telemetry
-
-<details>
-<summary><b><font color="#00FF9D" size="3">⚡ CLICK TO INSPECT LIVE SYSTEM ARCHITECTURE BLUEPRINT</font></b></summary>
-
-<br>
-
-```mermaid
-graph TD
-    User([👤 Client / User Web Interface]) --> UI[💻 Next.js 14 / React Frontend]
-    UI -->|Async WebSockets / REST| API[⚡ FastAPI Microservice Gateway]
-    API -->|Orchestrates| Engine[🤖 LangGraph Multi-Agent Engine]
-    
-    subgraph AI Engine & Knowledge Layer
-        Engine --> Agent1[🔍 Web Research Agent]
-        Engine --> Agent2[📊 Data Analysis Agent]
-        Engine --> Agent3[📝 Code Execution Agent]
-        Agent1 & Agent2 & Agent3 --> RAG[🧠 Production RAG Engine]
-        RAG --> VectorDB[(🗄️ Pinecone / ChromaDB / Qdrant)]
-        RAG --> LLM[⚡ Local vLLM / Ollama / OpenAI API]
-    end
-
-    AI Engine & Knowledge Layer -->|Structured Stream| UI
-```
-
-</details>
 
 ---
 
@@ -277,6 +248,14 @@ graph TD
   <!-- ROW 2: STREAK STATS & ACTIVITY GRAPH -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=dark&hide_border=true&stroke=00897b&ring=00897b&fire=4DB6AC&currStreakLabel=00897b&background=030a08" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=030a08&color=00897b&line=00897b&point=4DB6AC&hide_border=true&area=true&area_color=004D4055" width="48%"/>
+</div>
+
+---
+
+## 🐍 Hacker Contribution Grid Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Grid Animation"/>
 </div>
 
 ---
