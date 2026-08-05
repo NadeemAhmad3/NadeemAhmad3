@@ -1,0 +1,31 @@
+# Nadeem Ahmad — AI & Machine Learning Engineering Profile
+
+> Machine Learning Engineer at NeuroWebLabs & Software Engineering Student at FAST NUCES specializing in production Multi-Agent Systems, Enterprise RAG, and Cost-Efficient AI SaaS Architectures.
+
+## Executive Overview
+- Name: Nadeem Ahmad
+- Role: Machine Learning Engineer & Full-Stack AI Developer
+- Current Position: Machine Learning Engineer at NeuroWebLabs
+- Education: B.S. Software Engineering at FAST NUCES
+- Location: Chiniot District, Punjab, Pakistan
+- Experience: 3+ Years in Full-Stack AI Development | ~2 Years in Machine Learning
+- Website / Portfolio: https://nadeem-ahmad3.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/nadeem-ahmad3/
+- Email: engrnadeem26@gmail.com
+- WhatsApp: +923174388725
+
+## Engagement Models & Pricing
+- Direct AI Software Engineering / Contract: $17 / hour
+- AI System Architecture & Technical Consultancy: $12 / hour
+- Open-Source & Research Collaboration: Available
+
+## Core Technical Specializations
+- Autonomous Multi-Agent Workflows: LangGraph, CrewAI, AutoGen, Stateful Agent Memory
+- Production RAG Pipelines: vLLM, LlamaIndex, Hybrid Sparse/Dense Vector Search, Re-Ranking
+- Full-Stack AI SaaS Development: Next.js 14, React, TypeScript, FastAPI, Supabase, Docker
+- Cost-Efficient Local AI Infrastructure: Ollama, Local Open-Weight Models (Llama 3, DeepSeek, Qwen), PyTorch
+
+## Key Links & Resources
+- GitHub Profile: https://github.com/NadeemAhmad3
+- Portfolio Website: https://nadeem-ahmad3.vercel.app/
+- Contact via LinkedIn: https://www.linkedin.com/in/nadeem-ahmad3/
