@@ -189,18 +189,20 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
 
 ---
 
-## ◈ GitHub Stats
+## 📊 GitHub Stats & Productivity Analytics
 
 <div align="center">
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=dark&hide_border=true&stroke=00897b&ring=00897b&fire=4DB6AC&currStreakLabel=00897b&background=030a08" width="48%"/>
-  
-  <!-- ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=030a08&color=00897b&line=00897b&point=4DB6AC&hide_border=true&area=true&area_color=004D4055" width="48%"/>
+  <!-- ROW 1: OVERVIEW STATS & MOST USED LANGUAGES -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=dark&hide_border=true&bg_color=030a08&stroke=00897b&title_color=00FF9D&icon_color=00FF9D&text_color=80cbc4" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NadeemAhmad3&layout=compact&theme=dark&hide_border=true&bg_color=030a08&stroke=00897b&title_color=00FF9D&text_color=80cbc4" width="48%"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=tokyonight" />
+  <!-- ROW 2: STREAK STATS & ACTIVITY GRAPH -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=dark&hide_border=true&stroke=00897b&ring=00897b&fire=4DB6AC&currStreakLabel=00897b&background=030a08" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=030a08&color=00897b&line=00897b&point=4DB6AC&hide_border=true&area=true&area_color=004D4055" width="48%"/>
 </div>
 
 ---
