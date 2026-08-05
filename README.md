@@ -189,6 +189,80 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
 
 ---
 
+## 🚀 Featured Flagship AI Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" bgcolor="#011c17">
+      <h3 align="center"><font color="#00FF9D">🤖 Autonomous Multi-Agent OS</font></h3>
+      <p align="center"><b>Stateful multi-agent system executing complex research, code generation, and task automation.</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-004D40?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-00897b?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-10B981?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Implemented multi-agent state machines reducing manual task execution time by 65%.</li>
+        <li>Sub-second async response time with SSE streaming and WebSocket channels.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NadeemAhmad3"><b><font color="#00FF9D">[ Explore Repositories → ]</font></b></a>
+      </p>
+    </td>
+    <td width="50%" bgcolor="#011c17">
+      <h3 align="center"><font color="#00FF9D">⚡ Enterprise RAG Knowledge Engine</font></h3>
+      <p align="center"><b>High-precision document retrieval pipeline with hybrid sparse/dense vector search &amp; re-ranking.</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/vLLM-00897b?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Achieved 96% context relevance accuracy on multi-document benchmark datasets.</li>
+        <li>Integrated local open-weight LLMs serving 100+ concurrent requests efficiently.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NadeemAhmad3"><b><font color="#00FF9D">[ Explore Repositories → ]</font></b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🔍 Interactive Architecture & System Telemetry
+
+<details>
+<summary><b><font color="#00FF9D" size="3">⚡ CLICK TO INSPECT LIVE SYSTEM ARCHITECTURE BLUEPRINT</font></b></summary>
+
+<br>
+
+```mermaid
+graph TD
+    User([👤 Client / User Web Interface]) --> UI[💻 Next.js 14 / React Frontend]
+    UI -->|Async WebSockets / REST| API[⚡ FastAPI Microservice Gateway]
+    API -->|Orchestrates| Engine[🤖 LangGraph Multi-Agent Engine]
+    
+    subgraph AI Engine & Knowledge Layer
+        Engine --> Agent1[🔍 Web Research Agent]
+        Engine --> Agent2[📊 Data Analysis Agent]
+        Engine --> Agent3[📝 Code Execution Agent]
+        Agent1 & Agent2 & Agent3 --> RAG[🧠 Production RAG Engine]
+        RAG --> VectorDB[(🗄️ Pinecone / ChromaDB / Qdrant)]
+        RAG --> LLM[⚡ Local vLLM / Ollama / OpenAI API]
+    end
+
+    AI Engine & Knowledge Layer -->|Structured Stream| UI
+```
+
+</details>
+
+---
+
 ## 📊 GitHub Stats & Productivity Analytics
 
 <div align="center">
