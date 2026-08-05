@@ -43,7 +43,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Education-FAST_NUCES_(BS_SE)-00897b?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Punjab,_Pakistan-10B981?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Chiniot_District,_Punjab,_Pakistan-10B981?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -58,7 +58,7 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
 #### 💡 Engineering Philosophy & Core Values
 
 * 🟢 **Full Ownership & Accountability:** When I make architectural decisions, I take 100% full responsibility for execution and results.
-* 🟢 **Cost-Efficient Hybrid Approaches:** I engineer hybrid AI pipelines (combining local models, vector search, & smart caching) that drastically cut compute & API costs.
+* 🟢 **Cost-Efficient Hybrid Approaches:** I engineer hybrid AI pipelines (combining local open-weight models, vector search, & smart caching) that drastically cut compute & API costs.
 * 🟢 **Captivating User Interfaces:** I love mastering the latest AI innovations and building cool, eye-catching UIs that leave a lasting impression.
 
 ---
@@ -106,29 +106,33 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
 
 ---
 
-## 💎 Core Focus Areas
+## 💎 Core Specialization & Industry Focus
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" bgcolor="#030a08">
-      <h4><font color="#00FF9D">🤖 Multi-Agent Systems &amp; Workflows</font></h4>
-      <p>Designing stateful multi-agent architectures using <b>LangGraph</b>, <b>CrewAI</b>, and custom memory management engines.</p>
+      <h3><font color="#00FF9D">🤖 Autonomous Multi-Agent Workflows</font></h3>
+      <p>Building stateful multi-agent systems using <b>LangGraph</b>, <b>CrewAI</b>, and <b>AutoGen</b> for complex task decomposition, parallel execution, and automated code/data synthesis.</p>
+      <img src="https://img.shields.io/badge/Tech-LangGraph_•_CrewAI_•_AutoGen-004D40?style=flat-square"/>
     </td>
     <td width="50%" bgcolor="#030a08">
-      <h4><font color="#00FF9D">🧠 Production RAG &amp; LLM Pipelines</font></h4>
-      <p>High-accuracy document retrieval pipelines using <b>vLLM</b>, <b>LlamaIndex</b>, <b>Pinecone</b>, and hybrid vector search.</p>
+      <h3><font color="#00FF9D">🧠 Enterprise Production RAG Pipelines</font></h3>
+      <p>Engineering high-precision Retrieval-Augmented Generation engines powered by <b>vLLM</b>, <b>LlamaIndex</b>, hybrid sparse/dense vector search, and custom re-ranking models.</p>
+      <img src="https://img.shields.io/badge/Tech-vLLM_•_LlamaIndex_•_Pinecone-00897b?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="50%" bgcolor="#030a08">
-      <h4><font color="#80cbc4">⚡ Scalable High-Performance SaaS</font></h4>
-      <p>Modern full-stack web applications powered by <b>Next.js 14</b>, <b>FastAPI</b>, <b>Supabase</b>, and <b>Docker</b> containers.</p>
+      <h3><font color="#80cbc4">⚡ High-Performance Full-Stack AI SaaS</font></h3>
+      <p>Designing modern, responsive web applications with <b>Next.js 14</b>, <b>React</b>, <b>TypeScript</b>, <b>FastAPI</b>, and <b>Supabase</b> backed by microservices architecture.</p>
+      <img src="https://img.shields.io/badge/Tech-Next.js_14_•_FastAPI_•_Docker-004D40?style=flat-square"/>
     </td>
     <td width="50%" bgcolor="#030a08">
-      <h4><font color="#80cbc4">🏡 Local &amp; On-Premise AI Deployment</font></h4>
-      <p>Cost-efficient local AI infrastructure utilizing <b>Ollama</b>, open-weight models, and on-premise hardware.</p>
+      <h3><font color="#80cbc4">🏡 Local &amp; Cost-Efficient AI Infrastructure</font></h3>
+      <p>Deploying open-weight LLMs (Llama 3, Qwen, DeepSeek) on local/on-premise infrastructure with <b>Ollama</b> &amp; <b>vLLM</b>, cutting cloud API spend by up to 70%.</p>
+      <img src="https://img.shields.io/badge/Tech-Ollama_•_Local_LLMs_•_PyTorch-10B981?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -137,41 +141,49 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
 
 ---
 
-## ◈ Tech Arsenal
+## ◈ Technical Arsenal & Stack Architecture
 
 <div align="center">
 
-### AI & Machine Learning
+### 🤖 AI, Machine Learning & Agent Frameworks
 <p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python"/></p>
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-00A4EF?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square)
-![ControlNet](https://img.shields.io/badge/ControlNet-EC4899?style=flat-square)
-</br>
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-090909?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square)
+![ControlNet](https://img.shields.io/badge/ControlNet-EC4899?style=flat-square)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![LangSmith](https://img.shields.io/badge/LangSmith-FFFFFF?style=flat-square&logo=langchain&logoColor=black)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square)
-![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=flat-square&logo=weaviate&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Frontend
+### 🗄️ Vector Databases & Knowledge Retrieval
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=flat-square&logo=weaviate&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+
+### 💻 Frontend & Web Engineering
 <p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux,vue,svelte,sass,bootstrap"/></p>
 
-### Backend & Databases
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,mongodb,postgresql,mysql,redis,sqlite"/></p>
+### ⚡ Backend, APIs & Databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,mongodb,postgresql,mysql,redis,sqlite,supabase"/></p>
 
-### Cloud & DevOps
-<p><img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,linux,postman,figma,vscode"/></p>
+### ☁️ Cloud, DevOps & Infrastructure
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,git,github,linux,postman,figma,vscode"/></p>
 
 </div>
 
