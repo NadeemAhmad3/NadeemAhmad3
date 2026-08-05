@@ -1,0 +1,35 @@
+# Nadeem Ahmad — Complete Technical Knowledge Base & AI Resume
+
+## Candidate Profile
+Nadeem Ahmad is a Machine Learning Engineer based in Chiniot District, Punjab, Pakistan. He currently serves as a Machine Learning Engineer at NeuroWebLabs while pursuing his B.S. in Software Engineering at FAST NUCES.
+
+With over 3 years of hands-on experience in full-stack AI development and nearly 2 years dedicated to machine learning, Nadeem specializes in taking complex AI algorithms from research to high-throughput production environments.
+
+## Engineering Philosophy
+1. Full Architectural Accountability: Takes 100% ownership of engineering decisions, system performance, and delivery outcomes.
+2. Cost-Efficient Hybrid AI Architectures: Combines local open-weight LLMs, vector database caching, and fine-tuned models to reduce API and compute costs by up to 70%.
+3. High-Impact User Interfaces: Blends cutting-edge backend AI orchestration with fast, intuitive web interfaces (Next.js 14, React, TypeScript).
+
+## Service Offerings & Hourly Rates
+- Full-Stack AI Development & Engineering: $17/hr
+- Technical System Architecture & AI Advisory: $12/hr
+- Open-Source R&D & Startup Advisory: Open
+
+## Detailed Technology Stack
+### AI, ML & Agent Frameworks
+PyTorch, TensorFlow, Scikit-Learn, OpenCV, Python, HuggingFace, LangChain, LangGraph, CrewAI, AutoGen, OpenAI API, LlamaIndex, vLLM, Ollama, Stable Diffusion, ControlNet, Weights & Biases, LangSmith, Gradio, Streamlit.
+
+### Vector Databases & Retrieval
+Pinecone, ChromaDB, FAISS, Weaviate, Qdrant, Milvus.
+
+### Frontend Engineering
+Next.js 14, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Redux, Vue.js, Svelte, Sass, Bootstrap.
+
+### Backend & Infrastructure
+Node.js, Express.js, FastAPI, Flask, Django, MongoDB, PostgreSQL, MySQL, Redis, SQLite, Supabase, Docker, Kubernetes, AWS, GCP, Vercel, Git, GitHub, Linux.
+
+## Contact Information
+- Email: engrnadeem26@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nadeem-ahmad3/
+- WhatsApp: +923174388725
+- Web Portfolio: https://nadeem-ahmad3.vercel.app/
