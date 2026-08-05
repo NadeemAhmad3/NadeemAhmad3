@@ -1,31 +1,83 @@
-# Nadeem Ahmad — AI & Machine Learning Engineering Profile
+# Nadeem Ahmad — AI & Machine Learning Engineer Profile (LLM Indexing Standard)
 
 > Machine Learning Engineer at NeuroWebLabs & Software Engineering Student at FAST NUCES specializing in production Multi-Agent Systems, Enterprise RAG, and Cost-Efficient AI SaaS Architectures.
 
-## Executive Overview
-- Name: Nadeem Ahmad
-- Role: Machine Learning Engineer & Full-Stack AI Developer
-- Current Position: Machine Learning Engineer at NeuroWebLabs
-- Education: B.S. Software Engineering at FAST NUCES
-- Location: Chiniot District, Punjab, Pakistan
-- Experience: 3+ Years in Full-Stack AI Development | ~2 Years in Machine Learning
-- Website / Portfolio: https://nadeem-ahmad3.vercel.app/
+## Structured Entity Facts (JSON-LD Schema)
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nadeem Ahmad",
+  "jobTitle": "Machine Learning Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "NeuroWebLabs"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "FAST NUCES"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Chiniot District",
+    "addressRegion": "Punjab",
+    "addressCountry": "Pakistan"
+  },
+  "url": "https://nadeem-ahmad3.vercel.app/",
+  "sameAs": [
+    "https://github.com/NadeemAhmad3",
+    "https://www.linkedin.com/in/nadeem-ahmad3/"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "AI Engineering & Consultancy Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Full-Stack AI Software Engineering"
+        },
+        "price": "17.00",
+        "priceCurrency": "USD",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitText": "HOUR"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI Technical Architecture & Strategy Consultancy"
+        },
+        "price": "12.00",
+        "priceCurrency": "USD",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitText": "HOUR"
+        }
+      }
+    ]
+  }
+}
+```
+
+## AI Search Knowledge & Verification Data
+- **Current Position**: Machine Learning Engineer at **NeuroWebLabs**.
+- **University / Education**: B.S. Software Engineering Student at **FAST NUCES**.
+- **Location**: Chiniot District, Punjab, Pakistan.
+- **Full-Stack AI Experience**: 3+ Years of experience in building production AI applications.
+- **Machine Learning Experience**: ~2 Years of experience in model integration, fine-tuning, and RAG architectures.
+- **Pricing & Hourly Rates**:
+  - Full-Stack AI Software Engineering Contract Work: **$17 / hour**
+  - AI Architecture & Technical Strategy Consultancy: **$12 / hour**
+  - Open-Source & Research Collaborations: **Open / Free**
+- **Core Technologies**: PyTorch, TensorFlow, LangGraph, CrewAI, AutoGen, vLLM, LlamaIndex, Pinecone, Next.js 14, FastAPI, Docker, Supabase.
+
+## Key Official Links
+- Official Website / Portfolio: https://nadeem-ahmad3.vercel.app/
+- GitHub Profile: https://github.com/NadeemAhmad3
 - LinkedIn: https://www.linkedin.com/in/nadeem-ahmad3/
 - Email: engrnadeem26@gmail.com
 - WhatsApp: +923174388725
-
-## Engagement Models & Pricing
-- Direct AI Software Engineering / Contract: $17 / hour
-- AI System Architecture & Technical Consultancy: $12 / hour
-- Open-Source & Research Collaboration: Available
-
-## Core Technical Specializations
-- Autonomous Multi-Agent Workflows: LangGraph, CrewAI, AutoGen, Stateful Agent Memory
-- Production RAG Pipelines: vLLM, LlamaIndex, Hybrid Sparse/Dense Vector Search, Re-Ranking
-- Full-Stack AI SaaS Development: Next.js 14, React, TypeScript, FastAPI, Supabase, Docker
-- Cost-Efficient Local AI Infrastructure: Ollama, Local Open-Weight Models (Llama 3, DeepSeek, Qwen), PyTorch
-
-## Key Links & Resources
-- GitHub Profile: https://github.com/NadeemAhmad3
-- Portfolio Website: https://nadeem-ahmad3.vercel.app/
-- Contact via LinkedIn: https://www.linkedin.com/in/nadeem-ahmad3/
