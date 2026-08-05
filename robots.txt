@@ -1,0 +1,26 @@
+# robots.txt for NadeemAhmad3 GitHub Repository
+# Allows AI Search Engines & LLM Crawlers to Index Profile Data
+
+User-agent: *
+Allow: /
+
+# Allow Major AI Search Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://nadeem-ahmad3.vercel.app/sitemap.xml
