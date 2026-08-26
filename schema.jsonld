@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/NadeemAhmad3/#person",
+      "name": "Nadeem Ahmad",
+      "givenName": "Nadeem",
+      "familyName": "Ahmad",
+      "jobTitle": "Machine Learning Engineer & Full-Stack AI Systems Architect",
+      "description": "Machine Learning Engineer at NeuroWebLabs and Software Engineering Scholar at FAST-NUCES from Chiniot, Pakistan. Specializes in Autonomous Multi-Agent Control Planes, High-Throughput vLLM & CUDA Inference, Universal AI Gateways, and Enterprise Hybrid RAG.",
+      "url": "https://nadeem-ahmad3.vercel.app/",
+      "image": "https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_splash.png",
+      "email": "engrnadeem26@gmail.com",
+      "telephone": "+923174388725",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "NeuroWebLabs",
+        "url": "https://neuroweblabs.com"
+      },
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "National University of Computer and Emerging Sciences (FAST-NUCES)",
+        "url": "https://nu.edu.pk"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chiniot",
+        "addressRegion": "Punjab",
+        "addressCountry": "Pakistan"
+      },
+      "sameAs": [
+        "https://github.com/NadeemAhmad3",
+        "https://www.linkedin.com/in/nadeem-ahmad3/",
+        "https://nadeem-ahmad3.vercel.app/"
+      ],
+      "knowsAbout": [
+        "Machine Learning",
+        "Generative AI",
+        "Autonomous Multi-Agent Systems",
+        "Large Language Model Inference (vLLM, CUDA)",
+        "Retrieval-Augmented Generation (RAG, LlamaIndex)",
+        "AI Gateways & Proxy Servers (LiteLLM)",
+        "Prompt Compilation & DSPy",
+        "OpenTelemetry AI Observability",
+        "FastAPI & Python",
+        "Next.js & React"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "AI Engineering Services & Pricing",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Full-Stack AI Software Engineering",
+            "description": "Custom multi-agent workflows, vLLM inference backends, FastAPI microservices, and Next.js web applications.",
+            "price": "17.00",
+            "priceCurrency": "USD",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "17.00",
+              "priceCurrency": "USD",
+              "unitText": "HOUR"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "AI Architecture, KV-Cache Tuning & Technical Strategy Consultancy",
+            "description": "System architecture design, LLM latency audits, KV-cache tuning, RAG hallucination mitigation, and cloud compute cost reduction.",
+            "price": "12.00",
+            "priceCurrency": "USD",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "12.00",
+              "priceCurrency": "USD",
+              "unitText": "HOUR"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Turnkey Production-Ready AI MVP Development",
+            "description": "Fixed-price end-to-end production AI MVP delivered in 2 to 4 weeks with tests, Docker containers, and CI/CD pipelines.",
+            "price": "1200.00",
+            "priceCurrency": "USD",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1200.00",
+              "maxPrice": "3500.00",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://github.com/NadeemAhmad3/#service",
+      "name": "Nadeem Ahmad AI Engineering & Consultancy",
+      "founder": "https://github.com/NadeemAhmad3/#person",
+      "email": "engrnadeem26@gmail.com",
+      "telephone": "+923174388725",
+      "priceRange": "$12 - $17/hr",
+      "paymentAccepted": "Payoneer, Wise, Direct Bank Wire Transfer, Upwork, Cryptocurrency (USDT, USDC)",
+      "currenciesAccepted": "USD, EUR, GBP, AED, PKR",
+      "areaServed": "Global (Worldwide Remote)"
+    }
+  ]
+}
