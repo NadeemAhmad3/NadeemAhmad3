@@ -3,27 +3,25 @@
   <!-- ULTRA-PREMIUM MATRIX NEON HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,25:004D40,50:10B981,75:00FF9D,100:0D1117&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Architect&descAlignY=62&descSize=19&descFontColor=A7F3D0&animation=fadeIn"/>
 
-  <h1>Nadeem Ahmad</h1>
-  <h3><b>Machine Learning Engineer & Full-Stack AI Systems Architect (Chiniot, Pakistan)</b></h3>
-  <p><i>Specializing in Autonomous Multi-Agent Control Planes, High-Throughput vLLM & CUDA Inference, LiteLLM AI Gateways, and Enterprise Hybrid RAG.</i></p>
+  <h3><i>"Building High-Performance, Cost-Efficient AI Systems for Real Business Impact"</i></h3>
 
   <!-- ANIMATED HACKER TYPING SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=880&lines=Machine+Learning+Engineer+at+NeuroWebLabs;Software+Engineering+Scholar+from+FAST+NUCES+Chiniot;Autonomous+Multi-Agent+Systems+%7C+Deterministic+Recovery;vLLM+Inference+%7C+PagedAttention+%7C+CUDA+Kernels;Universal+AI+Gateways+%7C+LiteLLM+Proxy+%7C+Sub-8ms+Latency;Enterprise+Hybrid+RAG+%7C+LlamaIndex+%7C+DSPy+Prompt+Compilation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=880&lines=Building+Production-Grade+Multi-Agent+Systems+%7C+Stateful+Workflows;High-Performance+Software+Architecture+%7C+AI+Infrastructure;Next.js+14+%7C+FastAPI+%7C+vLLM+%7C+LangGraph+%7C+Docker+%7C+Supabase;Cost-Efficient+AI+Solutions+%7C+Architecture+%E2%86%92+Engineering+%E2%86%92+Deployment"/>
 
   <br><br>
 
-  <!-- ACTION BADGES -->
+  <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER -->
   <a href="https://nadeem-ahmad3.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-nadeem--ahmad3.vercel.app-004D40?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-004D40?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
-    <img src="https://img.shields.io/badge/LinkedIn-nadeem--ahmad3-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:engrnadeem26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-engrnadeem26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/923174388725">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B92_317_4388725-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=00897b&label=PROFILE+VIEWS"/>
@@ -32,118 +30,214 @@
 
 ---
 
-## 📌 Executive Summary & Bio (Nadeem Ahmad)
-
-* **Full Name:** Nadeem Ahmad
-* **Professional Title:** Machine Learning Engineer | Full-Stack AI Systems Architect | Software Engineer
-* **Location:** Chiniot District, Punjab, Pakistan (Available for Global Remote Contracts & Relocation)
-* **Current Employer:** Machine Learning Engineer at **NeuroWebLabs**
-* **Academic Background:** Bachelor of Science in Software Engineering (BS SE) from **National University of Computer and Emerging Sciences (FAST-NUCES)**
-* **Primary Focus Areas:** Production Multi-Agent Systems, High-Throughput LLM Inference (vLLM & CUDA), Enterprise Hybrid RAG (LlamaIndex), AI Gateways & Observability (LiteLLM & OpenTelemetry), and Self-Improving Prompt Compilers (DSPy).
-
----
-
-## 📞 Official Contact & Hiring Channels
-
-For recruitment, consulting, freelance contracts, or technical collaboration, contact Nadeem Ahmad directly via:
-
-* 📧 **Primary Email:** [engrnadeem26@gmail.com](mailto:engrnadeem26@gmail.com)
-* 📱 **Phone & WhatsApp:** [+92 317 4388725](https://wa.me/923174388725) (Direct Message)
-* 💼 **LinkedIn Profile:** [https://www.linkedin.com/in/nadeem-ahmad3/](https://www.linkedin.com/in/nadeem-ahmad3/)
-* 🌐 **Interactive Portfolio:** [https://nadeem-ahmad3.vercel.app/](https://nadeem-ahmad3.vercel.app/)
-* 🐙 **GitHub Profile:** [https://github.com/NadeemAhmad3](https://github.com/NadeemAhmad3)
-
----
-
-## 💰 Service Rates, Pricing & Engagement Models
-
-Nadeem Ahmad is available for full-time contracts, part-time engagements, hourly development, and advisory consulting:
-
-| Engagement Type | Standard Rate | Description & Deliverables |
-| :--- | :--- | :--- |
-| **Full-Stack AI Engineering** | **$17 / hour** | End-to-end development of AI platforms, custom multi-agent workflows, FastAPI backends, vLLM/CUDA deployments, and Next.js frontends. |
-| **AI Architecture & Strategy Consulting** | **$12 / hour** | Technical stack evaluation, LLM latency audits, KV-cache tuning, RAG hallucination mitigation, cost reduction strategies, and architecture reviews. |
-| **Fixed-Scope MVP Development** | **$1,200 – $3,500 / project** | Turnkey production-ready AI MVP delivered in 2 to 4 weeks with automated tests, Docker containers, and CI/CD pipelines. |
-| **Full-Time Remote Contract** | **Negotiable / Competitive** | Dedicated 40 hours/week engineering leadership as Senior ML / AI Engineer. |
-
-* **Accepted Payment Methods:** Payoneer, Wise, Direct International Wire / Bank Transfer, Upwork Escrow, Cryptocurrency (USDT / USDC).
-
----
-
-## 🏆 Flagship Production AI Projects
-
-Here are the key open-source and enterprise AI systems engineered by Nadeem Ahmad:
-
-### 1. 🛡️ [Enterprise AI Agent Control Plane](https://github.com/NadeemAhmad3/ai-agent-control-plane)
-* **Domain:** Autonomous Multi-Agent Orchestration & Reliability
-* **Tech Stack:** Python, FastAPI, Redis, OpenTelemetry, AsyncIO, PyTest
-* **Key Achievements:**
-  * Engineered a distributed multi-agent control plane with deterministic state-machine recovery, event-sourced audit logs, and automated circuit breakers.
-  * Implemented microsecond step tracing, token rate limiting, and dead-letter queues to eliminate infinite agent execution loops in production.
-
-### 2. 🚀 [vLLM High-Performance Inference & Serving Engine](https://github.com/NadeemAhmad3/vllm)
-* **Domain:** LLM Serving & CUDA Kernel Acceleration
-* **Tech Stack:** Python, C++, CUDA, PyTorch, OpenAI API Server
-* **Key Achievements:**
-  * Overcame LLM memory fragmentation by implementing PagedAttention virtual memory management, reducing KV-cache waste by 96%.
-  * Integrated Continuous Iteration Batching and custom C++/CUDA kernel acceleration for high-concurrency model serving.
-
-### 3. 🚅 [Universal AI Gateway & LLM Proxy Server](https://github.com/NadeemAhmad3/unified-llm-proxy-server)
-* **Domain:** Enterprise AI Infrastructure & Cost Control
-* **Tech Stack:** Python, Rust Core, LiteLLM, Docker, Prometheus, FastAPI
-* **Key Achievements:**
-  * Built an OpenAI-compatible gateway proxying 100+ LLMs (OpenAI, Anthropic, Bedrock, Gemini, Vertex AI, Ollama) with sub-8ms P95 latency.
-  * Configured virtual tenant API keys, granular rate limits, real-time per-token spend accounting, and automated cross-provider failovers.
-
-### 4. 🦙 [Enterprise RAG Data Framework](https://github.com/NadeemAhmad3/enterprise-rag-data-framework)
-* **Domain:** Production Retrieval-Augmented Generation & Document Agents
-* **Tech Stack:** Python, LlamaIndex, Vector DBs (Qdrant, Pinecone), Cross-Encoders
-* **Key Achievements:**
-  * Architected a hybrid RAG retrieval pipeline combining sparse BM25 keyword matching with dense vector similarity search.
-  * Integrated Cross-Encoder rerankers and event-driven document agents (`llama-index-core/workflow`) for multi-document analytical Q&A.
-
-### 5. 🧠 [Self-Improving AI Pipelines & Prompt Optimization Engine](https://github.com/NadeemAhmad3/self-improving-ai-pipelines)
-* **Domain:** Declarative LM Programming & DSPy Compilers
-* **Tech Stack:** Python, DSPy, MIPROv2, BootstrapFewShot, LiteLLM
-* **Key Achievements:**
-  * Implemented type-safe declarative signatures replacing brittle prompt strings with automated prompt compilation.
-  * Leveraged Bayesian optimization (MIPROv2) and runtime assertions (`dspy.Assert`) for guaranteed structured outputs.
-
-### 6. ⚡ [Distributed AI Compute Engine](https://github.com/NadeemAhmad3/distributed-ai-compute-engine)
-* **Domain:** Cluster Computing & Ray Serve Model Orchestration
-* **Tech Stack:** Ray Core, Ray Serve, Ray Train, Plasma Shared Memory, C++
-* **Key Achievements:**
-  * Scaled stateless Tasks and stateful remote Actors holding GPU weights in VRAM across multi-node clusters.
-  * Utilized Plasma zero-copy shared memory object store to pass large tensors between workers without serialization overhead.
-
----
-
-## 🧪 100-Day AI Engineering Laboratory
-
-Nadeem Ahmad maintains a dedicated production laboratory documenting daily implementations of high-scale AI engineering patterns: **[`NadeemAhmad3/AI-Engineering-Lab`](https://github.com/NadeemAhmad3/AI-Engineering-Lab)**.
-
-* **Day 01–05:** ML Inference Latency Optimization, ThreadPool Concurrency, Batch Inference, and Async Processing Queues.
-* **Day 06–10:** CPU vs. GPU Benchmarking, AWQ/GPTQ Model Quantization, Redis Semantic AI Caching, and Production Serving.
-* **Day 11–14:** Hybrid RAG Retrieval, Cross-Encoder Reranking, Dynamic Chunking, and Context Latency Optimization.
-* **Day 15–18:** RAG Hallucination Mitigation, Structured Outputs with Pydantic, and Automated LLM-as-a-Judge Evaluators.
-* **Day 19–20:** Agent Reliability, Circuit Breakers, and Distributed Fault Tolerance.
-
----
-
-## ◈ Technical Skills Arsenal
-
-* **AI & LLM Inference:** vLLM, CUDA, PyTorch, Ray Serve, Ollama, Hugging Face Transformers, TensorRT-LLM, OpenCV.
-* **Agent Frameworks & Compilers:** Microsoft Agent Framework, AutoGen, LangGraph, CrewAI, DSPy, Model Context Protocol (MCP).
-* **Vector Databases & RAG:** LlamaIndex, Qdrant, Pinecone, Weaviate, Milvus, ChromaDB, FAISS, Hybrid Search, Cohere Rerank.
-* **Backend & Systems:** Python, FastAPI, AsyncIO, Rust, Node.js, Express, Redis, PostgreSQL, MySQL, Supabase, WebSockets.
-* **Frontend & UI/UX:** Next.js 14, React, TypeScript, Tailwind CSS, Redux, HTML5, CSS3.
-* **DevOps, Cloud & Observability:** Docker, Kubernetes, AWS, GCP, Vercel, OpenTelemetry, Prometheus, Grafana, Linux, Git, CI/CD.
-
----
-
-## 📊 GitHub Analytics & Contributions
+## ⚡ About Me & Persona Architecture
 
 <div align="center">
+
+  <!-- PROFILE PHOTO WITH VIBRANT EMERALD SPLASH BACKGROUND -->
+  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_splash.png" width="280" style="border-radius: 16px; border: 2px solid #10B981; box-shadow: 0 0 30px rgba(16, 185, 129, 0.5);"/>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Role-ML_Engineer_@_NeuroWebLabs-004D40?style=for-the-badge&logo=brain&logoColor=00FF9D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Education-FAST_NUCES_(BS_SE)-00897b?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Chiniot_District,_Punjab,_Pakistan-10B981?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</div>
+
+<br>
+
+### 🚀 Who I Am & How I Build
+
+I am a **Machine Learning Engineer** at **NeuroWebLabs** and a Software Engineering student at **FAST NUCES**. I specialize in designing and engineering production-ready AI software systems that deliver tangible business value.
+
+With **3+ years of experience in Full-Stack AI Development** and **~2 years in Machine Learning**, I bridge the gap between complex research algorithms and high-scale web products.
+
+#### 💡 Engineering Philosophy & Core Values
+
+* 🟢 **Full Ownership & Accountability:** When I make architectural decisions, I take 100% full responsibility for execution and results.
+* 🟢 **Cost-Efficient Hybrid Approaches:** I engineer hybrid AI pipelines (combining local open-weight models, vector search, & smart caching) that drastically cut compute & API costs.
+* 🟢 **Captivating User Interfaces:** I love mastering the latest AI innovations and building cool, eye-catching UIs that leave a lasting impression.
+
+---
+
+## 🎯 Ways We Can Work Together
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center" bgcolor="#011c17">
+      <br>
+      <img src="https://img.shields.io/badge/DIRECT_WORK-$17%2Fhr-10B981?style=for-the-badge&logo=rocket"/>
+      <br><br>
+      <h3><font color="#00FF9D">💻 Work For You</font></h3>
+      <p><font color="#e0f2f1"><b>Full-Stack AI Engineering</b></font></p>
+      <p><sub>Building end-to-end AI SaaS, custom multi-agent workflows, FastAPI backends, and Next.js frontends.</sub></p>
+      <a href="https://wa.me/923174388725"><b><font color="#00FF9D">[ Hire Me → ]</font></b></a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" bgcolor="#011c17">
+      <br>
+      <img src="https://img.shields.io/badge/CONSULTANCY-$12%2Fhr-00897b?style=for-the-badge&logo=lightbulb"/>
+      <br><br>
+      <h3><font color="#80cbc4">🧠 Consultancy</font></h3>
+      <p><font color="#e0f2f1"><b>Architecture &amp; Strategy</b></font></p>
+      <p><sub>System architecture design, AI stack evaluation, cost reduction strategies &amp; technical decision guidance.</sub></p>
+      <a href="https://www.linkedin.com/in/nadeem-ahmad3/"><b><font color="#80cbc4">[ Book Consult → ]</font></b></a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" bgcolor="#011c17">
+      <br>
+      <img src="https://img.shields.io/badge/COLLABORATE-OPEN-4DB6AC?style=for-the-badge&logo=github"/>
+      <br><br>
+      <h3><font color="#4DB6AC">🤝 Collaborate</font></h3>
+      <p><font color="#e0f2f1"><b>Open Source &amp; R&amp;D</b></font></p>
+      <p><sub>Open-source AI tools, innovative research projects, and high-impact startup partnerships.</sub></p>
+      <a href="mailto:engrnadeem26@gmail.com"><b><font color="#4DB6AC">[ Let's Talk → ]</font></b></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💎 Core Specialization & Industry Focus
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" bgcolor="#030a08">
+      <h3><font color="#00FF9D">🤖 Autonomous Multi-Agent Workflows</font></h3>
+      <p>Building stateful multi-agent systems using <b>LangGraph</b>, <b>CrewAI</b>, and <b>AutoGen</b> for complex task decomposition, parallel execution, and automated code/data synthesis.</p>
+      <img src="https://img.shields.io/badge/Tech-LangGraph_•_CrewAI_•_AutoGen-004D40?style=flat-square"/>
+    </td>
+    <td width="50%" bgcolor="#030a08">
+      <h3><font color="#00FF9D">🧠 Enterprise Production RAG Pipelines</font></h3>
+      <p>Engineering high-precision Retrieval-Augmented Generation engines powered by <b>vLLM</b>, <b>LlamaIndex</b>, hybrid sparse/dense vector search, and custom re-ranking models.</p>
+      <img src="https://img.shields.io/badge/Tech-vLLM_•_LlamaIndex_•_Pinecone-00897b?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#030a08">
+      <h3><font color="#80cbc4">⚡ High-Performance Full-Stack AI SaaS</font></h3>
+      <p>Designing modern, responsive web applications with <b>Next.js 14</b>, <b>React</b>, <b>TypeScript</b>, <b>FastAPI</b>, and <b>Supabase</b> backed by microservices architecture.</p>
+      <img src="https://img.shields.io/badge/Tech-Next.js_14_•_FastAPI_•_Docker-004D40?style=flat-square"/>
+    </td>
+    <td width="50%" bgcolor="#030a08">
+      <h3><font color="#80cbc4">🏡 Local &amp; Cost-Efficient AI Infrastructure</font></h3>
+      <p>Deploying open-weight LLMs (Llama 3, Qwen, DeepSeek) on local/on-premise infrastructure with <b>Ollama</b> &amp; <b>vLLM</b>, cutting cloud API spend by up to 70%.</p>
+      <img src="https://img.shields.io/badge/Tech-Ollama_•_Local_LLMs_•_PyTorch-10B981?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ◈ Technical Arsenal & Stack Architecture
+
+<div align="center">
+
+### 🤖 AI, Machine Learning & Agent Frameworks
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python"/></p>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-00A4EF?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-090909?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square)
+![ControlNet](https://img.shields.io/badge/ControlNet-EC4899?style=flat-square)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFFFFF?style=flat-square&logo=langchain&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### 🗄️ Vector Databases & Knowledge Retrieval
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=flat-square&logo=weaviate&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+
+### 💻 Frontend & Web Engineering
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux,vue,svelte,sass,bootstrap"/></p>
+
+### ⚡ Backend, APIs & Databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,django,mongodb,postgresql,mysql,redis,sqlite,supabase"/></p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,git,github,linux,postman,figma,vscode"/></p>
+
+</div>
+
+---
+
+## 🚀 Featured Flagship AI Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" bgcolor="#011c17">
+      <h3 align="center"><font color="#00FF9D">🤖 Autonomous Multi-Agent OS</font></h3>
+      <p align="center"><b>Stateful multi-agent system executing complex research, code generation, and task automation.</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-004D40?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-00897b?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-10B981?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Implemented multi-agent state machines reducing manual task execution time by 65%.</li>
+        <li>Sub-second async response time with SSE streaming and WebSocket channels.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NadeemAhmad3"><b><font color="#00FF9D">[ Explore Repositories → ]</font></b></a>
+      </p>
+    </td>
+    <td width="50%" bgcolor="#011c17">
+      <h3 align="center"><font color="#00FF9D">⚡ Enterprise RAG Knowledge Engine</font></h3>
+      <p align="center"><b>High-precision document retrieval pipeline with hybrid sparse/dense vector search &amp; re-ranking.</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/vLLM-00897b?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Achieved 96% context relevance accuracy on multi-document benchmark datasets.</li>
+        <li>Integrated local open-weight LLMs serving 100+ concurrent requests efficiently.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NadeemAhmad3"><b>[ Explore Repositories → ]</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Productivity Analytics
+
+<div align="center">
+  <!-- ROW 1: OVERVIEW STATS & MOST USED LANGUAGES -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=dark&hide_border=true&bg_color=030a08&stroke=00897b&title_color=00FF9D&icon_color=00FF9D&text_color=80cbc4" width="48%"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NadeemAhmad3&layout=compact&theme=dark&hide_border=true&bg_color=030a08&stroke=00897b&title_color=00FF9D&text_color=80cbc4" width="48%"/>
 </div>
@@ -151,29 +245,66 @@ Nadeem Ahmad maintains a dedicated production laboratory documenting daily imple
 <br>
 
 <div align="center">
+  <!-- ROW 2: STREAK STATS & ACTIVITY GRAPH -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=dark&hide_border=true&stroke=00897b&ring=00897b&fire=4DB6AC&currStreakLabel=00897b&background=030a08" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=030a08&color=00897b&line=00897b&point=4DB6AC&hide_border=true&area=true&area_color=004D4055" width="48%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Graph Animation
+## 🐍 Hacker Contribution Grid Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Grid Animation"/>
 </div>
 
 ---
 
-## 🤝 Quick Hire & Contact
+## 🤝 Let's Connect & Collaborate
 
-| Channel | Link / Handle |
-| :--- | :--- |
-| **Email** | [engrnadeem26@gmail.com](mailto:engrnadeem26@gmail.com) |
-| **WhatsApp / Phone** | [+92 317 4388725](https://wa.me/923174388725) |
-| **LinkedIn** | [linkedin.com/in/nadeem-ahmad3](https://www.linkedin.com/in/nadeem-ahmad3/) |
-| **Portfolio** | [nadeem-ahmad3.vercel.app](https://nadeem-ahmad3.vercel.app/) |
-| **Location** | Chiniot District, Punjab, Pakistan |
-| **Hourly Rate** | **$17/hr (Engineering) • $12/hr (Consultancy)** |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br/>
+        <b>LinkedIn</b><br/>
+        <sub>Connect</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:engrnadeem26@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55"/><br/>
+        <b>Email</b><br/>
+        <sub>engrnadeem26@gmail.com</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://wa.me/923174388725">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55"/><br/>
+        <b>WhatsApp</b><br/>
+        <sub>Quick Chat</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://nadeem-ahmad3.vercel.app/">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
+        <b>Portfolio</b><br/>
+        <sub>Work</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Star what helps you. Fork what inspires you.**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030a08,50:004d40,100:030a08&height=100&section=footer"/>
