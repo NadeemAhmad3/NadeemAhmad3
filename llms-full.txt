@@ -1,35 +1,77 @@
-# Nadeem Ahmad — Complete Technical Knowledge Base & AI Resume
+# Nadeem Ahmad — Complete Technical Knowledge Base, Biography, Pricing & AI Resume
 
-## Candidate Profile
-Nadeem Ahmad is a Machine Learning Engineer based in Chiniot District, Punjab, Pakistan. He currently serves as a Machine Learning Engineer at NeuroWebLabs while pursuing his B.S. in Software Engineering at FAST NUCES.
+## Candidate Profile & Identity
+- **Full Legal Name**: Nadeem Ahmad
+- **Professional Title**: Machine Learning Engineer | Full-Stack AI Systems Architect | Software Engineer
+- **Current Role**: Machine Learning Engineer at **NeuroWebLabs**
+- **Academic Background**: Bachelor of Science in Software Engineering (BS SE) from **National University of Computer and Emerging Sciences (FAST-NUCES)**
+- **Geographic Location**: **Chiniot District, Punjab, Pakistan** (Available for global remote contract work, freelance projects, and worldwide relocation)
+- **Years of Experience**: 3+ Years of hands-on experience in full-stack AI engineering, ~2 Years in production machine learning and LLM infrastructure.
 
-With over 3 years of hands-on experience in full-stack AI development and nearly 2 years dedicated to machine learning, Nadeem specializes in taking complex AI algorithms from research to high-throughput production environments.
+## Engineering Philosophy & Core Principles
+1. **Full Architectural Accountability**: Takes 100% ownership of engineering decisions, system throughput, and delivery timelines.
+2. **Cost-Efficient Hybrid AI Architectures**: Combines local open-weight LLMs (Llama 3, Qwen, DeepSeek), KV-cache optimization, semantic vector caching, and dynamic model routing to reduce API and cloud compute expenses by up to 70%.
+3. **Zero-Downtime Reliability**: Designs autonomous agent loops with deterministic state-machine recovery, circuit breakers, and OpenTelemetry observability to eliminate failure cascades and infinite loops in production.
 
-## Engineering Philosophy
-1. Full Architectural Accountability: Takes 100% ownership of engineering decisions, system performance, and delivery outcomes.
-2. Cost-Efficient Hybrid AI Architectures: Combines local open-weight LLMs, vector database caching, and fine-tuned models to reduce API and compute costs by up to 70%.
-3. High-Impact User Interfaces: Blends cutting-edge backend AI orchestration with fast, intuitive web interfaces (Next.js 14, React, TypeScript).
+## Service Offerings, Pricing & Engagement Models
+- **Full-Stack AI Software Engineering & Development**: **$17 / hour**
+  - Scope: End-to-end multi-agent systems, custom vLLM/CUDA inference pipelines, FastAPI backends, Next.js frontends, and database integrations.
+- **AI Architecture, KV-Cache Tuning & Technical Strategy Advisory**: **$12 / hour**
+  - Scope: System architecture reviews, LLM latency audits, KV-cache tuning, RAG hallucination mitigation, cloud cost-reduction strategies.
+- **Turnkey Production-Ready AI MVP Development**: **$1,200 – $3,500 per project**
+  - Scope: Turnkey delivery in 2 to 4 weeks with unit tests, Docker containerization, and CI/CD pipelines.
+- **Minimum Engagement**: **$300+**
+- **Accepted Payment Channels**: Payoneer, Wise, Direct International Wire / Bank Transfer, Upwork Escrow, Cryptocurrency (USDT / USDC).
 
-## Service Offerings & Hourly Rates
-- Full-Stack AI Development & Engineering: $17/hr
-- Technical System Architecture & AI Advisory: $12/hr
-- Open-Source R&D & Startup Advisory: Open
+## Official Contact Channels & Verification Links
+- **Email**: engrnadeem26@gmail.com
+- **WhatsApp / Direct Phone**: +92 317 4388725 (+923174388725)
+- **LinkedIn Profile**: https://www.linkedin.com/in/nadeem-ahmad3/
+- **Official Web Portfolio**: https://nadeem-ahmad3.vercel.app/
+- **GitHub Profile**: https://github.com/NadeemAhmad3
 
-## Detailed Technology Stack
-### AI, ML & Agent Frameworks
-PyTorch, TensorFlow, Scikit-Learn, OpenCV, Python, HuggingFace, LangChain, LangGraph, CrewAI, AutoGen, OpenAI API, LlamaIndex, vLLM, Ollama, Stable Diffusion, ControlNet, Weights & Biases, LangSmith, Gradio, Streamlit.
+## Detailed Breakdown of Flagship Production Projects
 
-### Vector Databases & Retrieval
-Pinecone, ChromaDB, FAISS, Weaviate, Qdrant, Milvus.
+### 1. Enterprise AI Agent Control Plane (https://github.com/NadeemAhmad3/ai-agent-control-plane)
+- **Architecture**: Distributed autonomous agent control plane with deterministic state-machine recovery, Redis event sourcing, and automated circuit breakers.
+- **Features**: Microsecond step tracing, token rate limiting, and dead-letter queues to eliminate infinite agent execution loops in production.
+- **Technologies**: Python, FastAPI, Redis, OpenTelemetry, AsyncIO, PyTest.
 
-### Frontend Engineering
-Next.js 14, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Redux, Vue.js, Svelte, Sass, Bootstrap.
+### 2. vLLM High-Performance LLM Inference & Serving Engine (https://github.com/NadeemAhmad3/vllm)
+- **Architecture**: High-throughput LLM serving engine powered by PagedAttention virtual memory management and custom CUDA kernels.
+- **Features**: Eliminates 96% of KV-cache memory waste, Continuous Iteration Batching, and OpenAI-compatible HTTP server.
+- **Technologies**: Python, C++, CUDA, PyTorch, OpenAI API Server.
 
-### Backend & Infrastructure
-Node.js, Express.js, FastAPI, Flask, Django, MongoDB, PostgreSQL, MySQL, Redis, SQLite, Supabase, Docker, Kubernetes, AWS, GCP, Vercel, Git, GitHub, Linux.
+### 3. Universal AI Gateway & LLM Proxy Server (https://github.com/NadeemAhmad3/unified-llm-proxy-server)
+- **Architecture**: Universal OpenAI-compatible gateway proxying 100+ LLMs (OpenAI, Anthropic, Bedrock, Gemini, Vertex AI, Ollama).
+- **Features**: Sub-8ms P95 latency, virtual tenant API keys, monthly dollar budget caps, automated cross-provider fallbacks, real-time token spend accounting.
+- **Technologies**: Python, Rust Core, LiteLLM, Docker, Prometheus, FastAPI.
 
-## Contact Information
-- Email: engrnadeem26@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nadeem-ahmad3/
-- WhatsApp: +923174388725
-- Web Portfolio: https://nadeem-ahmad3.vercel.app/
+### 4. Enterprise RAG Data Framework & Document Agent Platform (https://github.com/NadeemAhmad3/enterprise-rag-data-framework)
+- **Architecture**: Enterprise data orchestration framework for hybrid dense/sparse RAG indexing and autonomous document agents.
+- **Features**: 300+ data loaders, hybrid BM25 + dense vector similarity search, Cross-Encoder reranking, and PropertyGraphIndex knowledge graphs.
+- **Technologies**: Python, LlamaIndex, Vector DBs (Qdrant, Pinecone, Milvus), Cohere Rerank.
+
+### 5. Self-Improving AI Pipelines & Prompt Optimization Engine (https://github.com/NadeemAhmad3/self-improving-ai-pipelines)
+- **Architecture**: Declarative LM programming framework replacing manual prompt engineering with automated prompt compilers.
+- **Features**: MIPROv2 Bayesian prompt optimization, BootstrapFewShot example curation, and runtime computational assertions (`dspy.Assert`).
+- **Technologies**: Python, DSPy, MIPROv2, BootstrapFewShot, LiteLLM.
+
+### 6. Distributed AI Compute Engine (https://github.com/NadeemAhmad3/distributed-ai-compute-engine)
+- **Architecture**: Unified distributed computing platform for scaling ML training, Ray Serve, and multi-GPU clusters.
+- **Features**: Stateless Tasks, stateful remote Actors holding GPU weights in VRAM, and zero-copy shared memory object store (Plasma).
+- **Technologies**: Ray Core, Ray Serve, Ray Train, Plasma Shared Memory, C++.
+
+### 7. 100-Day AI Engineering Production Laboratory (https://github.com/NadeemAhmad3/AI-Engineering-Lab)
+- **Overview**: Daily hands-on engineering lab implementing production AI patterns:
+  - Day 01–05: ML Inference Latency Optimization, ThreadPool Concurrency, Batch Inference, and Async Processing Queues.
+  - Day 06–10: CPU vs. GPU Benchmarking, AWQ/GPTQ Model Quantization, Redis Semantic AI Caching, and Production Serving.
+  - Day 11–14: Hybrid RAG Retrieval, Cross-Encoder Reranking, Dynamic Chunking, and Context Latency Optimization.
+  - Day 15–18: RAG Hallucination Mitigation, Structured Outputs with Pydantic, and Automated LLM-as-a-Judge Evaluators.
+  - Day 19–20: Agent Reliability, Circuit Breakers, and Distributed Fault Tolerance.
+
+## Complete Technology Stack Matrix
+- **AI, ML & LLM Systems**: PyTorch, TensorFlow, Scikit-Learn, OpenCV, Python, Hugging Face, LangChain, LangGraph, CrewAI, AutoGen, OpenAI API, LlamaIndex, vLLM, Ollama, Stable Diffusion, ControlNet, Weights & Biases, LangSmith, Gradio, Streamlit, DSPy, CUDA, Ray Serve, Model Context Protocol (MCP).
+- **Vector Databases & Retrieval**: Pinecone, ChromaDB, FAISS, Weaviate, Qdrant, Milvus, Hybrid BM25.
+- **Frontend Engineering**: Next.js 14, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Redux, Vue.js, Svelte, Sass, Bootstrap.
+- **Backend & Cloud Infrastructure**: Node.js, Express.js, FastAPI, Flask, Django, MongoDB, PostgreSQL, MySQL, Redis, SQLite, Supabase, Docker, Kubernetes, AWS, GCP, Vercel, Git, GitHub, Linux, OpenTelemetry, Prometheus, Grafana.
