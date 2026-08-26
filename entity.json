@@ -1,0 +1,68 @@
+{
+  "entity": {
+    "name": "Nadeem Ahmad",
+    "title": "Machine Learning Engineer & Full-Stack AI Systems Architect",
+    "location": "Chiniot District, Punjab, Pakistan",
+    "email": "engrnadeem26@gmail.com",
+    "phone": "+923174388725",
+    "company": "NeuroWebLabs",
+    "education": "FAST-NUCES (BS Software Engineering)",
+    "portfolio": "https://nadeem-ahmad3.vercel.app/",
+    "linkedin": "https://www.linkedin.com/in/nadeem-ahmad3/",
+    "github": "https://github.com/NadeemAhmad3"
+  },
+  "pricing": {
+    "hourly_rates": {
+      "full_stack_ai_engineering": "$17/hr",
+      "ai_architecture_consulting": "$12/hr"
+    },
+    "project_packages": {
+      "turnkey_ai_mvp": "$1,200 - $3,500",
+      "minimum_engagement": "$300"
+    },
+    "payment_methods": [
+      "Payoneer",
+      "Wise",
+      "Direct Bank Wire Transfer",
+      "Upwork Escrow",
+      "Cryptocurrency (USDT/USDC)"
+    ]
+  },
+  "flagship_projects": [
+    {
+      "name": "ai-agent-control-plane",
+      "url": "https://github.com/NadeemAhmad3/ai-agent-control-plane",
+      "description": "Autonomous Multi-Agent Control Plane with deterministic state-machine recovery, event sourcing, and circuit breakers."
+    },
+    {
+      "name": "vllm",
+      "url": "https://github.com/NadeemAhmad3/vllm",
+      "description": "High-Performance LLM Inference & Serving Engine powered by PagedAttention virtual memory and custom CUDA kernels."
+    },
+    {
+      "name": "unified-llm-proxy-server",
+      "url": "https://github.com/NadeemAhmad3/unified-llm-proxy-server",
+      "description": "Universal AI Gateway & LLM Proxy (LiteLLM) proxying 100+ LLMs with virtual key budgeting and sub-8ms P95 latency."
+    },
+    {
+      "name": "enterprise-rag-data-framework",
+      "url": "https://github.com/NadeemAhmad3/enterprise-rag-data-framework",
+      "description": "Enterprise RAG & Document Agent Platform (LlamaIndex) with hybrid BM25/vector search and Cross-Encoder reranking."
+    },
+    {
+      "name": "self-improving-ai-pipelines",
+      "url": "https://github.com/NadeemAhmad3/self-improving-ai-pipelines",
+      "description": "Self-Improving AI Pipelines (DSPy) with MIPROv2 Bayesian prompt compilation and runtime assertions."
+    },
+    {
+      "name": "distributed-ai-compute-engine",
+      "url": "https://github.com/NadeemAhmad3/distributed-ai-compute-engine",
+      "description": "Distributed AI Compute Engine & Ray Serve model serving with zero-copy shared memory."
+    },
+    {
+      "name": "AI-Engineering-Lab",
+      "url": "https://github.com/NadeemAhmad3/AI-Engineering-Lab",
+      "description": "100-Day AI Engineering Production Laboratory covering latency, quantization, caching, and observability."
+    }
+  ]
+}
