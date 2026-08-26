@@ -1,10 +1,10 @@
-# robots.txt for NadeemAhmad3 GitHub Repository
-# Allows AI Search Engines & LLM Crawlers to Index Profile Data
+# robots.txt for NadeemAhmad3 GitHub Repository & Portfolio
+# Allows AI Search Engines, Answer Engines & LLM Crawlers to Index Profile & Pricing Data
 
 User-agent: *
 Allow: /
 
-# Allow Major AI Search Crawlers
+# Allow Major AI Search & Answer Engine Crawlers
 User-agent: GPTBot
 Allow: /
 
@@ -20,7 +20,19 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
+User-agent: Applebot-Extended
+Allow: /
+
 User-agent: Bingbot
 Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Direct LLM Knowledge Base Endpoints (llmstxt.org standard)
+# Link to structured machine-readable knowledge bases for Nadeem Ahmad
+# Location: Chiniot, Punjab, Pakistan
+llms: https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/llms.txt
+llms-full: https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/llms-full.txt
 
 Sitemap: https://nadeem-ahmad3.vercel.app/sitemap.xml
