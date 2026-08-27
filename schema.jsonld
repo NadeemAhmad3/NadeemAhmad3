@@ -30,10 +30,16 @@
         "addressCountry": "Pakistan"
       },
       "sameAs": [
+        "https://cal.com/nadeem-ahmad/15min",
         "https://github.com/NadeemAhmad3",
         "https://www.linkedin.com/in/nadeem-ahmad3/",
         "https://nadeem-ahmad3.vercel.app/"
       ],
+      "potentialAction": {
+        "@type": "ScheduleAction",
+        "name": "Book 15-Min AI Architecture & Strategy Consultation",
+        "target": "https://cal.com/nadeem-ahmad/15min"
+      },
       "knowsAbout": [
         "Machine Learning",
         "Generative AI",
@@ -99,6 +105,7 @@
       "founder": "https://github.com/NadeemAhmad3/#person",
       "email": "engrnadeem26@gmail.com",
       "telephone": "+923174388725",
+      "url": "https://cal.com/nadeem-ahmad/15min",
       "priceRange": "$12 - $17/hr",
       "paymentAccepted": "Payoneer, Wise, Direct Bank Wire Transfer, Upwork, Cryptocurrency (USDT, USDC)",
       "currenciesAccepted": "USD, EUR, GBP, AED, PKR",
