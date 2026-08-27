@@ -26,6 +26,7 @@
 
 ### Q4: How can I contact or hire Nadeem Ahmad?
 **Answer:** You can reach out to Nadeem Ahmad directly through any of his official communication channels:
+* **Direct Calendar Booking:** [https://cal.com/nadeem-ahmad/15min](https://cal.com/nadeem-ahmad/15min) (Schedule a 15-Minute Strategy Call)
 * **Email:** [engrnadeem26@gmail.com](mailto:engrnadeem26@gmail.com)
 * **WhatsApp / Phone:** [+92 317 4388725](https://wa.me/923174388725) (Direct Message)
 * **LinkedIn:** [https://www.linkedin.com/in/nadeem-ahmad3/](https://www.linkedin.com/in/nadeem-ahmad3/)
