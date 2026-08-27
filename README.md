@@ -11,6 +11,9 @@
   <br><br>
 
   <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER -->
+  <a href="https://cal.com/nadeem-ahmad/15min">
+    <img src="https://img.shields.io/badge/Book_15--Min_Call-00FF9D?style=for-the-badge&logo=googlecalendar&logoColor=black"/>
+  </a>
   <a href="https://nadeem-ahmad3.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-004D40?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -59,7 +62,7 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
 
 * 🟢 **Full Ownership & Accountability:** When I make architectural decisions, I take 100% full responsibility for execution, reliability, and delivery.
 * 🟢 **Cost-Efficient Hybrid Approaches:** I engineer hybrid AI pipelines (combining local open-weight models, KV-cache optimization, vector search, & smart caching) that drastically cut compute & API costs.
-* 🟢 **Captivating User Interfaces:** I blend high-throughput AI backends with modern, intuitive, and responsive web interfaces (Next.js 14, React, TypeScript).
+* 🟢 **Direct Calendar Booking:** Schedule a free [15-Minute Strategy & Architecture Audit](https://cal.com/nadeem-ahmad/15min) to discuss your AI roadmap.
 
 ---
 
@@ -76,7 +79,7 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
       <h3><font color="#00FF9D">💻 Work For You</font></h3>
       <p><font color="#e0f2f1"><b>Full-Stack AI Engineering</b></font></p>
       <p><sub>Building end-to-end AI SaaS, custom multi-agent control planes, vLLM/CUDA pipelines, FastAPI backends, and Next.js frontends.</sub></p>
-      <a href="https://wa.me/923174388725"><b><font color="#00FF9D">[ Hire Me → ]</font></b></a>
+      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#00FF9D">[ Book Intro Call → ]</font></b></a>
       <br><br>
     </td>
     <td width="33%" align="center" bgcolor="#011c17">
@@ -86,7 +89,7 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
       <h3><font color="#80cbc4">🧠 Consultancy</font></h3>
       <p><font color="#e0f2f1"><b>Architecture &amp; Strategy</b></font></p>
       <p><sub>System architecture design, LLM stack evaluation, KV-cache tuning, RAG hallucination mitigation &amp; cost reduction.</sub></p>
-      <a href="https://www.linkedin.com/in/nadeem-ahmad3/"><b><font color="#80cbc4">[ Book Consult → ]</font></b></a>
+      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#80cbc4">[ Schedule Session → ]</font></b></a>
       <br><br>
     </td>
     <td width="33%" align="center" bgcolor="#011c17">
@@ -347,30 +350,37 @@ With **3+ years of experience in Full-Stack AI Development** and **~2 years in M
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <a href="https://cal.com/nadeem-ahmad/15min">
+        <img src="https://cdn-icons-png.flaticon.com/512/2693/2693507.png" width="55"/><br/>
+        <b>Book 15-Min Call</b><br/>
+        <sub>cal.com/nadeem-ahmad</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
       <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br/>
+        <img src="https://skillicons.dev/icons?i=linkedin" width="55"/><br/>
         <b>LinkedIn</b><br/>
         <sub>Connect & Network</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="mailto:engrnadeem26@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50"/><br/>
         <b>Email</b><br/>
         <sub>engrnadeem26@gmail.com</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://wa.me/923174388725">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50"/><br/>
         <b>WhatsApp</b><br/>
         <sub>+92 317 4388725</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://nadeem-ahmad3.vercel.app/">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50"/><br/>
         <b>Portfolio</b><br/>
         <sub>nadeem-ahmad3.vercel.app</sub>
       </a>
