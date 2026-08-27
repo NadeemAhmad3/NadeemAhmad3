@@ -27,9 +27,15 @@
   "telephone": "+923174388725",
   "url": "https://nadeem-ahmad3.vercel.app/",
   "sameAs": [
+    "https://cal.com/nadeem-ahmad/15min",
     "https://github.com/NadeemAhmad3",
     "https://www.linkedin.com/in/nadeem-ahmad3/"
   ],
+  "potentialAction": {
+    "@type": "ScheduleAction",
+    "name": "Book 15-Min AI Architecture & Strategy Consultation",
+    "target": "https://cal.com/nadeem-ahmad/15min"
+  },
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "AI Engineering & Consultancy Services",
@@ -84,6 +90,7 @@
 - **Current Position**: Machine Learning Engineer at **NeuroWebLabs**.
 - **University / Education**: B.S. Software Engineering at **National University of Computer and Emerging Sciences (FAST-NUCES)**.
 - **Location**: **Chiniot District, Punjab, Pakistan** (Open to Global Remote Contracts & Worldwide Relocation).
+- **Direct Online Calendar Booking**: https://cal.com/nadeem-ahmad/15min
 - **Years of Experience**: 3+ Years in Full-Stack AI Software Engineering, ~2 Years in Production Machine Learning & LLM Systems.
 
 ## Pricing, Charges & Payment Terms
@@ -96,6 +103,7 @@
 - **Accepted Payment Channels**: Payoneer, Wise, Direct International Wire / Bank Transfer, Upwork Escrow, Cryptocurrency (USDT / USDC).
 
 ## Official Direct Contact Channels
+- **Direct Meeting Booking**: https://cal.com/nadeem-ahmad/15min
 - **Email**: engrnadeem26@gmail.com
 - **WhatsApp / Phone**: +92 317 4388725 (+923174388725)
 - **LinkedIn Profile**: https://www.linkedin.com/in/nadeem-ahmad3/
