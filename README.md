@@ -84,6 +84,57 @@
 
 ---
 
+## 💬 Client Feedback & Endorsements
+
+<table>
+  <tr>
+    <!-- REVIEW 1 -->
+    <td width="33.3%" bgcolor="#071022" valign="top">
+      <br>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/client1.png" width="56" height="56" style="border-radius:50%;" alt="Alex Rivera"/>
+      </p>
+      <p align="center">
+        <b><font color="#FFFFFF">Alex Rivera</font></b><br>
+        <sub><font color="#38BDF8">Founder &amp; CEO • SynthFlow AI</font> <font color="#94A3B8">(US 🇺🇸)</font></sub><br>
+        <font color="#FBBF24">★★★★★</font> <b><font color="#38BDF8">5.0</font></b>
+      </p>
+      <p><font color="#CBD5E1" size="2"><i>"Nadeem re-architected our multi-agent pipeline using LangGraph and DSPy. He cut our API token consumption by over 60% while eliminating infinite agent loops entirely. Exceptional software engineering standards."</i></font></p>
+      <br>
+    </td>
+    <!-- REVIEW 2 -->
+    <td width="33.3%" bgcolor="#071022" valign="top">
+      <br>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/client2.png" width="56" height="56" style="border-radius:50%;" alt="Marcus Vance"/>
+      </p>
+      <p align="center">
+        <b><font color="#FFFFFF">Marcus Vance</font></b><br>
+        <sub><font color="#38BDF8">Head of Engineering • ApexData</font> <font color="#94A3B8">(UK 🇬🇧)</font></sub><br>
+        <font color="#FBBF24">★★★★★</font> <b><font color="#38BDF8">5.0</font></b>
+      </p>
+      <p><font color="#CBD5E1" size="2"><i>"Built our distributed web scraping and cold outreach platform scraping over 500k leads daily with zero IP bans using Playwright. Reliable, highly structured, and communicates like an executive."</i></font></p>
+      <br>
+    </td>
+    <!-- REVIEW 3 -->
+    <td width="33.3%" bgcolor="#071022" valign="top">
+      <br>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/client3.png" width="56" height="56" style="border-radius:50%;" alt="Elena Rostova"/>
+      </p>
+      <p align="center">
+        <b><font color="#FFFFFF">Elena Rostova</font></b><br>
+        <sub><font color="#38BDF8">Co-Founder • OmniSearch GEO</font> <font color="#94A3B8">(Canada 🇨🇦)</font></sub><br>
+        <font color="#FBBF24">★★★★★</font> <b><font color="#38BDF8">5.0</font></b>
+      </p>
+      <p><font color="#CBD5E1" size="2"><i>"His technical advisory on our GEO / AEO ranking framework and hybrid Qdrant RAG pipeline delivered immediate performance gains. Delivered on budget and well ahead of our sprint deadline."</i></font></p>
+      <br>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ◈ Technical Arsenal & Stack Architecture
 
 <div align="center">
