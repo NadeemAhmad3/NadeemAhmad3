@@ -37,7 +37,6 @@
   </defs>
 
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700;800&amp;family=Space+Grotesk:wght@600;700;800&amp;display=swap');
 
     .card-shell {
       fill: url(#cardBg);
