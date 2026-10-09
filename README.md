@@ -133,7 +133,10 @@
 <br>
 
 ### 💻 Full-Stack AI Architecture, Cloud & Observability
-<p><img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,kubernetes,aws,gcp,vercel,git"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,fastapi,nodejs,postgres,mongodb"/><br>
+  <img src="https://skillicons.dev/icons?i=redis,supabase,docker,kubernetes,aws,gcp,vercel,git"/>
+</p>
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
