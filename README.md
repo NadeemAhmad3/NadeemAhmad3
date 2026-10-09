@@ -22,28 +22,14 @@
     <td width="64%" valign="middle">
       <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_info_card.png" width="100%" alt="Organization, Education, Location"/><br><br>
       <b><font color="#38BDF8">⚡ Click to Connect &amp; Collaborate:</font></b><br><br>
-      <a href="https://cal.com/nadeem-ahmad/15min" title="Book 15-Min Strategy"><img src="https://img.icons8.com/color/48/calendar--v1.png" width="34" height="34" alt="Cal.com"/></a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/nadeem-ahmad3/" title="LinkedIn Profile"><img src="https://img.icons8.com/color/48/linkedin.png" width="34" height="34" alt="LinkedIn"/></a> &nbsp;&nbsp;
-      <a href="https://nadeem-ahmad3.vercel.app/" title="Live Portfolio"><img src="https://img.icons8.com/color/48/domain--v1.png" width="34" height="34" alt="Portfolio"/></a> &nbsp;&nbsp;
-      <a href="mailto:engrnadeem26@gmail.com" title="Direct Email"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="34" height="34" alt="Gmail"/></a> &nbsp;&nbsp;
+      <a href="https://cal.com/nadeem-ahmad/15min" title="Book 15-Min Strategy"><img src="https://img.icons8.com/color/48/calendar--v1.png" width="34" height="34" alt="Cal.com"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/nadeem-ahmad3/" title="LinkedIn Profile"><img src="https://img.icons8.com/color/48/linkedin.png" width="34" height="34" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://nadeem-ahmad3.vercel.app/" title="Live Portfolio"><img src="https://img.icons8.com/color/48/domain--v1.png" width="34" height="34" alt="Portfolio"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:engrnadeem26@gmail.com" title="Direct Email"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="34" height="34" alt="Gmail"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://wa.me/923174388725" title="WhatsApp Direct"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="34" height="34" alt="WhatsApp"/></a>
     </td>
   </tr>
 </table>
-
-<br>
-
-### 🚀 Who I Am & How I Build
-
-I am a **Machine Learning Engineer** at **NeuroWebLabs** and a Software Engineering scholar at **FAST NUCES** (Chiniot, Pakistan). I specialize in designing and engineering production-ready AI software systems that deliver tangible business value.
-
-With **3+ years of experience in Full-Stack AI Development** and **~2 years in Machine Learning & LLM Infrastructure**, I bridge the gap between complex research algorithms and high-scale production systems.
-
-#### 💡 Engineering Philosophy & Core Values
-
-* 🟢 **Full Ownership & Accountability:** When I make architectural decisions, I take 100% full responsibility for execution, reliability, and delivery.
-* 🟢 **Cost-Efficient Hybrid Approaches:** I engineer hybrid AI pipelines (combining local open-weight models, KV-cache optimization, vector search, & smart caching) that drastically cut compute & API costs.
-* 🟢 **Direct Calendar Booking:** Schedule a free [15-Minute Strategy & Architecture Audit](https://cal.com/nadeem-ahmad/15min) to discuss your AI roadmap.
 
 ---
 
