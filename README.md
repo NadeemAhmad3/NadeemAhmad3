@@ -92,10 +92,10 @@
     <td width="33.3%" bgcolor="#071022" valign="top">
       <br>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/client1.png" width="56" height="56" style="border-radius:50%;" alt="Alex Rivera"/>
+        <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/client1.png" width="56" height="56" style="border-radius:50%;" alt="Sophia Chen"/>
       </p>
       <p align="center">
-        <b><font color="#FFFFFF">Alex Rivera</font></b><br>
+        <b><font color="#FFFFFF">Sophia Chen</font></b><br>
         <sub><font color="#38BDF8">Founder &amp; CEO • SynthFlow AI</font> <font color="#94A3B8">(US 🇺🇸)</font></sub><br>
         <font color="#FBBF24">★★★★★</font> <b><font color="#38BDF8">5.0</font></b>
       </p>
