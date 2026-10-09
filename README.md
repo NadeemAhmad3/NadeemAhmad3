@@ -166,10 +166,21 @@
 
 <div align="center">
 
-**⭐ Star what helps you. Fork what inspires you.**
+  <table width="100%">
+    <tr>
+      <td align="center" bgcolor="#071022">
+        <br>
+        <font color="#38BDF8" size="4"><b>Ready to build scalable AI systems, multi-agent workflows, or audit your architecture?</b></font><br><br>
+        <font color="#94A3B8" size="3">Let's discuss engineering roadmaps, model optimizations, and real business outcomes.</font><br><br>
+        <a href="https://cal.com/nadeem-ahmad/15min"><img src="https://img.shields.io/badge/Cal.com-Schedule_15--Min_Strategy_Call-0284C7?style=for-the-badge&logo=calendar&logoColor=white" height="32"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040813,25:0A192F,50:0284C7,75:38BDF8,100:040813&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040813,25:0A192F,50:0284C7,75:38BDF8,100:040813&height=120&section=footer"/>
 
 </div>
