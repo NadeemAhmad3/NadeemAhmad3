@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ About Me & Persona Architecture
+## ⚡ About Me
 
 <table>
   <tr>
@@ -33,40 +33,50 @@
 
 ---
 
-## 🎯 Ways We Can Work Together
+## 🎯 Services & Engagement Models
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" bgcolor="#011c17">
+    <!-- HOURLY WORK -->
+    <td width="25%" align="center" bgcolor="#071022" valign="top">
       <br>
-      <img src="https://img.shields.io/badge/DIRECT_WORK-$17%2Fhr-10B981?style=for-the-badge&logo=rocket"/>
-      <br><br>
-      <h3><font color="#00FF9D">💻 Work For You</font></h3>
-      <p><font color="#e0f2f1"><b>Full-Stack AI Engineering</b></font></p>
-      <p><sub>Building end-to-end AI SaaS, custom multi-agent control planes, vLLM/CUDA pipelines, FastAPI backends, and Next.js frontends.</sub></p>
-      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#00FF9D">[ Book Intro Call → ]</font></b></a>
+      <img src="https://img.icons8.com/color/48/clock--v1.png" width="40" height="40" alt="Hourly Rate"/>
+      <h3><font color="#38BDF8">Hourly Work</font></h3>
+      <h2><font color="#FFFFFF">$15</font> <font size="2" color="#94A3B8">/ hr</font></h2>
+      <p align="left"><font size="2" color="#CBD5E1">Full-stack AI development, autonomous multi-agent pipelines, custom API workflows, and rapid feature builds.</font></p>
+      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#38BDF8">[ Book Hourly → ]</font></b></a>
       <br><br>
     </td>
-    <td width="33%" align="center" bgcolor="#011c17">
+    <!-- MONTHLY PROJECT -->
+    <td width="25%" align="center" bgcolor="#071022" valign="top">
       <br>
-      <img src="https://img.shields.io/badge/CONSULTANCY-$12%2Fhr-00897b?style=for-the-badge&logo=lightbulb"/>
-      <br><br>
-      <h3><font color="#80cbc4">🧠 Consultancy</font></h3>
-      <p><font color="#e0f2f1"><b>Architecture &amp; Strategy</b></font></p>
-      <p><sub>System architecture design, LLM stack evaluation, KV-cache tuning, RAG hallucination mitigation &amp; cost reduction.</sub></p>
-      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#80cbc4">[ Schedule Session → ]</font></b></a>
+      <img src="https://img.icons8.com/color/48/calendar--v1.png" width="40" height="40" alt="Monthly Project"/>
+      <h3><font color="#38BDF8">Monthly Project</font></h3>
+      <h2><font color="#FFFFFF">$1,200</font> <font size="2" color="#94A3B8">/ mo</font></h2>
+      <p align="left"><font size="2" color="#CBD5E1">Dedicated sprint commitment for end-to-end product architecture, self-improving agents, and scalable delivery.</font></p>
+      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#38BDF8">[ Hire Monthly → ]</font></b></a>
       <br><br>
     </td>
-    <td width="33%" align="center" bgcolor="#011c17">
+    <!-- ARCHITECTURE REVIEW -->
+    <td width="25%" align="center" bgcolor="#071022" valign="top">
       <br>
-      <img src="https://img.shields.io/badge/COLLABORATE-OPEN-4DB6AC?style=for-the-badge&logo=github"/>
+      <img src="https://img.icons8.com/color/48/search-more.png" width="40" height="40" alt="System Review"/>
+      <h3><font color="#38BDF8">System Review</font></h3>
+      <h2><font color="#FFFFFF">$20</font> <font size="2" color="#94A3B8">/ review</font></h2>
+      <p align="left"><font size="2" color="#CBD5E1">Comprehensive system audit: codebase inspection, latency bottlenecks, token cost reduction, and resilience tuning.</font></p>
+      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#38BDF8">[ Request Review → ]</font></b></a>
       <br><br>
-      <h3><font color="#4DB6AC">🤝 Collaborate</font></h3>
-      <p><font color="#e0f2f1"><b>Open Source &amp; R&amp;D</b></font></p>
-      <p><sub>Open-source AI tools, distributed computing research projects, and high-impact startup partnerships.</sub></p>
-      <a href="mailto:engrnadeem26@gmail.com"><b><font color="#4DB6AC">[ Let's Talk → ]</font></b></a>
+    </td>
+    <!-- CONSULTANCY -->
+    <td width="25%" align="center" bgcolor="#071022" valign="top">
+      <br>
+      <img src="https://img.icons8.com/color/48/consultation.png" width="40" height="40" alt="Consultancy"/>
+      <h3><font color="#38BDF8">Consultancy</font></h3>
+      <h2><font color="#FFFFFF">$15</font> <font size="2" color="#94A3B8">/ 20 min</font></h2>
+      <p align="left"><font size="2" color="#CBD5E1">Strategic 1-on-1 technical advisory session on agent architectures, LLM orchestration, and GEO / AEO roadmap.</font></p>
+      <a href="https://cal.com/nadeem-ahmad/15min"><b><font color="#38BDF8">[ Book Session → ]</font></b></a>
       <br><br>
     </td>
   </tr>
