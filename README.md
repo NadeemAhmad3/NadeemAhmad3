@@ -5,10 +5,16 @@
 
   <h3><i>"Architecting High-Performance, Cost-Efficient AI Systems & Autonomous Multi-Agent Platforms"</i></h3>
 
-  <!-- HIGH-IMPACT ANIMATED NEON TERMINAL (CYAN / SAPPHIRE) -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=1100&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Autonomous+Multi-Agent+Systems+%26+Self-Improving+Pipelines;Generative+Engine+Optimization+(GEO+%26+AEO)+%7C+AI+Search+Intelligence;High-Scale+Distributed+Crawlers+%26+Anti-Bot+Infrastructure+(Go);Production+AI+Architectures+with+Deterministic+Execution+%26+Scale;Designing+Robust%2C+Reliable+%26+Cost-Efficient+Software+Systems"/>
+  <p align="center">
+    <code>⚡ Autonomous Multi-Agent Systems</code> &nbsp;&bull;&nbsp; 
+    <code>🔄 Self-Improving AI Pipelines (DSPy)</code> &nbsp;&bull;&nbsp; 
+    <code>🌐 GEO & AEO Search Intelligence</code>
+    <br><br>
+    <code>🚀 High-Scale Distributed Crawlers (Go)</code> &nbsp;&bull;&nbsp; 
+    <code>🛡️ Deterministic Execution &amp; Production Scale</code>
+  </p>
 
-  <br><br>
+  <br>
 
   <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER (SAPPHIRE THEME) -->
   <a href="https://cal.com/nadeem-ahmad/15min">
