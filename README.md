@@ -5,41 +5,10 @@
 
   <h3><i>"Architecting High-Performance, Cost-Efficient AI Systems & Autonomous Multi-Agent Platforms"</i></h3>
 
-  <!-- 4-PILLAR ARCHITECTURE CARDS (NATIVE GITHUB MARKDOWN) -->
-  <table width="100%">
-    <tr>
-      <td width="25%" align="center" bgcolor="#071022">
-        <br>
-        <h4><font color="#38BDF8">🤖 Autonomous Agents</font></h4>
-        <p><font color="#FFFFFF"><b>Multi-Agent Workflows</b></font></p>
-        <p><sub><font color="#94A3B8">Stateful Graphs &bull; MCP &bull; Retries</font></sub></p>
-        <br>
-      </td>
-      <td width="25%" align="center" bgcolor="#071022">
-        <br>
-        <h4><font color="#38BDF8">🔄 Self-Improving AI</font></h4>
-        <p><font color="#FFFFFF"><b>Optimization Loops</b></font></p>
-        <p><sub><font color="#94A3B8">DSPy &bull; MIPROv2 Compilers</font></sub></p>
-        <br>
-      </td>
-      <td width="25%" align="center" bgcolor="#071022">
-        <br>
-        <h4><font color="#38BDF8">🌐 GEO &amp; AEO Engine</font></h4>
-        <p><font color="#FFFFFF"><b>AI Search Citations</b></font></p>
-        <p><sub><font color="#94A3B8">ChatGPT &bull; Gemini &bull; Claude</font></sub></p>
-        <br>
-      </td>
-      <td width="25%" align="center" bgcolor="#071022">
-        <br>
-        <h4><font color="#38BDF8">🚀 Distributed Scale</font></h4>
-        <p><font color="#FFFFFF"><b>High-Scale Crawlers</b></font></p>
-        <p><sub><font color="#94A3B8">Go &bull; Anti-Bot &bull; Infra</font></sub></p>
-        <br>
-      </td>
-    </tr>
-  </table>
+  <!-- 4 ARCHITECTURE CARDS (EXACT LINKEDIN BANNER STYLE - ZERO SUBHEADINGS) -->
+  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/architecture_cards.png" width="100%" alt="Autonomous AI Systems, Scraping and Cold Outreach, GEO AEO and Search, Scalable Architecture"/>
 
-  <br>
+  <br><br>
 
   <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER (SAPPHIRE THEME) -->
   <a href="https://cal.com/nadeem-ahmad/15min">
