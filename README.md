@@ -35,20 +35,25 @@
 
 ## ⚡ About Me & Persona Architecture
 
-<div align="center">
-
-  <!-- PROFILE PHOTO WITH VIBRANT EMERALD SPLASH BACKGROUND -->
-  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_splash.png" width="280" style="border-radius: 16px; border: 2px solid #10B981; box-shadow: 0 0 30px rgba(16, 185, 129, 0.5);"/>
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Role-ML_Engineer_@_NeuroWebLabs-004D40?style=for-the-badge&logo=brain&logoColor=00FF9D"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Education-FAST_NUCES_(BS_SE)-00897b?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chiniot_District,_Punjab,_Pakistan-10B981?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-</div>
+<table>
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_seated.png" width="100%" alt="Nadeem Ahmad - Software Engineer &amp; AI Engineer"/>
+    </td>
+    <td width="64%" valign="middle">
+      <h3><font color="#38BDF8">Nadeem Ahmad</font></h3>
+      <p><b><font color="#FFFFFF">Software Engineer &nbsp;&bull;&nbsp; AI Engineer</font></b></p>
+      <hr>
+      <p>
+        <b>💼 Role:</b> <code>Software Engineer &amp; AI Engineer @ NeuroWebLabs</code><br><br>
+        <b>🎓 Academic:</b> <code>FAST NUCES &bull; B.S. Software Engineering</code><br><br>
+        <b>🌐 Focus:</b> <code>Autonomous Multi-Agent &bull; Self-Improving AI &bull; GEO/AEO</code><br><br>
+        <b>📍 Location:</b> <code>Pakistan &bull; Available Worldwide</code><br><br>
+        <b>⚡ Status:</b> <font color="#38BDF8"><b>Open to Technical Consulting &amp; Advisory</b></font>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
