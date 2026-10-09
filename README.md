@@ -8,27 +8,6 @@
   <!-- 4 ARCHITECTURE CARDS (EXACT LINKEDIN BANNER STYLE - ZERO SUBHEADINGS) -->
   <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/architecture_cards.png" width="100%" alt="Autonomous AI Systems, Scraping and Cold Outreach, GEO AEO and Search, Scalable Architecture"/>
 
-  <br><br>
-
-  <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER (SAPPHIRE THEME) -->
-  <a href="https://cal.com/nadeem-ahmad/15min">
-    <img src="https://img.shields.io/badge/Book_15--Min_Call-0284C7?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
-  </a>
-  <a href="https://nadeem-ahmad3.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:engrnadeem26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/923174388725">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
@@ -38,19 +17,53 @@
 <table>
   <tr>
     <td width="36%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_seated.png" width="100%" alt="Nadeem Ahmad - Software Engineer &amp; AI Engineer"/>
+      <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_seated.png" width="100%" alt="Nadeem Ahmad"/>
     </td>
     <td width="64%" valign="middle">
-      <h3><font color="#38BDF8">Nadeem Ahmad</font></h3>
-      <p><b><font color="#FFFFFF">Software Engineer &nbsp;&bull;&nbsp; AI Engineer</font></b></p>
-      <hr>
       <p>
-        <b>💼 Role:</b> <code>Software Engineer &amp; AI Engineer @ NeuroWebLabs</code><br><br>
-        <b>🎓 Academic:</b> <code>FAST NUCES &bull; B.S. Software Engineering</code><br><br>
-        <b>🌐 Focus:</b> <code>Autonomous Multi-Agent &bull; Self-Improving AI &bull; GEO/AEO</code><br><br>
-        <b>📍 Location:</b> <code>Pakistan &bull; Available Worldwide</code><br><br>
-        <b>⚡ Status:</b> <font color="#38BDF8"><b>Open to Technical Consulting &amp; Advisory</b></font>
+        <b>💼 Organization:</b> <code>Software Engineer &amp; AI Engineer @ NeuroWebLabs</code><br><br>
+        <b>🎓 Alma Mater:</b> <code>FAST NUCES &bull; B.S. Software Engineering</code><br><br>
+        <b>📍 Location:</b> <code>Punjab, Pakistan &bull; Available for Global Remote</code>
       </p>
+      <hr>
+      <table width="100%">
+        <tr>
+          <td width="50%" bgcolor="#071022">
+            <a href="https://cal.com/nadeem-ahmad/15min">
+              <img src="https://cdn-icons-png.flaticon.com/512/2693/2693507.png" width="22" valign="middle"/> &nbsp;
+              <b><font color="#38BDF8">Book 15-Min Strategy</font></b>
+            </a>
+          </td>
+          <td width="50%" bgcolor="#071022">
+            <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
+              <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="22" valign="middle"/> &nbsp;
+              <b><font color="#38BDF8">LinkedIn Profile</font></b>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" bgcolor="#071022">
+            <a href="https://nadeem-ahmad3.vercel.app/">
+              <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="22" valign="middle"/> &nbsp;
+              <b><font color="#38BDF8">Live Portfolio</font></b>
+            </a>
+          </td>
+          <td width="50%" bgcolor="#071022">
+            <a href="mailto:engrnadeem26@gmail.com">
+              <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="22" valign="middle"/> &nbsp;
+              <b><font color="#38BDF8">Direct Email</font></b>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" bgcolor="#071022">
+            <a href="https://wa.me/923174388725">
+              <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="22" valign="middle"/> &nbsp;
+              <b><font color="#38BDF8">WhatsApp Direct (+92 317 4388725)</font></b>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
