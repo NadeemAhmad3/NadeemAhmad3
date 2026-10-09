@@ -1,0 +1,152 @@
+<svg width="960" height="76" viewBox="0 0 960 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep Obsidian Luxury Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#102040"/>
+      <stop offset="40%" stop-color="#09142A"/>
+      <stop offset="100%" stop-color="#040916"/>
+    </linearGradient>
+
+    <!-- Top Laser Edge Highlight -->
+    <linearGradient id="laserHighlight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Icon Chassis Gradient -->
+    <linearGradient id="iconBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2854"/>
+      <stop offset="100%" stop-color="#071328"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-shell {
+      fill: url(#cardBg);
+      stroke: rgba(56, 189, 248, 0.45);
+      stroke-width: 1.2;
+      rx: 9px;
+    }
+    .laser-line {
+      stroke: url(#laserHighlight);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+    }
+    .icon-chassis {
+      fill: url(#iconBg);
+      stroke: rgba(56, 189, 248, 0.6);
+      stroke-width: 1.2;
+      rx: 8px;
+    }
+    .tag-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Space Grotesk', Roboto, sans-serif;
+      font-size: 9.5px;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      fill: #38BDF8;
+      text-transform: uppercase;
+    }
+    .main-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Space Grotesk', Roboto, sans-serif;
+      font-size: 14px;
+      font-weight: 800;
+      letter-spacing: -0.01em;
+      fill: #FFFFFF;
+    }
+    .sub-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Space Grotesk', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #94A3B8;
+      letter-spacing: 0.01em;
+    }
+  </style>
+
+  <!-- ==================== CARD 1: AUTONOMOUS AGENTS ==================== -->
+  <g transform="translate(0, 3)">
+    <rect class="card-shell" x="0" y="0" width="234" height="70"/>
+    <line class="laser-line" x1="16" y1="1" x2="218" y2="1"/>
+
+    <!-- Icon Chassis (40x40) -->
+    <rect class="icon-chassis" x="12" y="15" width="40" height="40"/>
+    <!-- Realistic Agent Mesh Glyph -->
+    <g transform="translate(16, 19)" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="16" cy="9" r="3.5" fill="#38BDF8"/>
+      <circle cx="8" cy="23" r="3" fill="#0284C7"/>
+      <circle cx="24" cy="23" r="3" fill="#0284C7"/>
+      <path d="M13.5 11.5L9.5 20M18.5 11.5L22.5 20M11 23h10" stroke="#BAE6FD" stroke-width="1.2"/>
+      <circle cx="16" cy="17" r="1.5" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Typography -->
+    <text class="tag-title" x="62" y="27">01 // MULTI-AGENT</text>
+    <text class="main-title" x="62" y="44">Autonomous Agents</text>
+    <text class="sub-title" x="62" y="59">Stateful Workflows &bull; MCP</text>
+  </g>
+
+  <!-- ==================== CARD 2: SELF-IMPROVING AI ==================== -->
+  <g transform="translate(242, 3)">
+    <rect class="card-shell" x="0" y="0" width="234" height="70"/>
+    <line class="laser-line" x1="16" y1="1" x2="218" y2="1"/>
+
+    <!-- Icon Chassis (40x40) -->
+    <rect class="icon-chassis" x="12" y="15" width="40" height="40"/>
+    <!-- Optimization Loop Glyph -->
+    <g transform="translate(16, 19)" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M24 13A8 8 0 1 0 25.5 18M25.5 13v5h-5"/>
+      <circle cx="16" cy="16" r="3" fill="#38BDF8"/>
+      <path d="M13 16l3-3 3 3" stroke="#FFFFFF" stroke-width="1.2"/>
+    </g>
+
+    <!-- Typography -->
+    <text class="tag-title" x="62" y="27">02 // AI COMPILERS</text>
+    <text class="main-title" x="62" y="44">Self-Improving Loops</text>
+    <text class="sub-title" x="62" y="59">DSPy &bull; MIPROv2 &bull; Auto-Prompt</text>
+  </g>
+
+  <!-- ==================== CARD 3: GEO & AEO SEARCH ==================== -->
+  <g transform="translate(484, 3)">
+    <rect class="card-shell" x="0" y="0" width="234" height="70"/>
+    <line class="laser-line" x1="16" y1="1" x2="218" y2="1"/>
+
+    <!-- Icon Chassis (40x40) -->
+    <rect class="icon-chassis" x="12" y="15" width="40" height="40"/>
+    <!-- Search Radar & Citations Glyph -->
+    <g transform="translate(16, 19)" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="15" cy="15" r="8"/>
+      <path d="M15 7a8 8 0 0 1 0 16M7 15h16"/>
+      <path d="M21 21L26 26" stroke="#BAE6FD" stroke-width="2.2"/>
+      <circle cx="15" cy="15" r="2" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Typography -->
+    <text class="tag-title" x="62" y="27">03 // AI CITATIONS</text>
+    <text class="main-title" x="62" y="44">GEO &amp; AEO Engine</text>
+    <text class="sub-title" x="62" y="59">ChatGPT &bull; Gemini &bull; Claude</text>
+  </g>
+
+  <!-- ==================== CARD 4: DISTRIBUTED CRAWLERS ==================== -->
+  <g transform="translate(726, 3)">
+    <rect class="card-shell" x="0" y="0" width="234" height="70"/>
+    <line class="laser-line" x1="16" y1="1" x2="218" y2="1"/>
+
+    <!-- Icon Chassis (40x40) -->
+    <rect class="icon-chassis" x="12" y="15" width="40" height="40"/>
+    <!-- High-Throughput Cluster Glyph -->
+    <g transform="translate(16, 19)" stroke="#38BDF8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="8" y="8" width="6" height="6" rx="1.5" fill="#38BDF8"/>
+      <rect x="18" y="8" width="6" height="6" rx="1.5" fill="#0284C7"/>
+      <rect x="13" y="18" width="6" height="6" rx="1.5" fill="#0284C7"/>
+      <path d="M11 14v2h5v2M21 14v2h-5" stroke="#BAE6FD" stroke-width="1.2"/>
+      <circle cx="16" cy="7" r="1" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Typography -->
+    <text class="tag-title" x="62" y="27">04 // DISTRIBUTED ENGINES</text>
+    <text class="main-title" x="62" y="44">High-Scale Crawlers</text>
+    <text class="sub-title" x="62" y="59">Go &bull; Anti-Bot &bull; Scale</text>
+  </g>
+</svg>

@@ -5,14 +5,10 @@
 
   <h3><i>"Architecting High-Performance, Cost-Efficient AI Systems & Autonomous Multi-Agent Platforms"</i></h3>
 
-  <p align="center">
-    <code>⚡ Autonomous Multi-Agent Systems</code> &nbsp;&bull;&nbsp; 
-    <code>🔄 Self-Improving AI Pipelines (DSPy)</code> &nbsp;&bull;&nbsp; 
-    <code>🌐 GEO & AEO Search Intelligence</code>
-    <br><br>
-    <code>🚀 High-Scale Distributed Crawlers (Go)</code> &nbsp;&bull;&nbsp; 
-    <code>🛡️ Deterministic Execution &amp; Production Scale</code>
-  </p>
+  <!-- CUSTOM LUXURY ARCHITECTURE MATRIX RIBBON -->
+  <img src="assets/architecture_ribbon.svg" width="100%" alt="Autonomous Multi-Agent Systems, Self-Improving AI Pipelines, GEO and AEO AI Search Citations, High-Scale Distributed Crawlers"/>
+
+  <br><br>
 
   <br>
 
