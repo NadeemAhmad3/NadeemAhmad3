@@ -4,28 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:040813,25:0A192F,50:0284C7,75:38BDF8,100:040813&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer&descAlignY=62&descSize=21&descFontColor=BAE6FD&animation=fadeIn"/>
 
   <h3><i>"Architecting High-Performance, Cost-Efficient AI Systems & Autonomous Multi-Agent Platforms"</i></h3>
-  <p>
-    <b>
-      <font color="#38BDF8">Self-Improving AI Pipelines (DSPy)</font> &nbsp;•&nbsp; 
-      <font color="#60A5FA">Generative Search Intelligence (AEO & GEO)</font> &nbsp;•&nbsp; 
-      <font color="#38BDF8">Distributed Crawlers & Scale</font>
-    </b>
-  </p>
 
-  <!-- INDEXABLE ARCHITECTURE CORES STRIP -->
-  <table align="center" width="100%">
-    <tr>
-      <td align="center" bgcolor="#071022" style="border: 1px solid #1E3A8A; border-radius: 8px; padding: 12px;">
-        <code><b>&gt; ARCHITECTURE CORES:</b></code> &nbsp;
-        <a href="https://github.com/NadeemAhmad3/ai-agent-control-plane"><b><font color="#38BDF8">Autonomous Agent Control Planes</font></b></a> &bull; 
-        <a href="https://github.com/NadeemAhmad3/self-improving-ai-pipelines"><b><font color="#60A5FA">Self-Improving LM Compilers (DSPy)</font></b></a> &bull; 
-        <a href="https://github.com/NadeemAhmad3/GEO_Audit"><b><font color="#38BDF8">GEO / AEO Search Auditing</font></b></a> &bull; 
-        <b><font color="#60A5FA">High-Scale Distributed Crawlers (Go)</font></b>
-      </td>
-    </tr>
-  </table>
+  <!-- HIGH-IMPACT ANIMATED NEON TERMINAL (CYAN / SAPPHIRE) -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=1100&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Autonomous+Multi-Agent+Systems+%26+Self-Improving+Pipelines;Generative+Engine+Optimization+(GEO+%26+AEO)+%7C+AI+Search+Intelligence;High-Scale+Distributed+Crawlers+%26+Anti-Bot+Infrastructure+(Go);Production+AI+Architectures+with+Deterministic+Execution+%26+Scale;Designing+Robust%2C+Reliable+%26+Cost-Efficient+Software+Systems"/>
 
-  <br>
+  <br><br>
 
   <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER (SAPPHIRE THEME) -->
   <a href="https://cal.com/nadeem-ahmad/15min">
