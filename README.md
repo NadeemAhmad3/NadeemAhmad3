@@ -88,41 +88,52 @@
 
 <div align="center">
 
-### 🤖 LLM Inference, CUDA & Distributed Systems
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,cpp,c,rust"/></p>
-
-![vLLM](https://img.shields.io/badge/vLLM-00FF9D?style=flat-square&logoColor=black)
-![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray_Distributed-028CF0?style=flat-square&logo=ray&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### 🤖 LLM Models, Inference & Multi-Provider Gateways
+![Claude 3.5](https://img.shields.io/badge/Claude_3.5_Sonnet-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-000000?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_V3-1E40AF?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-0284C7?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+![LiteLLM](https://img.shields.io/badge/LiteLLM_Proxy-0A192F?style=flat-square&logoColor=38BDF8)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🧠 Autonomous Agents & Prompt Compilers
-![DSPy](https://img.shields.io/badge/DSPy-10B981?style=flat-square)
-![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-0078D4?style=flat-square)
-![AutoGen](https://img.shields.io/badge/AutoGen-00A4EF?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square)
-![LiteLLM](https://img.shields.io/badge/LiteLLM_Gateway-00897b?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=flat-square)
+<br>
 
-### 🗄️ Vector Databases, RAG & Knowledge Retrieval
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=flat-square&logo=weaviate&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
+### 🧠 Autonomous Multi-Agent & Self-Improving Pipelines
+![DSPy](https://img.shields.io/badge/DSPy_Compilers-0284C7?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logoColor=38BDF8)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4F00?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6366F1?style=flat-square&logoColor=white)
+![Ray Distributed](https://img.shields.io/badge/Ray_Distributed-028CF0?style=flat-square&logo=ray&logoColor=white)
 
-### 💻 Full-Stack AI, APIs & Databases
-<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,fastapi,nodejs,express,mongodb,postgres,mysql,redis,supabase"/></p>
+<br>
 
-### ☁️ Cloud, DevOps & AI Observability
-<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,git,github,linux,postman"/></p>
+### 🕷️ Intelligent Scraping, Outreach & Search Engines (GEO / AEO)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-00D8A2?style=flat-square&logo=puppeteer&logoColor=black)
+![Crawl4AI](https://img.shields.io/badge/Crawl4AI-0284C7?style=flat-square&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FF4500?style=flat-square&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_AI_Search-0F172A?style=flat-square&logoColor=38BDF8)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity_Engine-20B2AA?style=flat-square&logoColor=white)
+
+<br>
+
+### 🗄️ Vector Knowledge Bases & Retrieval (RAG)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Vector-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+<br>
+
+### 💻 Full-Stack AI Architecture, Cloud & Observability
+<p><img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,kubernetes,aws,gcp,vercel,git"/></p>
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
