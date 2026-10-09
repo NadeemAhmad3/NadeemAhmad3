@@ -20,16 +20,11 @@
       <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_seated.png" width="100%" alt="Nadeem Ahmad"/>
     </td>
     <td width="64%" valign="middle">
-      <p>
-        <b>💼 Organization:</b> <code>Software Engineer &amp; AI Engineer @ NeuroWebLabs</code><br><br>
-        <b>🎓 Education:</b> <code>FAST NUCES &bull; B.S. Software Engineering</code><br><br>
-        <b>📍 Location:</b> <code>Punjab, Pakistan &bull; Available for Global Remote</code>
-      </p>
-      <br>
+      <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_info_card.png" width="100%" alt="Organization, Education, Location"/><br><br>
       <a href="https://cal.com/nadeem-ahmad/15min"><img src="https://img.shields.io/badge/Cal.com-Book_15--Min_Strategy-0284C7?style=for-the-badge&logo=calendar&logoColor=white" height="28"/></a> &nbsp;
-      <a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-Nadeem_Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a> &nbsp;
+      <a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-Nadeem_Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a><br><br>
       <a href="https://nadeem-ahmad3.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-nadeem--ahmad3.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a> &nbsp;
-      <a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-engrnadeem26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a> &nbsp;
+      <a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-engrnadeem26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a><br><br>
       <a href="https://wa.me/923174388725"><img src="https://img.shields.io/badge/WhatsApp-%2B92_317_4388725-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/></a>
     </td>
   </tr>
