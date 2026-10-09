@@ -38,44 +38,50 @@
 <br>
 
 <table width="100%">
-  <tr>
-    <!-- HOURLY WORK -->
-    <td width="25%" align="center" bgcolor="#071022">
-      <br>
-      <img src="https://img.icons8.com/color/48/clock--v1.png" width="44" height="44" alt="Hourly Work"/>
-      <br><br>
-      <p><b><font color="#94A3B8" size="3">Hourly Work</font></b></p>
-      <h1><font color="#38BDF8">$15</font> <font size="2" color="#64748B">/ hr</font></h1>
-      <br>
-    </td>
-    <!-- MONTHLY PROJECT -->
-    <td width="25%" align="center" bgcolor="#071022">
-      <br>
-      <img src="https://img.icons8.com/color/48/calendar--v1.png" width="44" height="44" alt="Monthly Project"/>
-      <br><br>
-      <p><b><font color="#94A3B8" size="3">Monthly Project</font></b></p>
-      <h1><font color="#38BDF8">$1,200</font> <font size="2" color="#64748B">/ mo</font></h1>
-      <br>
-    </td>
-    <!-- ARCHITECTURE REVIEW -->
-    <td width="25%" align="center" bgcolor="#071022">
-      <br>
-      <img src="https://img.icons8.com/color/48/search-more.png" width="44" height="44" alt="System Review"/>
-      <br><br>
-      <p><b><font color="#94A3B8" size="3">System Review</font></b></p>
-      <h1><font color="#38BDF8">$20</font> <font size="2" color="#64748B">/ review</font></h1>
-      <br>
-    </td>
-    <!-- CONSULTANCY -->
-    <td width="25%" align="center" bgcolor="#071022">
-      <br>
-      <img src="https://img.icons8.com/color/48/consultation.png" width="44" height="44" alt="Consultancy"/>
-      <br><br>
-      <p><b><font color="#94A3B8" size="3">Consultancy</font></b></p>
-      <h1><font color="#38BDF8">$15</font> <font size="2" color="#64748B">/ 20 min</font></h1>
-      <br>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <!-- HOURLY WORK -->
+      <th width="25%" align="center" bgcolor="#071022">
+        <br>
+        <img src="https://img.icons8.com/color/48/clock--v1.png" width="44" height="44" alt="Hourly Work"/>
+        <br><br>
+        <font color="#94A3B8" size="3">Hourly Work</font>
+        <br><br>
+        <font color="#38BDF8" size="6"><b>$15</b></font> <font size="2" color="#64748B">/ hr</font>
+        <br><br>
+      </th>
+      <!-- MONTHLY PROJECT -->
+      <th width="25%" align="center" bgcolor="#071022">
+        <br>
+        <img src="https://img.icons8.com/color/48/calendar--v1.png" width="44" height="44" alt="Monthly Project"/>
+        <br><br>
+        <font color="#94A3B8" size="3">Monthly Project</font>
+        <br><br>
+        <font color="#38BDF8" size="6"><b>$1,200</b></font> <font size="2" color="#64748B">/ mo</font>
+        <br><br>
+      </th>
+      <!-- ARCHITECTURE REVIEW -->
+      <th width="25%" align="center" bgcolor="#071022">
+        <br>
+        <img src="https://img.icons8.com/color/48/search-more.png" width="44" height="44" alt="System Review"/>
+        <br><br>
+        <font color="#94A3B8" size="3">System Review</font>
+        <br><br>
+        <font color="#38BDF8" size="6"><b>$20</b></font> <font size="2" color="#64748B">/ review</font>
+        <br><br>
+      </th>
+      <!-- CONSULTANCY -->
+      <th width="25%" align="center" bgcolor="#071022">
+        <br>
+        <img src="https://img.icons8.com/color/48/consultation.png" width="44" height="44" alt="Consultancy"/>
+        <br><br>
+        <font color="#94A3B8" size="3">Consultancy</font>
+        <br><br>
+        <font color="#38BDF8" size="6"><b>$15</b></font> <font size="2" color="#64748B">/ 20 min</font>
+        <br><br>
+      </th>
+    </tr>
+  </thead>
 </table>
 
 ---
