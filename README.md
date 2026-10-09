@@ -5,8 +5,8 @@
 
   <h3><i>"Architecting High-Performance, Cost-Efficient AI Systems & Autonomous Multi-Agent Platforms"</i></h3>
 
-  <!-- CUSTOM LUXURY ARCHITECTURE MATRIX RIBBON -->
-  <img src="assets/architecture_ribbon.svg" width="100%" alt="Architecture Pillars"/>
+  <!-- CUSTOM LUXURY ARCHITECTURE MATRIX RIBBON (FULL SEO ALT & TITLE TAGS) -->
+  <img src="assets/architecture_ribbon.svg" width="100%" alt="Nadeem Ahmad - Autonomous Multi-Agent Systems, Self-Improving AI Pipelines DSPy, GEO and AEO Generative Engine Optimization, Distributed Web Crawlers in Go" title="Nadeem Ahmad Architecture Cores"/>
 
   <br><br>
 
