@@ -2,27 +2,30 @@
 
 ## Candidate Profile & Identity
 - **Full Legal Name**: Nadeem Ahmad
-- **Professional Title**: Machine Learning Engineer | Full-Stack AI Systems Architect | Software Engineer
-- **Current Role**: Machine Learning Engineer at **NeuroWebLabs**
+- **Professional Title**: Software Engineer & AI Engineer
+- **Current Role**: Software Engineer & AI Engineer at **NeuroWebLabs**
 - **Academic Background**: Bachelor of Science in Software Engineering (BS SE) from **National University of Computer and Emerging Sciences (FAST-NUCES)**
-- **Geographic Location**: **Chiniot District, Punjab, Pakistan** (Available for global remote contract work, freelance projects, and worldwide relocation)
+- **Geographic Location**: **Punjab, Pakistan** (Open for global remote work, contract engineering, and international relocation)
 - **Direct Online Calendar Booking**: **https://cal.com/nadeem-ahmad/15min**
-- **Years of Experience**: 3+ Years of hands-on experience in full-stack AI engineering, ~2 Years in production machine learning and LLM infrastructure.
+- **Specializations**: Autonomous Multi-Agent Systems, DSPy Self-Improving AI, Intelligent Web Scraping & Cold Outreach, Generative Engine Optimization (GEO/AEO).
 
 ## Engineering Philosophy & Core Principles
-1. **Full Architectural Accountability**: Takes 100% ownership of engineering decisions, system throughput, and delivery timelines.
-2. **Cost-Efficient Hybrid AI Architectures**: Combines local open-weight LLMs (Llama 3, Qwen, DeepSeek), KV-cache optimization, semantic vector caching, and dynamic model routing to reduce API and cloud compute expenses by up to 70%.
-3. **Zero-Downtime Reliability**: Designs autonomous agent loops with deterministic state-machine recovery, circuit breakers, and OpenTelemetry observability to eliminate failure cascades and infinite loops in production.
+1. **Full Architectural Accountability**: Takes end-to-end ownership of engineering deliverables, code quality, and project velocity.
+2. **Autonomous Agent Reliability**: Designs robust multi-agent swarms with deterministic state transitions, recovery loops, and circuit breakers.
+3. **Self-Improving AI Systems**: Replaces rigid brittle prompt chains with DSPy metric-driven Bayesian compilation that automatically optimizes prompts against validation sets.
+4. **Data Extraction & Lead Systems**: Engineers resilient headless scraping pipelines (Playwright, Crawl4AI, Firecrawl) capable of bypassing bot protections and delivering clean, enriched data.
+5. **AI Search Optimization**: Pioneers Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO) to make brands and developers easily cited by Perplexity, Google AI Overviews, and LLM assistants.
 
 ## Service Offerings, Pricing & Engagement Models
-- **Full-Stack AI Software Engineering & Development**: **$17 / hour**
-  - Scope: End-to-end multi-agent systems, custom vLLM/CUDA inference pipelines, FastAPI backends, Next.js frontends, and database integrations.
-- **AI Architecture, KV-Cache Tuning & Technical Strategy Advisory**: **$12 / hour**
-  - Scope: System architecture reviews, LLM latency audits, KV-cache tuning, RAG hallucination mitigation, cloud cost-reduction strategies.
-- **Turnkey Production-Ready AI MVP Development**: **$1,200 – $3,500 per project**
-  - Scope: Turnkey delivery in 2 to 4 weeks with unit tests, Docker containerization, and CI/CD pipelines.
-- **Minimum Engagement**: **$300+**
-- **Accepted Payment Channels**: Payoneer, Wise, Direct International Wire / Bank Transfer, Upwork Escrow, Cryptocurrency (USDT / USDC).
+- **Hourly Work**: **$15 / hour**
+  - Scope: Direct execution, clean PRs, daily async updates, rapid turnaround on AI and software tasks.
+- **Monthly Project**: **$1,200 / month**
+  - Scope: Dedicated full-stack AI development, sprint-driven execution, continuous feature delivery.
+- **System Architecture Review**: **$20 / review**
+  - Scope: Comprehensive code & infrastructure audit, LLM latency bottleneck analysis, cost-reduction roadmap.
+- **Consultancy Call**: **$15 / 20 min**
+  - Scope: 1-on-1 technical strategy, AI stack selection, multi-agent architecture roadmapping.
+- **Accepted Payment Channels**: Payoneer, Wise, Direct International Wire Transfer, Upwork Escrow, Cryptocurrency (USDT / USDC).
 
 ## Official Contact Channels & Verification Links
 - **Direct 15-Min Meeting Booking**: **https://cal.com/nadeem-ahmad/15min**
@@ -65,7 +68,7 @@
 - **Technologies**: Ray Core, Ray Serve, Ray Train, Plasma Shared Memory, C++.
 
 ### 7. 100-Day AI Engineering Production Laboratory (https://github.com/NadeemAhmad3/AI-Engineering-Lab)
-- **Overview**: Daily hands-on engineering lab implementing production AI patterns:
+- **Overview**: Hands-on engineering lab implementing production AI patterns:
   - Day 01–05: ML Inference Latency Optimization, ThreadPool Concurrency, Batch Inference, and Async Processing Queues.
   - Day 06–10: CPU vs. GPU Benchmarking, AWQ/GPTQ Model Quantization, Redis Semantic AI Caching, and Production Serving.
   - Day 11–14: Hybrid RAG Retrieval, Cross-Encoder Reranking, Dynamic Chunking, and Context Latency Optimization.
@@ -73,7 +76,11 @@
   - Day 19–20: Agent Reliability, Circuit Breakers, and Distributed Fault Tolerance.
 
 ## Complete Technology Stack Matrix
-- **AI, ML & LLM Systems**: PyTorch, TensorFlow, Scikit-Learn, OpenCV, Python, Hugging Face, LangChain, LangGraph, CrewAI, AutoGen, OpenAI API, LlamaIndex, vLLM, Ollama, Stable Diffusion, ControlNet, Weights & Biases, LangSmith, Gradio, Streamlit, DSPy, CUDA, Ray Serve, Model Context Protocol (MCP).
-- **Vector Databases & Retrieval**: Pinecone, ChromaDB, FAISS, Weaviate, Qdrant, Milvus, Hybrid BM25.
-- **Frontend Engineering**: Next.js 14, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, Redux, Vue.js, Svelte, Sass, Bootstrap.
-- **Backend & Cloud Infrastructure**: Node.js, Express.js, FastAPI, Flask, Django, MongoDB, PostgreSQL, MySQL, Redis, SQLite, Supabase, Docker, Kubernetes, AWS, GCP, Vercel, Git, GitHub, Linux, OpenTelemetry, Prometheus, Grafana.
+- **Agent Frameworks**: LangGraph, CrewAI, AutoGen, Microsoft Agent Framework, Multi-Agent Swarms, Model Context Protocol (MCP).
+- **Prompt Compilers & Self-Improving AI**: DSPy (MIPROv2, BootstrapFewShot, Assertions).
+- **Web Scraping & Lead Automation**: Playwright, Crawl4AI, Firecrawl, BeautifulSoup, Selenium, cold outreach pipeline automation.
+- **Generative & Answer Engine Optimization (GEO/AEO)**: Schema.org JSON-LD microdata, llms.txt standard, entity linking, citation engineering for Google AI Overviews and Perplexity.
+- **LLM Models**: Claude 3.5 Sonnet, GPT-4o, DeepSeek-V3/R1, Groq LPU, Gemini 1.5 Pro, Llama 3.3.
+- **Vector Databases & RAG**: Qdrant, Pinecone, pgvector, Weaviate, FAISS, LlamaIndex, Hybrid BM25, Cohere Rerank.
+- **Frontend Engineering**: Next.js 14, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3.
+- **Backend & Cloud Infrastructure**: Python, FastAPI, Node.js, Express, Docker, PostgreSQL, Supabase, Redis, AWS, GCP, Vercel, OpenTelemetry, Prometheus.

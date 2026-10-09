@@ -2,15 +2,27 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "ProfilePage",
+      "@id": "https://github.com/NadeemAhmad3#profilepage",
+      "url": "https://github.com/NadeemAhmad3",
+      "name": "Nadeem Ahmad — Software Engineer & AI Engineer Profile",
+      "mainEntity": {
+        "@id": "https://github.com/NadeemAhmad3/#person"
+      },
+      "dateCreated": "2024-01-01T00:00:00+00:00",
+      "dateModified": "2026-10-09T00:00:00+00:00"
+    },
+    {
       "@type": "Person",
       "@id": "https://github.com/NadeemAhmad3/#person",
       "name": "Nadeem Ahmad",
       "givenName": "Nadeem",
       "familyName": "Ahmad",
-      "jobTitle": "Machine Learning Engineer & Full-Stack AI Systems Architect",
-      "description": "Machine Learning Engineer at NeuroWebLabs and Software Engineering Scholar at FAST-NUCES from Chiniot, Pakistan. Specializes in Autonomous Multi-Agent Control Planes, High-Throughput vLLM & CUDA Inference, Universal AI Gateways, and Enterprise Hybrid RAG.",
+      "jobTitle": "Software Engineer & AI Engineer",
+      "description": "Software Engineer & AI Engineer at NeuroWebLabs and FAST-NUCES alumnus from Punjab, Pakistan. Specializes in Autonomous Multi-Agent Systems, DSPy Self-Improving AI, Intelligent Web Scraping & Cold Outreach, and Generative Engine Optimization (GEO/AEO).",
+      "disambiguatingDescription": "Software Engineer and AI Engineer specializing in Autonomous Multi-Agent Workflows, DSPy Prompt Optimization, Web Scraping Automation, and Generative Engine Optimization (GEO/AEO).",
       "url": "https://nadeem-ahmad3.vercel.app/",
-      "image": "https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_splash.png",
+      "image": "https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_seated.png",
       "email": "engrnadeem26@gmail.com",
       "telephone": "+923174388725",
       "worksFor": {
@@ -37,62 +49,77 @@
       ],
       "potentialAction": {
         "@type": "ScheduleAction",
-        "name": "Book 15-Min AI Architecture & Strategy Consultation",
+        "name": "Book 1-on-1 AI Architecture & Strategy Consultation",
         "target": "https://cal.com/nadeem-ahmad/15min"
       },
       "knowsAbout": [
-        "Machine Learning",
-        "Generative AI",
+        "Software Engineering",
         "Autonomous Multi-Agent Systems",
-        "Large Language Model Inference (vLLM, CUDA)",
-        "Retrieval-Augmented Generation (RAG, LlamaIndex)",
+        "DSPy Prompt Compilation & Optimization",
+        "Intelligent Web Scraping (Playwright, Crawl4AI, Firecrawl)",
+        "Generative Engine Optimization (GEO)",
+        "Answer Engine Optimization (AEO)",
+        "Retrieval-Augmented Generation (RAG, LlamaIndex, Qdrant)",
+        "High-Throughput LLM Inference (vLLM, CUDA)",
         "AI Gateways & Proxy Servers (LiteLLM)",
-        "Prompt Compilation & DSPy",
-        "OpenTelemetry AI Observability",
         "FastAPI & Python",
-        "Next.js & React"
+        "Next.js & React",
+        "Cold Outreach & Lead Enrichment Automation"
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
-        "name": "AI Engineering Services & Pricing",
+        "name": "Software Engineering & AI Development Pricing",
         "itemListElement": [
           {
             "@type": "Offer",
-            "name": "Full-Stack AI Software Engineering",
-            "description": "Custom multi-agent workflows, vLLM inference backends, FastAPI microservices, and Next.js web applications.",
-            "price": "17.00",
+            "name": "Hourly Work",
+            "description": "Direct execution, clean PRs, daily async updates, and full-stack AI development.",
+            "price": "15.00",
             "priceCurrency": "USD",
             "priceSpecification": {
               "@type": "UnitPriceSpecification",
-              "price": "17.00",
+              "price": "15.00",
               "priceCurrency": "USD",
               "unitText": "HOUR"
             }
           },
           {
             "@type": "Offer",
-            "name": "AI Architecture, KV-Cache Tuning & Technical Strategy Consultancy",
-            "description": "System architecture design, LLM latency audits, KV-cache tuning, RAG hallucination mitigation, and cloud compute cost reduction.",
-            "price": "12.00",
-            "priceCurrency": "USD",
-            "priceSpecification": {
-              "@type": "UnitPriceSpecification",
-              "price": "12.00",
-              "priceCurrency": "USD",
-              "unitText": "HOUR"
-            }
-          },
-          {
-            "@type": "Offer",
-            "name": "Turnkey Production-Ready AI MVP Development",
-            "description": "Fixed-price end-to-end production AI MVP delivered in 2 to 4 weeks with tests, Docker containers, and CI/CD pipelines.",
+            "name": "Monthly Project",
+            "description": "Full architectural ownership, sprint-driven execution, and dedicated engineering throughput.",
             "price": "1200.00",
             "priceCurrency": "USD",
             "priceSpecification": {
-              "@type": "PriceSpecification",
-              "minPrice": "1200.00",
-              "maxPrice": "3500.00",
-              "priceCurrency": "USD"
+              "@type": "UnitPriceSpecification",
+              "price": "1200.00",
+              "priceCurrency": "USD",
+              "unitText": "MONTH"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "System Architecture Review",
+            "description": "Deep architecture audit, latency bottlenecks identification, and cloud cost-reduction roadmap.",
+            "price": "20.00",
+            "priceCurrency": "USD",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "20.00",
+              "priceCurrency": "USD",
+              "unitText": "REVIEW"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Consultancy Call",
+            "description": "1-on-1 technical strategy, stack recommendation, and AI implementation guidance.",
+            "price": "15.00",
+            "priceCurrency": "USD",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "price": "15.00",
+              "priceCurrency": "USD",
+              "unitText": "20 MIN"
             }
           }
         ]
@@ -101,12 +128,12 @@
     {
       "@type": "ProfessionalService",
       "@id": "https://github.com/NadeemAhmad3/#service",
-      "name": "Nadeem Ahmad AI Engineering & Consultancy",
+      "name": "Nadeem Ahmad Software & AI Engineering Services",
       "founder": "https://github.com/NadeemAhmad3/#person",
       "email": "engrnadeem26@gmail.com",
       "telephone": "+923174388725",
       "url": "https://cal.com/nadeem-ahmad/15min",
-      "priceRange": "$12 - $17/hr",
+      "priceRange": "$15/hr • $1,200/mo • $20 review • $15 consultancy",
       "paymentAccepted": "Payoneer, Wise, Direct Bank Wire Transfer, Upwork, Cryptocurrency (USDT, USDC)",
       "currenciesAccepted": "USD, EUR, GBP, AED, PKR",
       "areaServed": "Global (Worldwide Remote)"

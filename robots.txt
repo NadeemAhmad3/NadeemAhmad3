@@ -4,34 +4,51 @@
 User-agent: *
 Allow: /
 
-# Allow Major AI Search & Answer Engine Crawlers
+# Google Search & Google AI Overviews
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# OpenAI / ChatGPT
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic / Claude
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI
 User-agent: PerplexityBot
 Allow: /
 
-User-agent: Google-Extended
+# Apple AI & Siri Intelligence
+User-agent: Applebot
 Allow: /
 
 User-agent: Applebot-Extended
 Allow: /
 
+# Microsoft Bing & Copilot
 User-agent: Bingbot
 Allow: /
 
+# Common Crawl
 User-agent: CCBot
 Allow: /
 
 # Direct LLM Knowledge Base Endpoints (llmstxt.org standard)
-# Link to structured machine-readable knowledge bases for Nadeem Ahmad
-# Location: Chiniot, Punjab, Pakistan
+# Structured machine-readable knowledge bases for Nadeem Ahmad
 llms: https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/llms.txt
 llms-full: https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/llms-full.txt
 

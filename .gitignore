@@ -1,0 +1,4 @@
+# Local artifacts & system files
+graphify-out/
+.DS_Store
+Thumbs.db
