@@ -1,21 +1,38 @@
 <div align="center">
 
-  <!-- ULTRA-PREMIUM MATRIX NEON HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,25:004D40,50:10B981,75:00FF9D,100:0D1117&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Architect&descAlignY=62&descSize=19&descFontColor=A7F3D0&animation=fadeIn"/>
+  <!-- ULTRA-PREMIUM SAPPHIRE & CYAN HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:040813,25:0A192F,50:0284C7,75:38BDF8,100:040813&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer&descAlignY=62&descSize=21&descFontColor=BAE6FD&animation=fadeIn"/>
 
   <h3><i>"Architecting High-Performance, Cost-Efficient AI Systems & Autonomous Multi-Agent Platforms"</i></h3>
+  <p>
+    <b>
+      <font color="#38BDF8">Self-Improving AI Pipelines (DSPy)</font> &nbsp;•&nbsp; 
+      <font color="#60A5FA">Generative Search Intelligence (AEO & GEO)</font> &nbsp;•&nbsp; 
+      <font color="#38BDF8">Distributed Crawlers & Scale</font>
+    </b>
+  </p>
 
-  <!-- ANIMATED HACKER TYPING SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=880&lines=Building+Production-Grade+Multi-Agent+Control+Planes;High-Performance+LLM+Inference+%7C+vLLM+%7C+PagedAttention+%7C+CUDA;Universal+AI+Gateways+%7C+LiteLLM+Proxy+%7C+Sub-8ms+P95+Latency;Enterprise+Hybrid+RAG+%7C+LlamaIndex+%7C+Cross-Encoder+Reranking;100-Day+AI+Engineering+Lab+%7C+Architecture+%E2%86%92+Engineering+%E2%86%92+Production"/>
+  <!-- INDEXABLE ARCHITECTURE CORES STRIP -->
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" bgcolor="#071022" style="border: 1px solid #1E3A8A; border-radius: 8px; padding: 12px;">
+        <code><b>&gt; ARCHITECTURE CORES:</b></code> &nbsp;
+        <a href="https://github.com/NadeemAhmad3/ai-agent-control-plane"><b><font color="#38BDF8">Autonomous Agent Control Planes</font></b></a> &bull; 
+        <a href="https://github.com/NadeemAhmad3/self-improving-ai-pipelines"><b><font color="#60A5FA">Self-Improving LM Compilers (DSPy)</font></b></a> &bull; 
+        <a href="https://github.com/NadeemAhmad3/GEO_Audit"><b><font color="#38BDF8">GEO / AEO Search Auditing</font></b></a> &bull; 
+        <b><font color="#60A5FA">High-Scale Distributed Crawlers (Go)</font></b>
+      </td>
+    </tr>
+  </table>
 
-  <br><br>
+  <br>
 
-  <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER -->
+  <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER (SAPPHIRE THEME) -->
   <a href="https://cal.com/nadeem-ahmad/15min">
-    <img src="https://img.shields.io/badge/Book_15--Min_Call-00FF9D?style=for-the-badge&logo=googlecalendar&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Book_15--Min_Call-0284C7?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
   </a>
   <a href="https://nadeem-ahmad3.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-004D40?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
   </a>
   <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,7 +44,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=00897b&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS"/>
 
 </div>
 
