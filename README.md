@@ -33,65 +33,50 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <h2>🎯 Work With Me</h2>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://cal.com/nadeem-ahmad/15min"><img src="https://img.shields.io/badge/Cal.com-Book_Intro_Call-0284C7?style=for-the-badge&logo=calendar&logoColor=white" height="28"/></a>
-    </td>
-  </tr>
-</table>
+## 🎯 Pricing <a href="https://cal.com/nadeem-ahmad/15min"><img align="right" src="https://img.shields.io/badge/Cal.com-Book_Intro_Call-0284C7?style=for-the-badge&logo=calendar&logoColor=white" height="28"/></a>
 
-<div align="center">
+<br>
 
 <table width="100%">
   <tr>
     <!-- HOURLY WORK -->
-    <td width="25%" align="center" bgcolor="#071022" valign="middle">
+    <td width="25%" align="center" bgcolor="#071022">
       <br>
-      <img src="https://img.icons8.com/color/48/clock--v1.png" width="36" height="36" alt="Hourly Work"/>
+      <img src="https://img.icons8.com/color/48/clock--v1.png" width="44" height="44" alt="Hourly Work"/>
       <br><br>
-      <b><font color="#94A3B8" size="3">Hourly Work</font></b>
-      <br><br>
-      <h2><font color="#38BDF8">$15</font> <font size="2" color="#64748B">/ hr</font></h2>
+      <p><b><font color="#94A3B8" size="3">Hourly Work</font></b></p>
+      <h1><font color="#38BDF8">$15</font> <font size="2" color="#64748B">/ hr</font></h1>
       <br>
     </td>
     <!-- MONTHLY PROJECT -->
-    <td width="25%" align="center" bgcolor="#071022" valign="middle">
+    <td width="25%" align="center" bgcolor="#071022">
       <br>
-      <img src="https://img.icons8.com/color/48/calendar--v1.png" width="36" height="36" alt="Monthly Project"/>
+      <img src="https://img.icons8.com/color/48/calendar--v1.png" width="44" height="44" alt="Monthly Project"/>
       <br><br>
-      <b><font color="#94A3B8" size="3">Monthly Project</font></b>
-      <br><br>
-      <h2><font color="#38BDF8">$1,200</font> <font size="2" color="#64748B">/ mo</font></h2>
+      <p><b><font color="#94A3B8" size="3">Monthly Project</font></b></p>
+      <h1><font color="#38BDF8">$1,200</font> <font size="2" color="#64748B">/ mo</font></h1>
       <br>
     </td>
     <!-- ARCHITECTURE REVIEW -->
-    <td width="25%" align="center" bgcolor="#071022" valign="middle">
+    <td width="25%" align="center" bgcolor="#071022">
       <br>
-      <img src="https://img.icons8.com/color/48/search-more.png" width="36" height="36" alt="System Review"/>
+      <img src="https://img.icons8.com/color/48/search-more.png" width="44" height="44" alt="System Review"/>
       <br><br>
-      <b><font color="#94A3B8" size="3">System Review</font></b>
-      <br><br>
-      <h2><font color="#38BDF8">$20</font> <font size="2" color="#64748B">/ review</font></h2>
+      <p><b><font color="#94A3B8" size="3">System Review</font></b></p>
+      <h1><font color="#38BDF8">$20</font> <font size="2" color="#64748B">/ review</font></h1>
       <br>
     </td>
     <!-- CONSULTANCY -->
-    <td width="25%" align="center" bgcolor="#071022" valign="middle">
+    <td width="25%" align="center" bgcolor="#071022">
       <br>
-      <img src="https://img.icons8.com/color/48/consultation.png" width="36" height="36" alt="Consultancy"/>
+      <img src="https://img.icons8.com/color/48/consultation.png" width="44" height="44" alt="Consultancy"/>
       <br><br>
-      <b><font color="#94A3B8" size="3">Consultancy</font></b>
-      <br><br>
-      <h2><font color="#38BDF8">$15</font> <font size="2" color="#64748B">/ 20 min</font></h2>
+      <p><b><font color="#94A3B8" size="3">Consultancy</font></b></p>
+      <h1><font color="#38BDF8">$15</font> <font size="2" color="#64748B">/ 20 min</font></h1>
       <br>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
