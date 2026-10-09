@@ -166,18 +166,13 @@
 
 <div align="center">
 
-  <table width="100%">
-    <tr>
-      <td align="center" bgcolor="#071022">
-        <br>
-        <font color="#38BDF8" size="4"><b>Ready to build scalable AI systems, multi-agent workflows, or audit your architecture?</b></font><br><br>
-        <font color="#94A3B8" size="3">Let's discuss engineering roadmaps, model optimizations, and real business outcomes.</font><br><br>
-        <a href="https://cal.com/nadeem-ahmad/15min"><img src="https://img.shields.io/badge/Cal.com-Schedule_15--Min_Strategy_Call-0284C7?style=for-the-badge&logo=calendar&logoColor=white" height="32"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
-        <br><br>
-      </td>
-    </tr>
-  </table>
+  <br>
+
+  <h3>
+    <font color="#94A3B8"><i>"Architecting the future through</i></font>
+    <font color="#38BDF8"><b> Autonomous Intelligence </b></font>
+    <font color="#94A3B8"><i>and resilient systems."</i></font>
+  </h3>
 
   <br>
 
