@@ -5,10 +5,16 @@
 
   <h3><i>"Architecting High-Performance, Cost-Efficient AI Systems & Autonomous Multi-Agent Platforms"</i></h3>
 
-  <!-- CUSTOM LUXURY ARCHITECTURE MATRIX RIBBON (FULL RAW GITHUB ASSET URL & SEO TAGS) -->
-  <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/architecture_ribbon.svg" width="100%" alt="Nadeem Ahmad - Autonomous Multi-Agent Systems, Self-Improving AI Pipelines DSPy, GEO and AEO Generative Engine Optimization, Distributed Web Crawlers in Go" title="Nadeem Ahmad Architecture Cores"/>
+  <p align="center">
+    <code>⚡ Autonomous Multi-Agent Systems</code> &nbsp;&bull;&nbsp; 
+    <code>🔄 Self-Improving AI Pipelines (DSPy)</code> &nbsp;&bull;&nbsp; 
+    <code>🌐 GEO & AEO Search Intelligence</code>
+    <br><br>
+    <code>🚀 High-Scale Distributed Crawlers (Go)</code> &nbsp;&bull;&nbsp; 
+    <code>🛡️ Deterministic Execution &amp; Production Scale</code>
+  </p>
 
-  <br><br>
+  <br>
 
   <!-- TIGHTLY ALIGNED ACTION BADGES & VIEWS COUNTER (SAPPHIRE THEME) -->
   <a href="https://cal.com/nadeem-ahmad/15min">
