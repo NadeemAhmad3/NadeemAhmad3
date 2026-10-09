@@ -22,11 +22,11 @@
     <td width="64%" valign="middle">
       <img src="https://raw.githubusercontent.com/NadeemAhmad3/NadeemAhmad3/main/assets/profile_info_card.png" width="100%" alt="Organization, Education, Location"/><br><br>
       <b><font color="#38BDF8">⚡ Click to Connect &amp; Collaborate:</font></b><br><br>
-      <a href="https://cal.com/nadeem-ahmad/15min" title="Book 15-Min Strategy"><img src="https://img.shields.io/badge/Cal.com-0284C7?style=for-the-badge&logo=calendar&logoColor=white" height="28"/></a> &nbsp;
-      <a href="https://www.linkedin.com/in/nadeem-ahmad3/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a> &nbsp;
-      <a href="https://nadeem-ahmad3.vercel.app/" title="Live Portfolio"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a> &nbsp;
-      <a href="mailto:engrnadeem26@gmail.com" title="Direct Email"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a> &nbsp;
-      <a href="https://wa.me/923174388725" title="WhatsApp Direct"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/></a>
+      <a href="https://cal.com/nadeem-ahmad/15min" title="Book 15-Min Strategy"><img src="https://img.icons8.com/color/48/calendar--v1.png" width="34" height="34" alt="Cal.com"/></a> &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/nadeem-ahmad3/" title="LinkedIn Profile"><img src="https://img.icons8.com/color/48/linkedin.png" width="34" height="34" alt="LinkedIn"/></a> &nbsp;&nbsp;
+      <a href="https://nadeem-ahmad3.vercel.app/" title="Live Portfolio"><img src="https://img.icons8.com/color/48/domain--v1.png" width="34" height="34" alt="Portfolio"/></a> &nbsp;&nbsp;
+      <a href="mailto:engrnadeem26@gmail.com" title="Direct Email"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="34" height="34" alt="Gmail"/></a> &nbsp;&nbsp;
+      <a href="https://wa.me/923174388725" title="WhatsApp Direct"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="34" height="34" alt="WhatsApp"/></a>
     </td>
   </tr>
 </table>
