@@ -138,9 +138,9 @@
   <img src="https://skillicons.dev/icons?i=redis,supabase,docker,kubernetes,aws,gcp,vercel,git"/>
 </p>
 
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) &nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) &nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) &nbsp;
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
 </div>
@@ -151,19 +151,16 @@
 
 <div align="center">
   <!-- ROW 1: OVERVIEW STATS & MOST USED LANGUAGES -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=dark&hide_border=true&bg_color=030a08&stroke=00897b&title_color=00FF9D&icon_color=00FF9D&text_color=80cbc4" width="48%"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NadeemAhmad3&layout=compact&theme=dark&hide_border=true&bg_color=030a08&stroke=00897b&title_color=00FF9D&text_color=80cbc4" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NadeemAhmad3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071022&stroke=0284C7&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NadeemAhmad3&layout=compact&theme=tokyonight&hide_border=true&bg_color=071022&stroke=0284C7&title_color=38BDF8&text_color=94A3B8" width="49%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- ROW 2: STREAK STATS & ACTIVITY GRAPH -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=dark&hide_border=true&stroke=00897b&ring=00897b&fire=4DB6AC&currStreakLabel=00897b&background=030a08" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=030a08&color=00897b&line=00897b&point=4DB6AC&hide_border=true&area=true&area_color=004D4055" width="48%"/>
+  <!-- ROW 2: STREAK STATS -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=tokyonight&hide_border=true&stroke=0284C7&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=071022" width="70%"/>
 </div>
-
-
 
 ---
 
@@ -171,6 +168,8 @@
 
 **⭐ Star what helps you. Fork what inspires you.**
 
-</div>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030a08,50:004d40,100:030a08&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040813,25:0A192F,50:0284C7,75:38BDF8,100:040813&height=100&section=footer"/>
+
+</div>
